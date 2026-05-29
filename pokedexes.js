@@ -9,6 +9,9 @@ let pageSize = 30;
 let currentPage = 1;
 let pageMode = false; 
 let bulkModeActive = false;
+let showMissingOnly = false;
+let activeListFilter = null;
+let pokemonFilters = {};
 
 const dexTypes = [
     { key: "masterDex", label: "MasterDex" },
@@ -213,90 +216,73 @@ function createPokemonCards(pokemonList) {
     });
 }
 
+function renderCards() {
+
+    const query = searchInput.value.toLowerCase();
+
+    const start = pageMode ? (currentPage - 1) * pageSize : 0;
+    const end = pageMode ? start + pageSize : Infinity;
+
+    let index = 0;
+
+    cardMap.forEach((card, name) => {
+
+        const key = normalizeName(name);
+        const data = savedDexData[key] || {};
+
+        const pokemonData = allPokemon.find(p => normalizeName(p.name) === key);
+        const games = pokemonData?.games || [];
+
+        // SEARCH
+        const matchesSearch = imageName(name).includes(query);
+
+        // GAME FILTER
+        const matchesGame = Object.entries(gameFilterState).every(([game, mode]) => {
+            const hasGame = games.includes(game);
+            return mode === "include" ? hasGame : !hasGame;
+        });
+
+        // LIST FILTER (FIX)
+        let matchesList = true;
+        if (activeListFilter) {
+            const allowed = pokemonFilters[activeListFilter] || [];
+            matchesList = allowed.includes(key);
+        }
+
+        // MISSING FILTER (FIXED)
+        let matchesMissing = true;
+
+        if (activeDexEdit && showMissingOnly) {
+            const isOwned =
+                activeDexEdit === "shinyDex"
+                    ? !!data.shinyDex
+                    : !!data[activeDexEdit];
+
+            matchesMissing = !isOwned;
+        }
+
+        // PAGINATION
+        const inPage = !pageMode || (index >= start && index < end);
+        index++;
+
+        const visible =
+            matchesSearch &&
+            matchesGame &&
+            matchesList &&
+            matchesMissing &&
+            inPage;
+
+        card.style.display = visible ? "block" : "none";
+    });
+}
 
 // ---------------------------
 // FILTER
 // ---------------------------
 function filterPokemon(value) {
-
-    const query = value.toLowerCase();
-
-    cardMap.forEach((card, name) => {
-
-        if (imageName(name).includes(query)) {
-            card.style.display = "block";
-        } else {
-            card.style.display = "none";
-        }
-
-    });
+    searchInput.value = value;
+    renderCards();
 }
-
-function applyListFilter() {
-
-    if (!activeListFilter) {
-        cardMap.forEach(card => {
-            card.style.display = "block";
-        });
-        return;
-    }
-
-    const allowed = pokemonFilters[activeListFilter];
-
-    cardMap.forEach((card, name) => {
-
-        const key = normalizeName(name);
-
-        if (allowed.includes(key)) {
-            card.style.display = "block";
-        } else {
-            card.style.display = "none";
-        }
-
-    });
-}
-
-function applyFilters() {
-
-    const query = searchInput.value.toLowerCase();
-
-    cardMap.forEach((card, name) => {
-
-        const key = normalizeName(name);
-
-        const pokemonData = allPokemon.find(p => normalizeName(p.name) === key);
-
-        const games = pokemonData?.games || [];
-
-        const matchesSearch =
-            imageName(name).includes(query);
-
-        const matchesGame = (() => {
-
-            const entries = Object.entries(gameFilterState);
-
-            if (entries.length === 0) return true;
-
-            return entries.every(([game, mode]) => {
-
-                const hasGame = games.includes(game);
-
-                if (mode === "include") return hasGame;
-                if (mode === "exclude") return !hasGame;
-
-                return true;
-            });
-
-        })();
-
-        if (matchesSearch && matchesGame) {
-            card.style.display = "block";
-        } else {
-            card.style.display = "none";
-        }
-    });
-}
-
 
 // ---------------------------
 // CLOSE MODAL
@@ -397,15 +383,14 @@ modalOverlay.addEventListener("click", (e) => {
 const searchInput = document.getElementById("search");
 
 searchInput.addEventListener("input", (e) => {
-    applyFilters(e.target.value);
+    renderCards();
 });
 
 const clearBtn = document.getElementById("clear-search");
 
 clearBtn.addEventListener("click", () => {
-
     searchInput.value = "";
-    applyFilters("");
+    renderCards();
 });
 
 
@@ -429,7 +414,9 @@ function createProgressUI() {
 
                 <div class="dex-controls">
                     <span class="percent">0%</span>
+
                     <button class="edit-btn">Edit</button>
+                    <button class="missing-btn">Missing</button>
                 </div>
             </div>
 
@@ -443,6 +430,24 @@ function createProgressUI() {
         container.appendChild(el);
     });
 
+}
+
+function applyMissingFilter() {
+
+    if (!activeDexEdit || !showMissingOnly) return;
+
+    cardMap.forEach((card, name) => {
+
+        const key = normalizeName(name);
+        const data = savedDexData[key] || {};
+
+        const isMissing =
+            activeDexEdit === "shinyDex"
+                ? !data.shinyDex
+                : !data[activeDexEdit];
+
+        card.style.display = isMissing ? "block" : "none";
+    });
 }
 
 document.addEventListener("click", (e) => {
@@ -471,6 +476,27 @@ document.addEventListener("click", (e) => {
     );
 
     updateProgress();          
+    updateCardHighlights();
+    updateBulkButtonText();
+});
+
+document.addEventListener("click", (e) => {
+
+    const btn = e.target.closest(".missing-btn");
+    if (!btn) return;
+
+    const dexType = btn.closest(".dex-progress").dataset.dex;
+
+    // If switching dex type → keep missing mode ON
+    if (activeDexEdit !== dexType) {
+        activeDexEdit = dexType;
+        showMissingOnly = true;
+    } 
+    // If clicking same dex → toggle missing mode only
+    else {
+        showMissingOnly = !showMissingOnly;
+    }
+
     updateCardHighlights();
     updateBulkButtonText();
 });
@@ -611,6 +637,7 @@ function updateCardHighlights() {
             card.classList.add("complete-blue");
         }
     });
+    renderCards();
 }
 
 function renderModalState(pokemonKey) {
@@ -689,7 +716,7 @@ function createFilterButtons() {
                 gameFilterState[game.key] = "include";
             }
 
-            applyFilters();
+            renderCards();
             updateGameButtonHighlight();
         });
 
@@ -710,7 +737,7 @@ function createFilterButtons() {
                 gameFilterState[game.key] = "exclude";
             }
 
-            applyFilters();
+            renderCards();
             updateGameButtonHighlight();
         });
 
@@ -743,7 +770,7 @@ function createFilterButtons() {
 
         boxContainer.classList.remove("shiny-edit-layout");
 
-        applyFilters();
+        renderCards();
         updateGameButtonHighlight();
         updateCardHighlights();
         updateProgress();
@@ -835,6 +862,7 @@ function applyPagination() {
     });
 
     document.getElementById("page-display").textContent = currentPage;
+    renderCards();
 }
 
 function updateModeUI() {
