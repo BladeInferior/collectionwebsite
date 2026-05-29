@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Pokemon Tracker</title>
+
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body class="pokemon-page">
+
+    <h1>Pokemon HOME Tracker</h1>
+
+    <div id="search-wrapper">
+        <input id="search" type="text" placeholder="Search Pokémon..." />
+        <span id="clear-search">✕</span>
+    </div>
+
+    <a id="home-icon" href="home.html" title="Home">🏠</a>
+
+    <div id="progress-container"></div>
+
+    <div id="page-controls">
+
+        <button id="list-mode">List Mode</button>
+        <button id="page-mode">Page Mode</button>
+        <input type="file" id="import-pokedex" accept=".json">
+        <button id="export-pokedex">Export Pokémon</button>
+
+        <div id="pagination-controls">
+
+            <button id="prev-page">◀</button>
+            <span id="page-display">1</span>
+            <button id="next-page">▶</button>
+
+        </div>
+
+        <button id="bulk-apply">Select All</button>
+
+    </div>
+
+    <div id="box-container"></div>
+
+    <div id="game-filter-container"></div>
+
+    <div id="modal-overlay" class="hidden">
+
+        <div id="pokemon-modal">
+
+            <div class="modal-left">
+
+                <div id="modal-name"></div>
+
+                <img id="modal-image" src="">
+
+            </div>
+
+            <div class="modal-right">
+
+                <div class="dex-entry inactive" data-dex="masterDex">
+                    <div class="dex-icon">📘</div>
+                    <div class="dex-name">MasterDex</div>
+                </div>
+
+                <div class="dex-entry inactive" data-dex="shinyDex">
+
+                    <div class="dex-icon">✨</div>
+                    <div class="dex-name">Shiny Dex</div>
+
+                </div>
+
+                <div class="shiny-variants">
+
+                    <div class="variant" data-variant="red">
+                        <img class="dot"src="icons/rampardos.png">
+                        <span class="label">Correct Stage</span>
+                    </div>
+
+                    <div class="variant" data-variant="blue">
+                        <img class="dot"src="icons/Arceus_mark_HOME.png">
+                        <span class="label">Home Region</span>
+                    </div>
+
+                    <div class="variant" data-variant="yellow">
+                        <img class="dot"src="icons/luxuryball.png">
+                        <span class="label">Luxury Ball</span>
+                    </div>
+
+                </div>
+
+                <div class="dex-entry inactive" data-dex="tradeDex">
+                    <div class="dex-icon">🔄</div>
+                    <div class="dex-name">Trade Dex</div>
+                </div>
+
+                <div class="dex-entry inactive" data-dex="wonderTradeDex">
+                    <div class="dex-icon">🎁</div>
+                    <div class="dex-name">Wonder Trade Dex</div>
+                </div>
+
+                <div class="dex-entry inactive" data-dex="pogoDex">
+                    <div class="dex-icon">📱</div>
+                    <div class="dex-name">PoGo Dex</div>
+                </div>
+
+                <div class="dex-entry inactive" data-dex="cherishDex">
+                    <div class="dex-icon">🏀</div>
+                    <div class="dex-name">Cherish Dex</div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="pokedexes.js"></script>
+
+</body>
+</html>

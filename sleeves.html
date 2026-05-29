@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Sleeve Tracker</title>
+
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body class="sleeves-page">
+
+    <h1>Pokémon Sleeve Tracker</h1>
+
+    <!-- =========================
+        SEARCH
+    ========================== -->
+    <div id="search-wrapper">
+        <input id="search" type="text" placeholder="Search Sleeves..." />
+        <span id="clear-search">✕</span>
+    </div>
+
+    <a id="home-icon" href="home.html" title="Home">🏠</a>
+
+    <button id="untagged-filter">Untagged</button>
+
+    <!-- =========================
+        MODE + PAGINATION 
+    ========================== -->
+
+    
+    <div id="page-controls">
+
+        <button id="list-mode">List Mode</button>
+        <button id="page-mode">Page Mode</button>
+
+        <div id="pagination-controls">
+
+            <button id="prev-page">◀</button>
+            <span id="page-display">1</span>
+            <button id="next-page">▶</button>
+
+        </div>
+
+        <!-- ADD SLEEVE BUTTON (replaces bulk apply) -->
+        <button id="add-sleeve">Add Sleeve</button>
+        <input type="file" id="import-sleeves" accept=".json">
+        <button id="export-sleeves">Export</button>
+
+    </div>
+
+    <!-- =========================
+        GRID
+    ========================== -->
+    <div id="box-container"></div>
+
+    <div id="add-sleeve-modal" class="hidden">
+
+        <div class="add-sleeve-box">
+
+            <h2 id="sleeve-modal-title">Add Sleeve</h2>
+
+            <div id="sleeve-error" class="hidden"></div>
+
+            <label>
+                Name
+                <input type="text" id="sleeve-name">
+            </label>
+
+            <label>
+                Date
+                <input type="date" id="sleeve-date">
+            </label>
+
+            <label>
+                Nationality
+                <input type="text" id="sleeve-nationality">
+            </label>
+
+            <label>
+                Tags (comma separated)
+                <input type="text" id="sleeve-tags">
+            </label>
+
+            <button id="preview-image-btn">View Image</button>
+
+            <div class="modal-buttons">
+                <button id="save-sleeve">Save</button>
+                <button id="cancel-sleeve">Cancel</button>
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- =========================
+        MODAL
+    ========================== -->
+    <div id="modal-overlay" class="hidden">
+
+        <div id="pokemon-modal">
+
+            <div class="modal-left">
+
+                <div id="modal-name"></div>
+
+                <img id="modal-image" src="">
+
+            </div>
+
+            <div class="modal-right">
+
+                <div class="sleeve-field">
+                    <strong>Date Released:</strong>
+                    <div id="modal-date"></div>
+                </div>
+
+                <div class="sleeve-field">
+                    <strong>Nationality:</strong>
+                    <div id="modal-nationality"></div>
+                </div>
+
+                <div class="sleeve-field">
+                    <strong>Tags:</strong>
+                    <div id="modal-tags"></div>
+                </div>
+
+                <div class="sleeve-actions">
+
+                    <button id="edit-sleeve" class="sleeve-action-btn">Edit Sleeve</button>
+                    <button id="delete-sleeve" class="sleeve-action-btn danger">Delete Sleeve</button>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div id="image-zoom-overlay" class="hidden">
+        <img id="zoom-image" />
+    </div>
+
+    <script src="sleeves.js"></script>
+
+</body>
+</html>
