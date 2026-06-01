@@ -616,7 +616,7 @@ h1 {
 }
 
 .sleeves-page.list-mode #box-container {
-    grid-template-columns: repeat(6, 170px);
+    grid-template-columns: repeat(6, 1fr);
     max-width: 1000px;
 }
 
