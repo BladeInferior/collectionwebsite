@@ -1099,7 +1099,9 @@ h1 {
     #page-mode,
     #pagination-controls,
     #import-items,
-    #export-items {
+    #export-items,
+    #add-item,
+    #untagged-filter {
         display: none;
     }
 
