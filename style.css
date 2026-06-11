@@ -1093,3 +1093,14 @@ h1 {
 .completions-page #pagination-controls {
     display: none !important;
 }
+
+@media (max-width: 768px) {
+
+    #page-mode,
+    #pagination-controls,
+    #import-items,
+    #export-items {
+        display: none;
+    }
+
+}
