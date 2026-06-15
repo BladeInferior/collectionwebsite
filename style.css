@@ -1179,6 +1179,8 @@ body::before {
     #pagination-controls,
     #import-items,
     #export-items,
+    #import-pokedex,
+    #export-pokedex,
     #add-item,
     #untagged-filter,
     #game-filter-container,
