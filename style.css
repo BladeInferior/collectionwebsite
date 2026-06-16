@@ -461,7 +461,7 @@ h1 {
 
 #page-controls {
     display: flex;
-    justify-content: center;
+
     align-items: center;
     gap: 10px;
     transition: opacity 0.2s ease;
@@ -1187,12 +1187,4 @@ body::before {
     #progress-container {
         display: none !important;
     }
-
-    #page-controls {
-        justify-content: flex-start;
-    }
-
-    
-
-
 }
