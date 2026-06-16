@@ -947,12 +947,20 @@ h1 {
     z-index: 10;
 }
 
-#modal-nav-left {
+.completions-page #modal-nav-left {
     left: 350px;
 }
 
 #modal-nav-right {
     right: 350px;
+}
+
+#modal-nav-left {
+    left: 530px;
+}
+
+#modal-nav-right {
+    right: 530px;
 }
 
 .modal-nav:hover {
