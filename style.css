@@ -844,7 +844,6 @@ h1 {
     transition: 0.2s ease;
 }
 
-/* when active */
 #untagged-filter.active {
     background: rgba(46, 204, 113, 0.2);
     border: 1px solid #2ecc71;
@@ -1189,16 +1188,11 @@ body::before {
         display: none !important;
     }
 
+    #page-controls {
+        justify-content: flex-start;
+    }
 
-
-
-
-
-
-
-
-
-
+    
 
 
 }
