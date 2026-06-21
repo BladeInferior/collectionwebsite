@@ -278,14 +278,82 @@ h1 {
     right: 20px;
 
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    align-items: flex-start;
 
     background: rgba(28, 31, 38, 0.9);
     border: 1px solid var(--border);
     backdrop-filter: blur(8px);
     border-radius: var(--radius);
-    padding: 6px 10px;
+    padding: 10px;
     z-index: 2000;
+}
+
+#search-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+#missing-filter-wrapper {
+    position: fixed;
+    top: 86px;
+    right: 20px;
+    z-index: 2000;
+    width: max-content;
+}
+
+#missing-dex-filter {
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: 1px solid #555;
+    background: #2d2d2d;
+    color: white;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: 0.15s ease;
+    text-align: center;
+    min-width: 220px;
+}
+
+#missing-dex-filter.active,
+#missing-dex-filter:hover {
+    opacity: 1;
+    border: 1px solid gold;
+    background: rgba(255, 215, 0, 0.15);
+}
+
+.game-filter-btn {
+    padding: 10px 12px;
+    min-height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    background: #2d2d2d;
+    border: 1px solid #555;
+    color: white;
+    cursor: pointer;
+    transition: 0.15s ease;
+}
+
+.game-filter-btn:hover {
+    opacity: 1;
+    border: 1px solid gold;
+    background: rgba(255, 215, 0, 0.15);
+    color: white;
+}
+
+.include-btn.game-filter-btn:hover {
+    background: rgba(46, 204, 113, 0.2);
+    border: 1px solid #2ecc71;
+    color: #2ecc71;
+}
+
+.exclude-btn.game-filter-btn:hover{
+    background: rgba(231, 76, 60, 0.2);
+    border: 1px solid #e74c3c;
+    color: #e74c3c;
 }
 
 #search {
@@ -323,9 +391,11 @@ h1 {
 
 .dex-progress {
     background: #2d2d2d;
-    padding: 8px;
-    border-radius: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #555;
     font-size: 12px;
+    transition: background 0.15s ease, border-color 0.15s ease;
 }
 
 .dex-title {
@@ -354,6 +424,24 @@ h1 {
     margin-top: 4px;
     font-size: 11px;
     opacity: 0.8;
+}
+
+.dex-controls .edit-btn {
+    padding: 6px 10px;
+    border-radius: 8px;
+    border: 1px solid #555;
+    background: #2d2d2d;
+    color: white;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: 0.15s ease;
+    font-size: 11px;
+}
+
+.dex-controls .edit-btn:hover {
+    opacity: 1;
+    border-color: gold;
+    background: rgba(255, 215, 0, 0.15);
 }
 
 .pokemon-card.active-dex {
@@ -466,6 +554,8 @@ h1 {
 }
 
 #page-controls {
+    position: relative;
+    width: min(1000px, calc(100% - 40px));
     display: flex;
     justify-content: center;
     align-items: center;
@@ -487,10 +577,29 @@ h1 {
 }
 
 #page-controls button.active-mode,
-#page-controls button:hover{
+#page-controls button:hover,
+#missing-dex-filter.active,
+#missing-dex-filter:hover {
     opacity: 1;
     border: 1px solid gold;
     background: rgba(255, 215, 0, 0.15);
+}
+
+#missing-dex-filter {
+    position: absolute;
+    right: -420px;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: 1px solid #555;
+    background: #2d2d2d;
+    color: white;
+    cursor: pointer;
+    opacity: 0.6;
+    transition: 0.15s ease;
+    text-align: center;
+    width: auto;
 }
 
 #page-display {

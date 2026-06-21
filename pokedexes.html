@@ -13,8 +13,10 @@
     <h1>Pokemon HOME Tracker</h1>
 
     <div id="search-wrapper">
-        <input id="search" type="text" placeholder="Search Pokémon..." />
-        <span id="clear-search">✕</span>
+        <div id="search-row">
+            <input id="search" type="text" placeholder="Search Pokémon..." />
+            <span id="clear-search">✕</span>
+        </div>
     </div>
 
     <a id="home-icon" href="index.html" title="Home">🏠</a>
@@ -28,6 +30,7 @@
         <input type="file" id="import-pokedex" accept=".json" hidden>
         <button id="import-button">Import</button>
         <button id="export-pokedex">Export Pokémon</button>
+        <button id="missing-dex-filter">Missing in Selected Dex</button>
 
         <div id="pagination-controls">
 

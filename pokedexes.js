@@ -5,6 +5,7 @@ let allPokemon = [];
 let cardMap = new Map();
 let currentPokemon = null;
 let activeDexEdit = null;
+let missingDexFilter = false;
 let pageSize = 30;
 let currentPage = 1;
 let pageMode = false; 
@@ -289,9 +290,23 @@ function applyFilters() {
         const pokemonData = allPokemon.find(p => normalizeName(p.name) === key);
 
         const games = pokemonData?.games || [];
+        const types = (pokemonData?.type || "")
+            .toLowerCase()
+            .replace(/\s/g, "")      // remove spaces
+            .split(",");            // turn into array
 
-        const matchesSearch =
-            imageName(name).includes(query);
+        const matchesSearch = (() => {
+
+            console.log(name, pokemonData?.type);
+
+            if (!query) return true;
+
+            const nameMatch = imageName(name).includes(query);
+            const typeMatch = types.some(t => t.includes(query));
+
+            return nameMatch || typeMatch;
+        })();
+
 
         const matchesGame = (() => {
 
@@ -311,7 +326,18 @@ function applyFilters() {
 
         })();
 
-        if (matchesSearch && matchesGame) {
+        const matchesMissing = (() => {
+
+            if (!missingDexFilter) return true;
+            if (!activeDexEdit) return true;
+
+            const data = savedDexData[key] || {};
+            const dexValue = !!data[activeDexEdit];
+
+            return !dexValue;
+        })();
+
+        if (matchesSearch && matchesGame && matchesMissing) {
             card.style.display = "block";
         } else {
             card.style.display = "none";
@@ -423,12 +449,24 @@ searchInput.addEventListener("input", (e) => {
 });
 
 const clearBtn = document.getElementById("clear-search");
+const missingFilterBtn = document.getElementById("missing-dex-filter");
 
 clearBtn.addEventListener("click", () => {
 
     searchInput.value = "";
     applyFilters("");
 });
+
+missingFilterBtn.addEventListener("click", () => {
+
+    missingDexFilter = !missingDexFilter;
+    applyFilters();
+    updateMissingButtonHighlight();
+});
+
+function updateMissingButtonHighlight() {
+    missingFilterBtn.classList.toggle("active", missingDexFilter);
+}
 
 
 // ---------------------------
@@ -475,6 +513,8 @@ document.addEventListener("click", (e) => {
     const dexBox = btn.closest(".dex-progress");
     const dexType = dexBox.dataset.dex;
 
+    const dexChanged = activeDexEdit !== dexType;
+
     if (activeDexEdit === dexType) {
         activeDexEdit = null;
         if (dexType === "shinyDex") {
@@ -487,13 +527,24 @@ document.addEventListener("click", (e) => {
         }
     }
 
+    if (dexChanged && missingDexFilter) {
+        missingDexFilter = false;
+        updateMissingButtonHighlight();
+    }
+
     boxContainer.classList.toggle(
         "shiny-edit-layout",
         activeDexEdit === "shinyDex"
     );
 
-    updateProgress();          
+    updateProgress();
     updateCardHighlights();
+    if (dexChanged) {
+        applyFilters();
+        if (pageMode) {
+            applyPagination();
+        }
+    }
 });
 
 
@@ -755,6 +806,7 @@ function createFilterButtons() {
 
         gameFilterState = {};
         searchInput.value = "";
+        missingDexFilter = false;
 
         activeDexEdit = null;
         shinyEditModeFlag = false;
@@ -766,6 +818,7 @@ function createFilterButtons() {
 
         applyFilters();
         updateGameButtonHighlight();
+        updateMissingButtonHighlight();
         updateCardHighlights();
         updateProgress();
         updateModeUI(); 
