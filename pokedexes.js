@@ -9,6 +9,7 @@ let missingDexFilter = false;
 let pageSize = 30;
 let currentPage = 1;
 let pageMode = false; 
+let selectedGeneration = null;
 
 const dexTypes = [
     { key: "masterDex", label: "MasterDex" },
@@ -290,6 +291,7 @@ function applyFilters() {
         const pokemonData = allPokemon.find(p => normalizeName(p.name) === key);
 
         const games = pokemonData?.games || [];
+        const generation = pokemonData?.generation;
         const types = (pokemonData?.type || "")
             .toLowerCase()
             .replace(/\s/g, "")      // remove spaces
@@ -326,6 +328,14 @@ function applyFilters() {
 
         })();
 
+        const matchesGeneration = (() => {
+
+            if (selectedGeneration === null) return true;
+
+            return generation === selectedGeneration;
+
+        })();
+
         const matchesMissing = (() => {
 
             if (!missingDexFilter) return true;
@@ -337,7 +347,7 @@ function applyFilters() {
             return !dexValue;
         })();
 
-        if (matchesSearch && matchesGame && matchesMissing) {
+        if (matchesSearch && matchesGame && matchesGeneration && matchesMissing) {
             card.style.display = "block";
         } else {
             card.style.display = "none";
@@ -796,6 +806,38 @@ function createFilterButtons() {
     });
 
     // -----------------------------
+    // GENERATION FILTERS
+    // -----------------------------
+
+    const generationRow = document.createElement("div");
+    generationRow.classList.add("generation-filter-row");
+
+    for (let gen = 1; gen <= 10; gen++) {
+
+        const btn = document.createElement("button");
+
+        btn.textContent = `Gen ${gen}`;
+        btn.classList.add("generation-filter-btn");
+        btn.dataset.gen = gen;
+
+        btn.addEventListener("click", () => {
+
+            if (selectedGeneration === gen) {
+                selectedGeneration = null;
+            } else {
+                selectedGeneration = gen;
+            }
+
+            applyFilters();
+            updateGenerationButtonHighlight();
+        });
+
+        generationRow.appendChild(btn);
+    }
+
+    container.appendChild(generationRow);
+
+    // -----------------------------
     // RESET BUTTON
     // -----------------------------
     const resetBtn = document.createElement("button");
@@ -805,6 +847,7 @@ function createFilterButtons() {
     resetBtn.addEventListener("click", () => {
 
         gameFilterState = {};
+        selectedGeneration = null;
         searchInput.value = "";
         missingDexFilter = false;
 
@@ -818,6 +861,7 @@ function createFilterButtons() {
 
         applyFilters();
         updateGameButtonHighlight();
+        updateGenerationButtonHighlight();
         updateMissingButtonHighlight();
         updateCardHighlights();
         updateProgress();
@@ -846,6 +890,19 @@ function updateGameButtonHighlight() {
             btn.classList.add("game-filter-active");
         }
     });
+}
+
+function updateGenerationButtonHighlight() {
+
+    document
+        .querySelectorAll(".generation-filter-btn")
+        .forEach(btn => {
+
+            btn.classList.toggle(
+                "game-filter-active",
+                Number(btn.dataset.gen) === selectedGeneration
+            );
+        });
 }
 
 document.getElementById("page-mode").addEventListener("click", () => {

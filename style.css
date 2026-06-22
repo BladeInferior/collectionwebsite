@@ -337,13 +337,6 @@ h1 {
     transition: 0.15s ease;
 }
 
-.game-filter-btn:hover {
-    opacity: 1;
-    border: 1px solid gold;
-    background: rgba(255, 215, 0, 0.15);
-    color: white;
-}
-
 .include-btn.game-filter-btn:hover {
     background: rgba(46, 204, 113, 0.2);
     border: 1px solid #2ecc71;
@@ -541,6 +534,59 @@ h1 {
 
     width: 240px;
     z-index: 1000;
+}
+
+.generation-filter-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    width: 100%;
+}
+
+.generation-filter-btn {
+    flex: 1 1 calc(20% - 6px);
+
+    padding: 10px 12px;
+    min-height: 22px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 8px;
+
+    background: #2d2d2d;
+    border: 1px solid #555;
+    color: white;
+
+    cursor: pointer;
+
+    transition: 0.15s ease;
+}
+
+#generation-filter-container {
+    position: fixed;
+    right: 20px;
+    top: 160px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+    width: 240px;
+    z-index: 1000;
+}
+
+.generation-filter-btn:hover {
+    background: rgba(255, 215, 0, 0.15);
+    border: 1px solid gold;
+    color: gold;
+}
+
+.generation-filter-btn.game-filter-active {
+    background: rgba(255, 215, 0, 0.15);
+    border: 1px solid gold;
+    color: gold;
 }
 
 .filter-row {

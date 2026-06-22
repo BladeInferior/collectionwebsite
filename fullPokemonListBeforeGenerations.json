@@ -1,7 +1,6 @@
 [
   {
     "name": "Bulbasaur",
-    "generation": 1,
     "dex": "0001",
     "type": "Grass, Poison",
     "games": [
@@ -13,7 +12,6 @@
   },
   {
     "name": "Ivysaur",
-    "generation": 1,
     "dex": "0002",
     "type": "Grass, Poison",
     "games": [
@@ -25,7 +23,6 @@
   },
   {
     "name": "Venusaur",
-    "generation": 1,
     "dex": "0003",
     "type": "Grass, Poison",
     "games": [
@@ -37,7 +34,6 @@
   },
   {
     "name": "Charmander",
-    "generation": 1,
     "dex": "0004",
     "type": "Fire",
     "games": [
@@ -49,7 +45,6 @@
   },
   {
     "name": "Charmeleon",
-    "generation": 1,
     "dex": "0005",
     "type": "Fire",
     "games": [
@@ -61,7 +56,6 @@
   },
   {
     "name": "Charizard",
-    "generation": 1,
     "dex": "0006",
     "type": "Fire, Flying",
     "games": [
@@ -73,7 +67,6 @@
   },
   {
     "name": "Squirtle",
-    "generation": 1,
     "dex": "0007",
     "type": "Water",
     "games": [
@@ -85,7 +78,6 @@
   },
   {
     "name": "Wartortle",
-    "generation": 1,
     "dex": "0008",
     "type": "Water",
     "games": [
@@ -97,7 +89,6 @@
   },
   {
     "name": "Blastoise",
-    "generation": 1,
     "dex": "0009",
     "type": "Water",
     "games": [
@@ -109,7 +100,6 @@
   },
   {
     "name": "Caterpie",
-    "generation": 1,
     "dex": "0010",
     "type": "Bug",
     "games": [
@@ -119,7 +109,6 @@
   },
   {
     "name": "Metapod",
-    "generation": 1,
     "dex": "0011",
     "type": "Bug",
     "games": [
@@ -129,7 +118,6 @@
   },
   {
     "name": "Butterfree",
-    "generation": 1,
     "dex": "0012",
     "type": "Bug, Flying",
     "games": [
@@ -139,7 +127,6 @@
   },
   {
     "name": "Weedle",
-    "generation": 1,
     "dex": "0013",
     "type": "Bug, Poison",
     "games": [
@@ -149,7 +136,6 @@
   },
   {
     "name": "Kakuna",
-    "generation": 1,
     "dex": "0014",
     "type": "Bug, Poison",
     "games": [
@@ -159,7 +145,6 @@
   },
   {
     "name": "Beedrill",
-    "generation": 1,
     "dex": "0015",
     "type": "Bug, Poison",
     "games": [
@@ -169,7 +154,6 @@
   },
   {
     "name": "Pidgey",
-    "generation": 1,
     "dex": "0016",
     "type": "Normal, Flying",
     "games": [
@@ -179,7 +163,6 @@
   },
   {
     "name": "Pidgeotto",
-    "generation": 1,
     "dex": "0017",
     "type": "Normal, Flying",
     "games": [
@@ -189,7 +172,6 @@
   },
   {
     "name": "Pidgeot",
-    "generation": 1,
     "dex": "0018",
     "type": "Normal, Flying",
     "games": [
@@ -199,7 +181,6 @@
   },
   {
     "name": "Rattata",
-    "generation": 1,
     "dex": "0019",
     "type": "Normal",
     "games": [
@@ -208,7 +189,6 @@
   },
   {
     "name": "Raticate",
-    "generation": 1,
     "dex": "0020",
     "type": "Normal",
     "games": [
@@ -217,7 +197,6 @@
   },
   {
     "name": "Spearow",
-    "generation": 1,
     "dex": "0021",
     "type": "Normal, Flying",
     "games": [
@@ -226,7 +205,6 @@
   },
   {
     "name": "Fearow",
-    "generation": 1,
     "dex": "0022",
     "type": "Normal, Flying",
     "games": [
@@ -235,7 +213,6 @@
   },
   {
     "name": "Ekans",
-    "generation": 1,
     "dex": "0023",
     "type": "Poison",
     "games": [
@@ -246,7 +223,6 @@
   },
   {
     "name": "Arbok",
-    "generation": 1,
     "dex": "0024",
     "type": "Poison",
     "games": [
@@ -257,7 +233,6 @@
   },
   {
     "name": "Pikachu",
-    "generation": 1,
     "dex": "0025",
     "type": "Electric",
     "games": [
@@ -270,7 +245,6 @@
   },
   {
     "name": "Raichu",
-    "generation": 1,
     "dex": "0026",
     "type": "Electric",
     "games": [
@@ -283,7 +257,6 @@
   },
   {
     "name": "Sandshrew",
-    "generation": 1,
     "dex": "0027",
     "type": "Ground",
     "games": [
@@ -294,7 +267,6 @@
   },
   {
     "name": "Sandslash",
-    "generation": 1,
     "dex": "0028",
     "type": "Ground",
     "games": [
@@ -305,7 +277,6 @@
   },
   {
     "name": "Nidoran-f",
-    "generation": 1,
     "dex": "0029",
     "type": "Poison",
     "games": [
@@ -315,7 +286,6 @@
   },
   {
     "name": "Nidorina",
-    "generation": 1,
     "dex": "0030",
     "type": "Poison",
     "games": [
@@ -325,7 +295,6 @@
   },
   {
     "name": "Nidoqueen",
-    "generation": 1,
     "dex": "0031",
     "type": "Poison, Ground",
     "games": [
@@ -335,7 +304,6 @@
   },
   {
     "name": "Nidoran-m",
-    "generation": 1,
     "dex": "0032",
     "type": "Poison",
     "games": [
@@ -345,7 +313,6 @@
   },
   {
     "name": "Nidorino",
-    "generation": 1,
     "dex": "0033",
     "type": "Poison",
     "games": [
@@ -355,7 +322,6 @@
   },
   {
     "name": "Nidoking",
-    "generation": 1,
     "dex": "0034",
     "type": "Poison, Ground",
     "games": [
@@ -365,7 +331,6 @@
   },
   {
     "name": "Clefairy",
-    "generation": 1,
     "dex": "0035",
     "type": "Fairy",
     "games": [
@@ -378,7 +343,6 @@
   },
   {
     "name": "Clefable",
-    "generation": 1,
     "dex": "0036",
     "type": "Fairy",
     "games": [
@@ -391,7 +355,6 @@
   },
   {
     "name": "Vulpix",
-    "generation": 1,
     "dex": "0037",
     "type": "Fire",
     "games": [
@@ -403,7 +366,6 @@
   },
   {
     "name": "Ninetales",
-    "generation": 1,
     "dex": "0038",
     "type": "Fire",
     "games": [
@@ -415,7 +377,6 @@
   },
   {
     "name": "Jigglypuff",
-    "generation": 1,
     "dex": "0039",
     "type": "Normal, Fairy",
     "games": [
@@ -427,7 +388,6 @@
   },
   {
     "name": "Wigglytuff",
-    "generation": 1,
     "dex": "0040",
     "type": "Normal, Fairy",
     "games": [
@@ -439,7 +399,6 @@
   },
   {
     "name": "Zubat",
-    "generation": 1,
     "dex": "0041",
     "type": "Poison, Flying",
     "games": [
@@ -451,7 +410,6 @@
   },
   {
     "name": "Golbat",
-    "generation": 1,
     "dex": "0042",
     "type": "Poison, Flying",
     "games": [
@@ -463,7 +421,6 @@
   },
   {
     "name": "Oddish",
-    "generation": 1,
     "dex": "0043",
     "type": "Grass, Poison",
     "games": [
@@ -474,7 +431,6 @@
   },
   {
     "name": "Gloom",
-    "generation": 1,
     "dex": "0044",
     "type": "Grass, Poison",
     "games": [
@@ -485,7 +441,6 @@
   },
   {
     "name": "Vileplume",
-    "generation": 1,
     "dex": "0045",
     "type": "Grass, Poison",
     "games": [
@@ -496,7 +451,6 @@
   },
   {
     "name": "Paras",
-    "generation": 1,
     "dex": "0046",
     "type": "Bug, Grass",
     "games": [
@@ -506,7 +460,6 @@
   },
   {
     "name": "Parasect",
-    "generation": 1,
     "dex": "0047",
     "type": "Bug, Grass",
     "games": [
@@ -516,7 +469,6 @@
   },
   {
     "name": "Venonat",
-    "generation": 1,
     "dex": "0048",
     "type": "Bug, Poison",
     "games": [
@@ -526,7 +478,6 @@
   },
   {
     "name": "Venomoth",
-    "generation": 1,
     "dex": "0049",
     "type": "Bug, Poison",
     "games": [
@@ -536,7 +487,6 @@
   },
   {
     "name": "Diglett",
-    "generation": 1,
     "dex": "0050",
     "type": "Ground",
     "games": [
@@ -547,7 +497,6 @@
   },
   {
     "name": "Dugtrio",
-    "generation": 1,
     "dex": "0051",
     "type": "Ground",
     "games": [
@@ -558,7 +507,6 @@
   },
   {
     "name": "Meowth",
-    "generation": 1,
     "dex": "0052",
     "type": "Normal",
     "games": [
@@ -570,7 +518,6 @@
   },
   {
     "name": "Persian",
-    "generation": 1,
     "dex": "0053",
     "type": "Normal",
     "games": [
@@ -582,7 +529,6 @@
   },
   {
     "name": "Psyduck",
-    "generation": 1,
     "dex": "0054",
     "type": "Water",
     "games": [
@@ -594,7 +540,6 @@
   },
   {
     "name": "Golduck",
-    "generation": 1,
     "dex": "0055",
     "type": "Water",
     "games": [
@@ -606,7 +551,6 @@
   },
   {
     "name": "Mankey",
-    "generation": 1,
     "dex": "0056",
     "type": "Fighting",
     "games": [
@@ -617,7 +561,6 @@
   },
   {
     "name": "Primeape",
-    "generation": 1,
     "dex": "0057",
     "type": "Fighting",
     "games": [
@@ -628,7 +571,6 @@
   },
   {
     "name": "Growlithe",
-    "generation": 1,
     "dex": "0058",
     "type": "Fire",
     "games": [
@@ -639,7 +581,6 @@
   },
   {
     "name": "Arcanine",
-    "generation": 1,
     "dex": "0059",
     "type": "Fire",
     "games": [
@@ -650,7 +591,6 @@
   },
   {
     "name": "Poliwag",
-    "generation": 1,
     "dex": "0060",
     "type": "Water",
     "games": [
@@ -661,7 +601,6 @@
   },
   {
     "name": "Poliwhirl",
-    "generation": 1,
     "dex": "0061",
     "type": "Water",
     "games": [
@@ -672,7 +611,6 @@
   },
   {
     "name": "Poliwrath",
-    "generation": 1,
     "dex": "0062",
     "type": "Water, Fighting",
     "games": [
@@ -683,7 +621,6 @@
   },
   {
     "name": "Abra",
-    "generation": 1,
     "dex": "0063",
     "type": "Psychic",
     "games": [
@@ -695,7 +632,6 @@
   },
   {
     "name": "Kadabra",
-    "generation": 1,
     "dex": "0064",
     "type": "Psychic",
     "games": [
@@ -707,7 +643,6 @@
   },
   {
     "name": "Alakazam",
-    "generation": 1,
     "dex": "0065",
     "type": "Psychic",
     "games": [
@@ -719,7 +654,6 @@
   },
   {
     "name": "Machop",
-    "generation": 1,
     "dex": "0066",
     "type": "Fighting",
     "games": [
@@ -731,7 +665,6 @@
   },
   {
     "name": "Machoke",
-    "generation": 1,
     "dex": "0067",
     "type": "Fighting",
     "games": [
@@ -743,7 +676,6 @@
   },
   {
     "name": "Machamp",
-    "generation": 1,
     "dex": "0068",
     "type": "Fighting",
     "games": [
@@ -755,7 +687,6 @@
   },
   {
     "name": "Bellsprout",
-    "generation": 1,
     "dex": "0069",
     "type": "Grass, Poison",
     "games": [
@@ -766,7 +697,6 @@
   },
   {
     "name": "Weepinbell",
-    "generation": 1,
     "dex": "0070",
     "type": "Grass, Poison",
     "games": [
@@ -777,7 +707,6 @@
   },
   {
     "name": "Victreebel",
-    "generation": 1,
     "dex": "0071",
     "type": "Grass, Poison",
     "games": [
@@ -788,7 +717,6 @@
   },
   {
     "name": "Tentacool",
-    "generation": 1,
     "dex": "0072",
     "type": "Water, Poison",
     "games": [
@@ -800,7 +728,6 @@
   },
   {
     "name": "Tentacruel",
-    "generation": 1,
     "dex": "0073",
     "type": "Water, Poison",
     "games": [
@@ -812,7 +739,6 @@
   },
   {
     "name": "Geodude",
-    "generation": 1,
     "dex": "0074",
     "type": "Rock, Ground",
     "games": [
@@ -823,7 +749,6 @@
   },
   {
     "name": "Graveler",
-    "generation": 1,
     "dex": "0075",
     "type": "Rock, Ground",
     "games": [
@@ -834,7 +759,6 @@
   },
   {
     "name": "Golem",
-    "generation": 1,
     "dex": "0076",
     "type": "Rock, Ground",
     "games": [
@@ -845,7 +769,6 @@
   },
   {
     "name": "Ponyta",
-    "generation": 1,
     "dex": "0077",
     "type": "Fire",
     "games": [
@@ -856,7 +779,6 @@
   },
   {
     "name": "Rapidash",
-    "generation": 1,
     "dex": "0078",
     "type": "Fire",
     "games": [
@@ -867,7 +789,6 @@
   },
   {
     "name": "Slowpoke",
-    "generation": 1,
     "dex": "0079",
     "type": "Water, Psychic",
     "games": [
@@ -879,7 +800,6 @@
   },
   {
     "name": "Slowbro",
-    "generation": 1,
     "dex": "0080",
     "type": "Water, Psychic",
     "games": [
@@ -891,7 +811,6 @@
   },
   {
     "name": "Magnemite",
-    "generation": 1,
     "dex": "0081",
     "type": "Electric, Steel",
     "games": [
@@ -903,7 +822,6 @@
   },
   {
     "name": "Magneton",
-    "generation": 1,
     "dex": "0082",
     "type": "Electric, Steel",
     "games": [
@@ -915,7 +833,6 @@
   },
   {
     "name": "Farfetchd",
-    "generation": 1,
     "dex": "0083",
     "type": "Normal, Flying",
     "games": [
@@ -925,7 +842,6 @@
   },
   {
     "name": "Doduo",
-    "generation": 1,
     "dex": "0084",
     "type": "Normal, Flying",
     "games": [
@@ -935,7 +851,6 @@
   },
   {
     "name": "Dodrio",
-    "generation": 1,
     "dex": "0085",
     "type": "Normal, Flying",
     "games": [
@@ -945,7 +860,6 @@
   },
   {
     "name": "Seel",
-    "generation": 1,
     "dex": "0086",
     "type": "Water",
     "games": [
@@ -955,7 +869,6 @@
   },
   {
     "name": "Dewgong",
-    "generation": 1,
     "dex": "0087",
     "type": "Water, Ice",
     "games": [
@@ -965,7 +878,6 @@
   },
   {
     "name": "Grimer",
-    "generation": 1,
     "dex": "0088",
     "type": "Poison",
     "games": [
@@ -975,7 +887,6 @@
   },
   {
     "name": "Muk",
-    "generation": 1,
     "dex": "0089",
     "type": "Poison",
     "games": [
@@ -985,7 +896,6 @@
   },
   {
     "name": "Shellder",
-    "generation": 1,
     "dex": "0090",
     "type": "Water",
     "games": [
@@ -996,7 +906,6 @@
   },
   {
     "name": "Cloyster",
-    "generation": 1,
     "dex": "0091",
     "type": "Water, Ice",
     "games": [
@@ -1007,7 +916,6 @@
   },
   {
     "name": "Gastly",
-    "generation": 1,
     "dex": "0092",
     "type": "Ghost, Poison",
     "games": [
@@ -1020,7 +928,6 @@
   },
   {
     "name": "Haunter",
-    "generation": 1,
     "dex": "0093",
     "type": "Ghost, Poison",
     "games": [
@@ -1033,7 +940,6 @@
   },
   {
     "name": "Gengar",
-    "generation": 1,
     "dex": "0094",
     "type": "Ghost, Poison",
     "games": [
@@ -1046,7 +952,6 @@
   },
   {
     "name": "Onix",
-    "generation": 1,
     "dex": "0095",
     "type": "Rock, Ground",
     "games": [
@@ -1058,7 +963,6 @@
   },
   {
     "name": "Drowzee",
-    "generation": 1,
     "dex": "0096",
     "type": "Psychic",
     "games": [
@@ -1068,7 +972,6 @@
   },
   {
     "name": "Hypno",
-    "generation": 1,
     "dex": "0097",
     "type": "Psychic",
     "games": [
@@ -1078,7 +981,6 @@
   },
   {
     "name": "Krabby",
-    "generation": 1,
     "dex": "0098",
     "type": "Water",
     "games": [
@@ -1088,7 +990,6 @@
   },
   {
     "name": "Kingler",
-    "generation": 1,
     "dex": "0099",
     "type": "Water",
     "games": [
@@ -1098,7 +999,6 @@
   },
   {
     "name": "Voltorb",
-    "generation": 1,
     "dex": "0100",
     "type": "Electric",
     "games": [
@@ -1108,7 +1008,6 @@
   },
   {
     "name": "Electrode",
-    "generation": 1,
     "dex": "0101",
     "type": "Electric",
     "games": [
@@ -1118,7 +1017,6 @@
   },
   {
     "name": "Exeggcute",
-    "generation": 1,
     "dex": "0102",
     "type": "Grass, Psychic",
     "games": [
@@ -1129,7 +1027,6 @@
   },
   {
     "name": "Exeggutor",
-    "generation": 1,
     "dex": "0103",
     "type": "Grass, Psychic",
     "games": [
@@ -1140,7 +1037,6 @@
   },
   {
     "name": "Cubone",
-    "generation": 1,
     "dex": "0104",
     "type": "Ground",
     "games": [
@@ -1151,7 +1047,6 @@
   },
   {
     "name": "Marowak",
-    "generation": 1,
     "dex": "0105",
     "type": "Ground",
     "games": [
@@ -1162,7 +1057,6 @@
   },
   {
     "name": "Hitmonlee",
-    "generation": 1,
     "dex": "0106",
     "type": "Fighting",
     "games": [
@@ -1173,7 +1067,6 @@
   },
   {
     "name": "Hitmonchan",
-    "generation": 1,
     "dex": "0107",
     "type": "Fighting",
     "games": [
@@ -1184,7 +1077,6 @@
   },
   {
     "name": "Lickitung",
-    "generation": 1,
     "dex": "0108",
     "type": "Normal",
     "games": [
@@ -1195,7 +1087,6 @@
   },
   {
     "name": "Koffing",
-    "generation": 1,
     "dex": "0109",
     "type": "Poison",
     "games": [
@@ -1206,7 +1097,6 @@
   },
   {
     "name": "Weezing",
-    "generation": 1,
     "dex": "0110",
     "type": "Poison",
     "games": [
@@ -1216,7 +1106,6 @@
   },
   {
     "name": "Rhyhorn",
-    "generation": 1,
     "dex": "0111",
     "type": "Ground, Rock",
     "games": [
@@ -1228,7 +1117,6 @@
   },
   {
     "name": "Rhydon",
-    "generation": 1,
     "dex": "0112",
     "type": "Ground, Rock",
     "games": [
@@ -1240,7 +1128,6 @@
   },
   {
     "name": "Chansey",
-    "generation": 1,
     "dex": "0113",
     "type": "Normal",
     "games": [
@@ -1252,7 +1139,6 @@
   },
   {
     "name": "Tangela",
-    "generation": 1,
     "dex": "0114",
     "type": "Grass",
     "games": [
@@ -1263,7 +1149,6 @@
   },
   {
     "name": "Kangaskhan",
-    "generation": 1,
     "dex": "0115",
     "type": "Normal",
     "games": [
@@ -1274,7 +1159,6 @@
   },
   {
     "name": "Horsea",
-    "generation": 1,
     "dex": "0116",
     "type": "Water",
     "games": [
@@ -1285,7 +1169,6 @@
   },
   {
     "name": "Seadra",
-    "generation": 1,
     "dex": "0117",
     "type": "Water",
     "games": [
@@ -1296,7 +1179,6 @@
   },
   {
     "name": "Goldeen",
-    "generation": 1,
     "dex": "0118",
     "type": "Water",
     "games": [
@@ -1306,7 +1188,6 @@
   },
   {
     "name": "Seaking",
-    "generation": 1,
     "dex": "0119",
     "type": "Water",
     "games": [
@@ -1316,7 +1197,6 @@
   },
   {
     "name": "Staryu",
-    "generation": 1,
     "dex": "0120",
     "type": "Water",
     "games": [
@@ -1327,7 +1207,6 @@
   },
   {
     "name": "Starmie",
-    "generation": 1,
     "dex": "0121",
     "type": "Water, Psychic",
     "games": [
@@ -1338,7 +1217,6 @@
   },
   {
     "name": "Mr-mime",
-    "generation": 1,
     "dex": "0122",
     "type": "Psychic, Fairy",
     "games": [
@@ -1350,7 +1228,6 @@
   },
   {
     "name": "Scyther",
-    "generation": 1,
     "dex": "0123",
     "type": "Bug, Flying",
     "games": [
@@ -1363,7 +1240,6 @@
   },
   {
     "name": "Jynx",
-    "generation": 1,
     "dex": "0124",
     "type": "Ice, Psychic",
     "games": [
@@ -1373,7 +1249,6 @@
   },
   {
     "name": "Electabuzz",
-    "generation": 1,
     "dex": "0125",
     "type": "Electric",
     "games": [
@@ -1385,7 +1260,6 @@
   },
   {
     "name": "Magmar",
-    "generation": 1,
     "dex": "0126",
     "type": "Fire",
     "games": [
@@ -1397,7 +1271,6 @@
   },
   {
     "name": "Pinsir",
-    "generation": 1,
     "dex": "0127",
     "type": "Bug",
     "games": [
@@ -1408,7 +1281,6 @@
   },
   {
     "name": "Tauros",
-    "generation": 1,
     "dex": "0128",
     "type": "Normal",
     "games": [
@@ -1419,7 +1291,6 @@
   },
   {
     "name": "Magikarp",
-    "generation": 1,
     "dex": "0129",
     "type": "Water",
     "games": [
@@ -1432,7 +1303,6 @@
   },
   {
     "name": "Gyarados",
-    "generation": 1,
     "dex": "0130",
     "type": "Water, Flying",
     "games": [
@@ -1445,7 +1315,6 @@
   },
   {
     "name": "Lapras",
-    "generation": 1,
     "dex": "0131",
     "type": "Water, Ice",
     "games": [
@@ -1456,7 +1325,6 @@
   },
   {
     "name": "Ditto",
-    "generation": 1,
     "dex": "0132",
     "type": "Normal",
     "games": [
@@ -1467,7 +1335,6 @@
   },
   {
     "name": "Eevee",
-    "generation": 1,
     "dex": "0133",
     "type": "Normal",
     "games": [
@@ -1480,7 +1347,6 @@
   },
   {
     "name": "Vaporeon",
-    "generation": 1,
     "dex": "0134",
     "type": "Water",
     "games": [
@@ -1493,7 +1359,6 @@
   },
   {
     "name": "Jolteon",
-    "generation": 1,
     "dex": "0135",
     "type": "Electric",
     "games": [
@@ -1506,7 +1371,6 @@
   },
   {
     "name": "Flareon",
-    "generation": 1,
     "dex": "0136",
     "type": "Fire",
     "games": [
@@ -1519,7 +1383,6 @@
   },
   {
     "name": "Porygon",
-    "generation": 1,
     "dex": "0137",
     "type": "Normal",
     "games": [
@@ -1532,7 +1395,6 @@
   },
   {
     "name": "Omanyte",
-    "generation": 1,
     "dex": "0138",
     "type": "Rock, Water",
     "games": [
@@ -1542,7 +1404,6 @@
   },
   {
     "name": "Omastar",
-    "generation": 1,
     "dex": "0139",
     "type": "Rock, Water",
     "games": [
@@ -1552,7 +1413,6 @@
   },
   {
     "name": "Kabuto",
-    "generation": 1,
     "dex": "0140",
     "type": "Rock, Water",
     "games": [
@@ -1562,7 +1422,6 @@
   },
   {
     "name": "Kabutops",
-    "generation": 1,
     "dex": "0141",
     "type": "Rock, Water",
     "games": [
@@ -1572,7 +1431,6 @@
   },
   {
     "name": "Aerodactyl",
-    "generation": 1,
     "dex": "0142",
     "type": "Rock, Flying",
     "games": [
@@ -1583,7 +1441,6 @@
   },
   {
     "name": "Snorlax",
-    "generation": 1,
     "dex": "0143",
     "type": "Normal",
     "games": [
@@ -1595,7 +1452,6 @@
   },
   {
     "name": "Articuno",
-    "generation": 1,
     "dex": "0144",
     "type": "Ice, Flying",
     "games": [
@@ -1605,7 +1461,6 @@
   },
   {
     "name": "Zapdos",
-    "generation": 1,
     "dex": "0145",
     "type": "Electric, Flying",
     "games": [
@@ -1615,7 +1470,6 @@
   },
   {
     "name": "Moltres",
-    "generation": 1,
     "dex": "0146",
     "type": "Fire, Flying",
     "games": [
@@ -1625,7 +1479,6 @@
   },
   {
     "name": "Dratini",
-    "generation": 1,
     "dex": "0147",
     "type": "Dragon",
     "games": [
@@ -1637,7 +1490,6 @@
   },
   {
     "name": "Dragonair",
-    "generation": 1,
     "dex": "0148",
     "type": "Dragon",
     "games": [
@@ -1649,7 +1501,6 @@
   },
   {
     "name": "Dragonite",
-    "generation": 1,
     "dex": "0149",
     "type": "Dragon, Flying",
     "games": [
@@ -1661,7 +1512,6 @@
   },
   {
     "name": "Mewtwo",
-    "generation": 1,
     "dex": "0150",
     "type": "Psychic",
     "games": [
@@ -1672,7 +1522,6 @@
   },
   {
     "name": "Mew",
-    "generation": 1,
     "dex": "0151",
     "type": "Psychic",
     "games": [
@@ -1681,7 +1530,6 @@
   },
   {
     "name": "Chikorita",
-    "generation": 2,
     "dex": "0152",
     "type": "Grass",
     "games": [
@@ -1692,7 +1540,6 @@
   },
   {
     "name": "Bayleef",
-    "generation": 2,
     "dex": "0153",
     "type": "Grass",
     "games": [
@@ -1703,7 +1550,6 @@
   },
   {
     "name": "Meganium",
-    "generation": 2,
     "dex": "0154",
     "type": "Grass",
     "games": [
@@ -1714,7 +1560,6 @@
   },
   {
     "name": "Cyndaquil",
-    "generation": 2,
     "dex": "0155",
     "type": "Fire",
     "games": [
@@ -1725,7 +1570,6 @@
   },
   {
     "name": "Quilava",
-    "generation": 2,
     "dex": "0156",
     "type": "Fire",
     "games": [
@@ -1736,7 +1580,6 @@
   },
   {
     "name": "Typhlosion",
-    "generation": 2,
     "dex": "0157",
     "type": "Fire",
     "games": [
@@ -1746,7 +1589,6 @@
   },
   {
     "name": "Totodile",
-    "generation": 2,
     "dex": "0158",
     "type": "Water",
     "games": [
@@ -1757,7 +1599,6 @@
   },
   {
     "name": "Croconaw",
-    "generation": 2,
     "dex": "0159",
     "type": "Water",
     "games": [
@@ -1768,7 +1609,6 @@
   },
   {
     "name": "Feraligatr",
-    "generation": 2,
     "dex": "0160",
     "type": "Water",
     "games": [
@@ -1779,7 +1619,6 @@
   },
   {
     "name": "Sentret",
-    "generation": 2,
     "dex": "0161",
     "type": "Normal",
     "games": [
@@ -1789,7 +1628,6 @@
   },
   {
     "name": "Furret",
-    "generation": 2,
     "dex": "0162",
     "type": "Normal",
     "games": [
@@ -1799,7 +1637,6 @@
   },
   {
     "name": "Hoothoot",
-    "generation": 2,
     "dex": "0163",
     "type": "Normal, Flying",
     "games": [
@@ -1810,7 +1647,6 @@
   },
   {
     "name": "Noctowl",
-    "generation": 2,
     "dex": "0164",
     "type": "Normal, Flying",
     "games": [
@@ -1821,7 +1657,6 @@
   },
   {
     "name": "Ledyba",
-    "generation": 2,
     "dex": "0165",
     "type": "Bug, Flying",
     "games": [
@@ -1830,7 +1665,6 @@
   },
   {
     "name": "Ledian",
-    "generation": 2,
     "dex": "0166",
     "type": "Bug, Flying",
     "games": [
@@ -1839,7 +1673,6 @@
   },
   {
     "name": "Spinarak",
-    "generation": 2,
     "dex": "0167",
     "type": "Bug, Poison",
     "games": [
@@ -1850,7 +1683,6 @@
   },
   {
     "name": "Ariados",
-    "generation": 2,
     "dex": "0168",
     "type": "Bug, Poison",
     "games": [
@@ -1861,7 +1693,6 @@
   },
   {
     "name": "Crobat",
-    "generation": 2,
     "dex": "0169",
     "type": "Poison, Flying",
     "games": [
@@ -1873,7 +1704,6 @@
   },
   {
     "name": "Chinchou",
-    "generation": 2,
     "dex": "0170",
     "type": "Water, Electric",
     "games": [
@@ -1884,7 +1714,6 @@
   },
   {
     "name": "Lanturn",
-    "generation": 2,
     "dex": "0171",
     "type": "Water, Electric",
     "games": [
@@ -1895,7 +1724,6 @@
   },
   {
     "name": "Pichu",
-    "generation": 2,
     "dex": "0172",
     "type": "Electric",
     "games": [
@@ -1908,7 +1736,6 @@
   },
   {
     "name": "Cleffa",
-    "generation": 2,
     "dex": "0173",
     "type": "Fairy",
     "games": [
@@ -1921,7 +1748,6 @@
   },
   {
     "name": "Igglybuff",
-    "generation": 2,
     "dex": "0174",
     "type": "Normal, Fairy",
     "games": [
@@ -1933,7 +1759,6 @@
   },
   {
     "name": "Togepi",
-    "generation": 2,
     "dex": "0175",
     "type": "Fairy",
     "games": [
@@ -1944,7 +1769,6 @@
   },
   {
     "name": "Togetic",
-    "generation": 2,
     "dex": "0176",
     "type": "Fairy, Flying",
     "games": [
@@ -1955,7 +1779,6 @@
   },
   {
     "name": "Natu",
-    "generation": 2,
     "dex": "0177",
     "type": "Psychic, Flying",
     "games": [
@@ -1965,7 +1788,6 @@
   },
   {
     "name": "Xatu",
-    "generation": 2,
     "dex": "0178",
     "type": "Psychic, Flying",
     "games": [
@@ -1975,7 +1797,6 @@
   },
   {
     "name": "Mareep",
-    "generation": 2,
     "dex": "0179",
     "type": "Electric",
     "games": [
@@ -1986,7 +1807,6 @@
   },
   {
     "name": "Flaaffy",
-    "generation": 2,
     "dex": "0180",
     "type": "Electric",
     "games": [
@@ -1997,7 +1817,6 @@
   },
   {
     "name": "Ampharos",
-    "generation": 2,
     "dex": "0181",
     "type": "Electric",
     "games": [
@@ -2008,7 +1827,6 @@
   },
   {
     "name": "Bellossom",
-    "generation": 2,
     "dex": "0182",
     "type": "Grass",
     "games": [
@@ -2019,7 +1837,6 @@
   },
   {
     "name": "Marill",
-    "generation": 2,
     "dex": "0183",
     "type": "Water, Fairy",
     "games": [
@@ -2030,7 +1847,6 @@
   },
   {
     "name": "Azumarill",
-    "generation": 2,
     "dex": "0184",
     "type": "Water, Fairy",
     "games": [
@@ -2041,7 +1857,6 @@
   },
   {
     "name": "Sudowoodo",
-    "generation": 2,
     "dex": "0185",
     "type": "Rock",
     "games": [
@@ -2053,7 +1868,6 @@
   },
   {
     "name": "Politoed",
-    "generation": 2,
     "dex": "0186",
     "type": "Water",
     "games": [
@@ -2064,7 +1878,6 @@
   },
   {
     "name": "Hoppip",
-    "generation": 2,
     "dex": "0187",
     "type": "Grass, Flying",
     "games": [
@@ -2074,7 +1887,6 @@
   },
   {
     "name": "Skiploom",
-    "generation": 2,
     "dex": "0188",
     "type": "Grass, Flying",
     "games": [
@@ -2084,7 +1896,6 @@
   },
   {
     "name": "Jumpluff",
-    "generation": 2,
     "dex": "0189",
     "type": "Grass, Flying",
     "games": [
@@ -2094,7 +1905,6 @@
   },
   {
     "name": "Aipom",
-    "generation": 2,
     "dex": "0190",
     "type": "Normal",
     "games": [
@@ -2105,7 +1915,6 @@
   },
   {
     "name": "Sunkern",
-    "generation": 2,
     "dex": "0191",
     "type": "Grass",
     "games": [
@@ -2115,7 +1924,6 @@
   },
   {
     "name": "Sunflora",
-    "generation": 2,
     "dex": "0192",
     "type": "Grass",
     "games": [
@@ -2125,7 +1933,6 @@
   },
   {
     "name": "Yanma",
-    "generation": 2,
     "dex": "0193",
     "type": "Bug, Flying",
     "games": [
@@ -2136,7 +1943,6 @@
   },
   {
     "name": "Wooper",
-    "generation": 2,
     "dex": "0194",
     "type": "Water, Ground",
     "games": [
@@ -2147,7 +1953,6 @@
   },
   {
     "name": "Quagsire",
-    "generation": 2,
     "dex": "0195",
     "type": "Water, Ground",
     "games": [
@@ -2158,7 +1963,6 @@
   },
   {
     "name": "Espeon",
-    "generation": 2,
     "dex": "0196",
     "type": "Psychic",
     "games": [
@@ -2171,7 +1975,6 @@
   },
   {
     "name": "Umbreon",
-    "generation": 2,
     "dex": "0197",
     "type": "Dark",
     "games": [
@@ -2184,7 +1987,6 @@
   },
   {
     "name": "Murkrow",
-    "generation": 2,
     "dex": "0198",
     "type": "Dark, Flying",
     "games": [
@@ -2195,7 +1997,6 @@
   },
   {
     "name": "Slowking",
-    "generation": 2,
     "dex": "0199",
     "type": "Water, Psychic",
     "games": [
@@ -2207,7 +2008,6 @@
   },
   {
     "name": "Misdreavus",
-    "generation": 2,
     "dex": "0200",
     "type": "Ghost",
     "games": [
@@ -2218,7 +2018,6 @@
   },
   {
     "name": "Unown",
-    "generation": 2,
     "dex": "0201",
     "type": "Psychic",
     "games": [
@@ -2228,7 +2027,6 @@
   },
   {
     "name": "Wobbuffet",
-    "generation": 2,
     "dex": "0202",
     "type": "Psychic",
     "games": [
@@ -2238,7 +2036,6 @@
   },
   {
     "name": "Girafarig",
-    "generation": 2,
     "dex": "0203",
     "type": "Normal, Psychic",
     "games": [
@@ -2248,7 +2045,6 @@
   },
   {
     "name": "Pineco",
-    "generation": 2,
     "dex": "0204",
     "type": "Bug",
     "games": [
@@ -2258,7 +2054,6 @@
   },
   {
     "name": "Forretress",
-    "generation": 2,
     "dex": "0205",
     "type": "Bug, Steel",
     "games": [
@@ -2268,7 +2063,6 @@
   },
   {
     "name": "Dunsparce",
-    "generation": 2,
     "dex": "0206",
     "type": "Normal",
     "games": [
@@ -2279,7 +2073,6 @@
   },
   {
     "name": "Gligar",
-    "generation": 2,
     "dex": "0207",
     "type": "Ground, Flying",
     "games": [
@@ -2290,7 +2083,6 @@
   },
   {
     "name": "Steelix",
-    "generation": 2,
     "dex": "0208",
     "type": "Steel, Ground",
     "games": [
@@ -2302,7 +2094,6 @@
   },
   {
     "name": "Snubbull",
-    "generation": 2,
     "dex": "0209",
     "type": "Fairy",
     "games": [
@@ -2312,7 +2103,6 @@
   },
   {
     "name": "Granbull",
-    "generation": 2,
     "dex": "0210",
     "type": "Fairy",
     "games": [
@@ -2322,7 +2112,6 @@
   },
   {
     "name": "Qwilfish",
-    "generation": 2,
     "dex": "0211",
     "type": "Water, Poison",
     "games": [
@@ -2334,7 +2123,6 @@
   },
   {
     "name": "Scizor",
-    "generation": 2,
     "dex": "0212",
     "type": "Bug, Steel",
     "games": [
@@ -2347,7 +2135,6 @@
   },
   {
     "name": "Shuckle",
-    "generation": 2,
     "dex": "0213",
     "type": "Bug, Rock",
     "games": [
@@ -2357,7 +2144,6 @@
   },
   {
     "name": "Heracross",
-    "generation": 2,
     "dex": "0214",
     "type": "Bug, Fighting",
     "games": [
@@ -2370,7 +2156,6 @@
   },
   {
     "name": "Sneasel",
-    "generation": 2,
     "dex": "0215",
     "type": "Dark, Ice",
     "games": [
@@ -2381,7 +2166,6 @@
   },
   {
     "name": "Teddiursa",
-    "generation": 2,
     "dex": "0216",
     "type": "Normal",
     "games": [
@@ -2392,7 +2176,6 @@
   },
   {
     "name": "Ursaring",
-    "generation": 2,
     "dex": "0217",
     "type": "Normal",
     "games": [
@@ -2403,7 +2186,6 @@
   },
   {
     "name": "Slugma",
-    "generation": 2,
     "dex": "0218",
     "type": "Fire",
     "games": [
@@ -2413,7 +2195,6 @@
   },
   {
     "name": "Magcargo",
-    "generation": 2,
     "dex": "0219",
     "type": "Fire, Rock",
     "games": [
@@ -2423,7 +2204,6 @@
   },
   {
     "name": "Swinub",
-    "generation": 2,
     "dex": "0220",
     "type": "Ice, Ground",
     "games": [
@@ -2435,7 +2215,6 @@
   },
   {
     "name": "Piloswine",
-    "generation": 2,
     "dex": "0221",
     "type": "Ice, Ground",
     "games": [
@@ -2447,7 +2226,6 @@
   },
   {
     "name": "Corsola",
-    "generation": 2,
     "dex": "0222",
     "type": "Water, Rock",
     "games": [
@@ -2456,7 +2234,6 @@
   },
   {
     "name": "Remoraid",
-    "generation": 2,
     "dex": "0223",
     "type": "Water",
     "games": [
@@ -2467,7 +2244,6 @@
   },
   {
     "name": "Octillery",
-    "generation": 2,
     "dex": "0224",
     "type": "Water",
     "games": [
@@ -2478,7 +2254,6 @@
   },
   {
     "name": "Delibird",
-    "generation": 2,
     "dex": "0225",
     "type": "Ice, Flying",
     "games": [
@@ -2490,7 +2265,6 @@
   },
   {
     "name": "Mantine",
-    "generation": 2,
     "dex": "0226",
     "type": "Water, Flying",
     "games": [
@@ -2501,7 +2275,6 @@
   },
   {
     "name": "Skarmory",
-    "generation": 2,
     "dex": "0227",
     "type": "Steel, Flying",
     "games": [
@@ -2513,7 +2286,6 @@
   },
   {
     "name": "Houndour",
-    "generation": 2,
     "dex": "0228",
     "type": "Dark, Fire",
     "games": [
@@ -2524,7 +2296,6 @@
   },
   {
     "name": "Houndoom",
-    "generation": 2,
     "dex": "0229",
     "type": "Dark, Fire",
     "games": [
@@ -2535,7 +2306,6 @@
   },
   {
     "name": "Kingdra",
-    "generation": 2,
     "dex": "0230",
     "type": "Water, Dragon",
     "games": [
@@ -2546,7 +2316,6 @@
   },
   {
     "name": "Phanpy",
-    "generation": 2,
     "dex": "0231",
     "type": "Ground",
     "games": [
@@ -2556,7 +2325,6 @@
   },
   {
     "name": "Donphan",
-    "generation": 2,
     "dex": "0232",
     "type": "Ground",
     "games": [
@@ -2566,7 +2334,6 @@
   },
   {
     "name": "Porygon2",
-    "generation": 2,
     "dex": "0233",
     "type": "Normal",
     "games": [
@@ -2579,7 +2346,6 @@
   },
   {
     "name": "Stantler",
-    "generation": 2,
     "dex": "0234",
     "type": "Normal",
     "games": [
@@ -2590,7 +2356,6 @@
   },
   {
     "name": "Smeargle",
-    "generation": 2,
     "dex": "0235",
     "type": "Normal",
     "games": [
@@ -2600,7 +2365,6 @@
   },
   {
     "name": "Tyrogue",
-    "generation": 2,
     "dex": "0236",
     "type": "Fighting",
     "games": [
@@ -2611,7 +2375,6 @@
   },
   {
     "name": "Hitmontop",
-    "generation": 2,
     "dex": "0237",
     "type": "Fighting",
     "games": [
@@ -2622,7 +2385,6 @@
   },
   {
     "name": "Smoochum",
-    "generation": 2,
     "dex": "0238",
     "type": "Ice, Psychic",
     "games": [
@@ -2632,7 +2394,6 @@
   },
   {
     "name": "Elekid",
-    "generation": 2,
     "dex": "0239",
     "type": "Electric",
     "games": [
@@ -2644,7 +2405,6 @@
   },
   {
     "name": "Magby",
-    "generation": 2,
     "dex": "0240",
     "type": "Fire",
     "games": [
@@ -2656,7 +2416,6 @@
   },
   {
     "name": "Miltank",
-    "generation": 2,
     "dex": "0241",
     "type": "Normal",
     "games": [
@@ -2666,7 +2425,6 @@
   },
   {
     "name": "Blissey",
-    "generation": 2,
     "dex": "0242",
     "type": "Normal",
     "games": [
@@ -2678,7 +2436,6 @@
   },
   {
     "name": "Raikou",
-    "generation": 2,
     "dex": "0243",
     "type": "Electric",
     "games": [
@@ -2688,7 +2445,6 @@
   },
   {
     "name": "Entei",
-    "generation": 2,
     "dex": "0244",
     "type": "Fire",
     "games": [
@@ -2698,7 +2454,6 @@
   },
   {
     "name": "Suicune",
-    "generation": 2,
     "dex": "0245",
     "type": "Water",
     "games": [
@@ -2708,7 +2463,6 @@
   },
   {
     "name": "Larvitar",
-    "generation": 2,
     "dex": "0246",
     "type": "Rock, Ground",
     "games": [
@@ -2720,7 +2474,6 @@
   },
   {
     "name": "Pupitar",
-    "generation": 2,
     "dex": "0247",
     "type": "Rock, Ground",
     "games": [
@@ -2732,7 +2485,6 @@
   },
   {
     "name": "Tyranitar",
-    "generation": 2,
     "dex": "0248",
     "type": "Rock, Dark",
     "games": [
@@ -2744,7 +2496,6 @@
   },
   {
     "name": "Lugia",
-    "generation": 2,
     "dex": "0249",
     "type": "Psychic, Flying",
     "games": [
@@ -2754,7 +2505,6 @@
   },
   {
     "name": "Ho-oh",
-    "generation": 2,
     "dex": "0250",
     "type": "Fire, Flying",
     "games": [
@@ -2764,7 +2514,6 @@
   },
   {
     "name": "Celebi",
-    "generation": 2,
     "dex": "0251",
     "type": "Psychic, Grass",
     "games": [
@@ -2773,7 +2522,6 @@
   },
   {
     "name": "Treecko",
-    "generation": 3,
     "dex": "0252",
     "type": "Grass",
     "games": [
@@ -2785,7 +2533,6 @@
   },
   {
     "name": "Grovyle",
-    "generation": 3,
     "dex": "0253",
     "type": "Grass",
     "games": [
@@ -2797,7 +2544,6 @@
   },
   {
     "name": "Sceptile",
-    "generation": 3,
     "dex": "0254",
     "type": "Grass",
     "games": [
@@ -2809,7 +2555,6 @@
   },
   {
     "name": "Torchic",
-    "generation": 3,
     "dex": "0255",
     "type": "Fire",
     "games": [
@@ -2821,7 +2566,6 @@
   },
   {
     "name": "Combusken",
-    "generation": 3,
     "dex": "0256",
     "type": "Fire, Fighting",
     "games": [
@@ -2833,7 +2577,6 @@
   },
   {
     "name": "Blaziken",
-    "generation": 3,
     "dex": "0257",
     "type": "Fire, Fighting",
     "games": [
@@ -2845,7 +2588,6 @@
   },
   {
     "name": "Mudkip",
-    "generation": 3,
     "dex": "0258",
     "type": "Water",
     "games": [
@@ -2857,7 +2599,6 @@
   },
   {
     "name": "Marshtomp",
-    "generation": 3,
     "dex": "0259",
     "type": "Water, Ground",
     "games": [
@@ -2869,7 +2610,6 @@
   },
   {
     "name": "Swampert",
-    "generation": 3,
     "dex": "0260",
     "type": "Water, Ground",
     "games": [
@@ -2881,7 +2621,6 @@
   },
   {
     "name": "Poochyena",
-    "generation": 3,
     "dex": "0261",
     "type": "Dark",
     "games": [
@@ -2891,7 +2630,6 @@
   },
   {
     "name": "Mightyena",
-    "generation": 3,
     "dex": "0262",
     "type": "Dark",
     "games": [
@@ -2901,7 +2639,6 @@
   },
   {
     "name": "Zigzagoon",
-    "generation": 3,
     "dex": "0263",
     "type": "Normal",
     "games": [
@@ -2911,7 +2648,6 @@
   },
   {
     "name": "Linoone",
-    "generation": 3,
     "dex": "0264",
     "type": "Normal",
     "games": [
@@ -2921,7 +2657,6 @@
   },
   {
     "name": "Wurmple",
-    "generation": 3,
     "dex": "0265",
     "type": "Bug",
     "games": [
@@ -2931,7 +2666,6 @@
   },
   {
     "name": "Silcoon",
-    "generation": 3,
     "dex": "0266",
     "type": "Bug",
     "games": [
@@ -2941,7 +2675,6 @@
   },
   {
     "name": "Beautifly",
-    "generation": 3,
     "dex": "0267",
     "type": "Bug, Flying",
     "games": [
@@ -2951,7 +2684,6 @@
   },
   {
     "name": "Cascoon",
-    "generation": 3,
     "dex": "0268",
     "type": "Bug",
     "games": [
@@ -2961,7 +2693,6 @@
   },
   {
     "name": "Dustox",
-    "generation": 3,
     "dex": "0269",
     "type": "Bug, Poison",
     "games": [
@@ -2971,7 +2702,6 @@
   },
   {
     "name": "Lotad",
-    "generation": 3,
     "dex": "0270",
     "type": "Water, Grass",
     "games": [
@@ -2982,7 +2712,6 @@
   },
   {
     "name": "Lombre",
-    "generation": 3,
     "dex": "0271",
     "type": "Water, Grass",
     "games": [
@@ -2993,7 +2722,6 @@
   },
   {
     "name": "Ludicolo",
-    "generation": 3,
     "dex": "0272",
     "type": "Water, Grass",
     "games": [
@@ -3004,7 +2732,6 @@
   },
   {
     "name": "Seedot",
-    "generation": 3,
     "dex": "0273",
     "type": "Grass",
     "games": [
@@ -3015,7 +2742,6 @@
   },
   {
     "name": "Nuzleaf",
-    "generation": 3,
     "dex": "0274",
     "type": "Grass, Dark",
     "games": [
@@ -3026,7 +2752,6 @@
   },
   {
     "name": "Shiftry",
-    "generation": 3,
     "dex": "0275",
     "type": "Grass, Dark",
     "games": [
@@ -3037,7 +2762,6 @@
   },
   {
     "name": "Taillow",
-    "generation": 3,
     "dex": "0276",
     "type": "Normal, Flying",
     "games": [
@@ -3046,7 +2770,6 @@
   },
   {
     "name": "Swellow",
-    "generation": 3,
     "dex": "0277",
     "type": "Normal, Flying",
     "games": [
@@ -3055,7 +2778,6 @@
   },
   {
     "name": "Wingull",
-    "generation": 3,
     "dex": "0278",
     "type": "Water, Flying",
     "games": [
@@ -3066,7 +2788,6 @@
   },
   {
     "name": "Pelipper",
-    "generation": 3,
     "dex": "0279",
     "type": "Water, Flying",
     "games": [
@@ -3077,7 +2798,6 @@
   },
   {
     "name": "Ralts",
-    "generation": 3,
     "dex": "0280",
     "type": "Psychic, Fairy",
     "games": [
@@ -3090,7 +2810,6 @@
   },
   {
     "name": "Kirlia",
-    "generation": 3,
     "dex": "0281",
     "type": "Psychic, Fairy",
     "games": [
@@ -3103,7 +2822,6 @@
   },
   {
     "name": "Gardevoir",
-    "generation": 3,
     "dex": "0282",
     "type": "Psychic, Fairy",
     "games": [
@@ -3116,7 +2834,6 @@
   },
   {
     "name": "Surskit",
-    "generation": 3,
     "dex": "0283",
     "type": "Bug, Water",
     "games": [
@@ -3126,7 +2843,6 @@
   },
   {
     "name": "Masquerain",
-    "generation": 3,
     "dex": "0284",
     "type": "Bug, Flying",
     "games": [
@@ -3136,7 +2852,6 @@
   },
   {
     "name": "Shroomish",
-    "generation": 3,
     "dex": "0285",
     "type": "Grass",
     "games": [
@@ -3146,7 +2861,6 @@
   },
   {
     "name": "Breloom",
-    "generation": 3,
     "dex": "0286",
     "type": "Grass, Fighting",
     "games": [
@@ -3156,7 +2870,6 @@
   },
   {
     "name": "Slakoth",
-    "generation": 3,
     "dex": "0287",
     "type": "Normal",
     "games": [
@@ -3166,7 +2879,6 @@
   },
   {
     "name": "Vigoroth",
-    "generation": 3,
     "dex": "0288",
     "type": "Normal",
     "games": [
@@ -3176,7 +2888,6 @@
   },
   {
     "name": "Slaking",
-    "generation": 3,
     "dex": "0289",
     "type": "Normal",
     "games": [
@@ -3186,7 +2897,6 @@
   },
   {
     "name": "Nincada",
-    "generation": 3,
     "dex": "0290",
     "type": "Bug, Ground",
     "games": [
@@ -3196,7 +2906,6 @@
   },
   {
     "name": "Ninjask",
-    "generation": 3,
     "dex": "0291",
     "type": "Bug, Flying",
     "games": [
@@ -3206,7 +2915,6 @@
   },
   {
     "name": "Shedinja",
-    "generation": 3,
     "dex": "0292",
     "type": "Bug, Ghost",
     "games": [
@@ -3216,7 +2924,6 @@
   },
   {
     "name": "Whismur",
-    "generation": 3,
     "dex": "0293",
     "type": "Normal",
     "games": [
@@ -3226,7 +2933,6 @@
   },
   {
     "name": "Loudred",
-    "generation": 3,
     "dex": "0294",
     "type": "Normal",
     "games": [
@@ -3236,7 +2942,6 @@
   },
   {
     "name": "Exploud",
-    "generation": 3,
     "dex": "0295",
     "type": "Normal",
     "games": [
@@ -3246,7 +2951,6 @@
   },
   {
     "name": "Makuhita",
-    "generation": 3,
     "dex": "0296",
     "type": "Fighting",
     "games": [
@@ -3256,7 +2960,6 @@
   },
   {
     "name": "Hariyama",
-    "generation": 3,
     "dex": "0297",
     "type": "Fighting",
     "games": [
@@ -3266,7 +2969,6 @@
   },
   {
     "name": "Azurill",
-    "generation": 3,
     "dex": "0298",
     "type": "Normal, Fairy",
     "games": [
@@ -3277,7 +2979,6 @@
   },
   {
     "name": "Nosepass",
-    "generation": 3,
     "dex": "0299",
     "type": "Rock",
     "games": [
@@ -3288,7 +2989,6 @@
   },
   {
     "name": "Skitty",
-    "generation": 3,
     "dex": "0300",
     "type": "Normal",
     "games": [
@@ -3297,7 +2997,6 @@
   },
   {
     "name": "Delcatty",
-    "generation": 3,
     "dex": "0301",
     "type": "Normal",
     "games": [
@@ -3306,7 +3005,6 @@
   },
   {
     "name": "Sableye",
-    "generation": 3,
     "dex": "0302",
     "type": "Dark, Ghost",
     "games": [
@@ -3318,7 +3016,6 @@
   },
   {
     "name": "Mawile",
-    "generation": 3,
     "dex": "0303",
     "type": "Steel, Fairy",
     "games": [
@@ -3329,7 +3026,6 @@
   },
   {
     "name": "Aron",
-    "generation": 3,
     "dex": "0304",
     "type": "Steel, Rock",
     "games": [
@@ -3340,7 +3036,6 @@
   },
   {
     "name": "Lairon",
-    "generation": 3,
     "dex": "0305",
     "type": "Steel, Rock",
     "games": [
@@ -3351,7 +3046,6 @@
   },
   {
     "name": "Aggron",
-    "generation": 3,
     "dex": "0306",
     "type": "Steel, Rock",
     "games": [
@@ -3362,7 +3056,6 @@
   },
   {
     "name": "Meditite",
-    "generation": 3,
     "dex": "0307",
     "type": "Fighting, Psychic",
     "games": [
@@ -3373,7 +3066,6 @@
   },
   {
     "name": "Medicham",
-    "generation": 3,
     "dex": "0308",
     "type": "Fighting, Psychic",
     "games": [
@@ -3384,7 +3076,6 @@
   },
   {
     "name": "Electrike",
-    "generation": 3,
     "dex": "0309",
     "type": "Electric",
     "games": [
@@ -3395,7 +3086,6 @@
   },
   {
     "name": "Manectric",
-    "generation": 3,
     "dex": "0310",
     "type": "Electric",
     "games": [
@@ -3406,7 +3096,6 @@
   },
   {
     "name": "Plusle",
-    "generation": 3,
     "dex": "0311",
     "type": "Electric",
     "games": [
@@ -3416,7 +3105,6 @@
   },
   {
     "name": "Minun",
-    "generation": 3,
     "dex": "0312",
     "type": "Electric",
     "games": [
@@ -3426,7 +3114,6 @@
   },
   {
     "name": "Volbeat",
-    "generation": 3,
     "dex": "0313",
     "type": "Bug",
     "games": [
@@ -3436,7 +3123,6 @@
   },
   {
     "name": "Illumise",
-    "generation": 3,
     "dex": "0314",
     "type": "Bug",
     "games": [
@@ -3446,7 +3132,6 @@
   },
   {
     "name": "Roselia",
-    "generation": 3,
     "dex": "0315",
     "type": "Grass, Poison",
     "games": [
@@ -3458,7 +3143,6 @@
   },
   {
     "name": "Gulpin",
-    "generation": 3,
     "dex": "0316",
     "type": "Poison",
     "games": [
@@ -3469,7 +3153,6 @@
   },
   {
     "name": "Swalot",
-    "generation": 3,
     "dex": "0317",
     "type": "Poison",
     "games": [
@@ -3480,7 +3163,6 @@
   },
   {
     "name": "Carvanha",
-    "generation": 3,
     "dex": "0318",
     "type": "Water, Dark",
     "games": [
@@ -3491,7 +3173,6 @@
   },
   {
     "name": "Sharpedo",
-    "generation": 3,
     "dex": "0319",
     "type": "Water, Dark",
     "games": [
@@ -3502,7 +3183,6 @@
   },
   {
     "name": "Wailmer",
-    "generation": 3,
     "dex": "0320",
     "type": "Water",
     "games": [
@@ -3512,7 +3192,6 @@
   },
   {
     "name": "Wailord",
-    "generation": 3,
     "dex": "0321",
     "type": "Water",
     "games": [
@@ -3522,7 +3201,6 @@
   },
   {
     "name": "Numel",
-    "generation": 3,
     "dex": "0322",
     "type": "Fire, Ground",
     "games": [
@@ -3533,7 +3211,6 @@
   },
   {
     "name": "Camerupt",
-    "generation": 3,
     "dex": "0323",
     "type": "Fire, Ground",
     "games": [
@@ -3544,7 +3221,6 @@
   },
   {
     "name": "Torkoal",
-    "generation": 3,
     "dex": "0324",
     "type": "Fire",
     "games": [
@@ -3555,7 +3231,6 @@
   },
   {
     "name": "Spoink",
-    "generation": 3,
     "dex": "0325",
     "type": "Psychic",
     "games": [
@@ -3566,7 +3241,6 @@
   },
   {
     "name": "Grumpig",
-    "generation": 3,
     "dex": "0326",
     "type": "Psychic",
     "games": [
@@ -3577,7 +3251,6 @@
   },
   {
     "name": "Spinda",
-    "generation": 3,
     "dex": "0327",
     "type": "Normal",
     "games": [
@@ -3586,7 +3259,6 @@
   },
   {
     "name": "Trapinch",
-    "generation": 3,
     "dex": "0328",
     "type": "Ground",
     "games": [
@@ -3597,7 +3269,6 @@
   },
   {
     "name": "Vibrava",
-    "generation": 3,
     "dex": "0329",
     "type": "Ground, Dragon",
     "games": [
@@ -3608,7 +3279,6 @@
   },
   {
     "name": "Flygon",
-    "generation": 3,
     "dex": "0330",
     "type": "Ground, Dragon",
     "games": [
@@ -3619,7 +3289,6 @@
   },
   {
     "name": "Cacnea",
-    "generation": 3,
     "dex": "0331",
     "type": "Grass",
     "games": [
@@ -3629,7 +3298,6 @@
   },
   {
     "name": "Cacturne",
-    "generation": 3,
     "dex": "0332",
     "type": "Grass, Dark",
     "games": [
@@ -3639,7 +3307,6 @@
   },
   {
     "name": "Swablu",
-    "generation": 3,
     "dex": "0333",
     "type": "Normal, Flying",
     "games": [
@@ -3651,7 +3318,6 @@
   },
   {
     "name": "Altaria",
-    "generation": 3,
     "dex": "0334",
     "type": "Dragon, Flying",
     "games": [
@@ -3663,7 +3329,6 @@
   },
   {
     "name": "Zangoose",
-    "generation": 3,
     "dex": "0335",
     "type": "Normal",
     "games": [
@@ -3674,7 +3339,6 @@
   },
   {
     "name": "Seviper",
-    "generation": 3,
     "dex": "0336",
     "type": "Poison",
     "games": [
@@ -3685,7 +3349,6 @@
   },
   {
     "name": "Lunatone",
-    "generation": 3,
     "dex": "0337",
     "type": "Rock, Psychic",
     "games": [
@@ -3695,7 +3358,6 @@
   },
   {
     "name": "Solrock",
-    "generation": 3,
     "dex": "0338",
     "type": "Rock, Psychic",
     "games": [
@@ -3705,7 +3367,6 @@
   },
   {
     "name": "Barboach",
-    "generation": 3,
     "dex": "0339",
     "type": "Water, Ground",
     "games": [
@@ -3717,7 +3378,6 @@
   },
   {
     "name": "Whiscash",
-    "generation": 3,
     "dex": "0340",
     "type": "Water, Ground",
     "games": [
@@ -3729,7 +3389,6 @@
   },
   {
     "name": "Corphish",
-    "generation": 3,
     "dex": "0341",
     "type": "Water",
     "games": [
@@ -3740,7 +3399,6 @@
   },
   {
     "name": "Crawdaunt",
-    "generation": 3,
     "dex": "0342",
     "type": "Water, Dark",
     "games": [
@@ -3751,7 +3409,6 @@
   },
   {
     "name": "Baltoy",
-    "generation": 3,
     "dex": "0343",
     "type": "Ground, Psychic",
     "games": [
@@ -3761,7 +3418,6 @@
   },
   {
     "name": "Claydol",
-    "generation": 3,
     "dex": "0344",
     "type": "Ground, Psychic",
     "games": [
@@ -3771,7 +3427,6 @@
   },
   {
     "name": "Lileep",
-    "generation": 3,
     "dex": "0345",
     "type": "Rock, Grass",
     "games": [
@@ -3781,7 +3436,6 @@
   },
   {
     "name": "Cradily",
-    "generation": 3,
     "dex": "0346",
     "type": "Rock, Grass",
     "games": [
@@ -3791,7 +3445,6 @@
   },
   {
     "name": "Anorith",
-    "generation": 3,
     "dex": "0347",
     "type": "Rock, Bug",
     "games": [
@@ -3801,7 +3454,6 @@
   },
   {
     "name": "Armaldo",
-    "generation": 3,
     "dex": "0348",
     "type": "Rock, Bug",
     "games": [
@@ -3811,7 +3463,6 @@
   },
   {
     "name": "Feebas",
-    "generation": 3,
     "dex": "0349",
     "type": "Water",
     "games": [
@@ -3823,7 +3474,6 @@
   },
   {
     "name": "Milotic",
-    "generation": 3,
     "dex": "0350",
     "type": "Water",
     "games": [
@@ -3835,7 +3485,6 @@
   },
   {
     "name": "Castform",
-    "generation": 3,
     "dex": "0351",
     "type": "Normal",
     "games": [
@@ -3844,7 +3493,6 @@
   },
   {
     "name": "Kecleon",
-    "generation": 3,
     "dex": "0352",
     "type": "Normal",
     "games": [
@@ -3854,7 +3502,6 @@
   },
   {
     "name": "Shuppet",
-    "generation": 3,
     "dex": "0353",
     "type": "Ghost",
     "games": [
@@ -3865,7 +3512,6 @@
   },
   {
     "name": "Banette",
-    "generation": 3,
     "dex": "0354",
     "type": "Ghost",
     "games": [
@@ -3876,7 +3522,6 @@
   },
   {
     "name": "Duskull",
-    "generation": 3,
     "dex": "0355",
     "type": "Ghost",
     "games": [
@@ -3888,7 +3533,6 @@
   },
   {
     "name": "Dusclops",
-    "generation": 3,
     "dex": "0356",
     "type": "Ghost",
     "games": [
@@ -3900,7 +3544,6 @@
   },
   {
     "name": "Tropius",
-    "generation": 3,
     "dex": "0357",
     "type": "Grass, Flying",
     "games": [
@@ -3910,7 +3553,6 @@
   },
   {
     "name": "Chimecho",
-    "generation": 3,
     "dex": "0358",
     "type": "Psychic",
     "games": [
@@ -3922,7 +3564,6 @@
   },
   {
     "name": "Absol",
-    "generation": 3,
     "dex": "0359",
     "type": "Dark",
     "games": [
@@ -3933,7 +3574,6 @@
   },
   {
     "name": "Wynaut",
-    "generation": 3,
     "dex": "0360",
     "type": "Psychic",
     "games": [
@@ -3943,7 +3583,6 @@
   },
   {
     "name": "Snorunt",
-    "generation": 3,
     "dex": "0361",
     "type": "Ice",
     "games": [
@@ -3956,7 +3595,6 @@
   },
   {
     "name": "Glalie",
-    "generation": 3,
     "dex": "0362",
     "type": "Ice",
     "games": [
@@ -3969,7 +3607,6 @@
   },
   {
     "name": "Spheal",
-    "generation": 3,
     "dex": "0363",
     "type": "Ice, Water",
     "games": [
@@ -3980,7 +3617,6 @@
   },
   {
     "name": "Sealeo",
-    "generation": 3,
     "dex": "0364",
     "type": "Ice, Water",
     "games": [
@@ -3991,7 +3627,6 @@
   },
   {
     "name": "Walrein",
-    "generation": 3,
     "dex": "0365",
     "type": "Ice, Water",
     "games": [
@@ -4002,7 +3637,6 @@
   },
   {
     "name": "Clamperl",
-    "generation": 3,
     "dex": "0366",
     "type": "Water",
     "games": [
@@ -4011,7 +3645,6 @@
   },
   {
     "name": "Huntail",
-    "generation": 3,
     "dex": "0367",
     "type": "Water",
     "games": [
@@ -4020,7 +3653,6 @@
   },
   {
     "name": "Gorebyss",
-    "generation": 3,
     "dex": "0368",
     "type": "Water",
     "games": [
@@ -4029,7 +3661,6 @@
   },
   {
     "name": "Relicanth",
-    "generation": 3,
     "dex": "0369",
     "type": "Water, Rock",
     "games": [
@@ -4039,7 +3670,6 @@
   },
   {
     "name": "Luvdisc",
-    "generation": 3,
     "dex": "0370",
     "type": "Water",
     "games": [
@@ -4049,7 +3679,6 @@
   },
   {
     "name": "Bagon",
-    "generation": 3,
     "dex": "0371",
     "type": "Dragon",
     "games": [
@@ -4061,7 +3690,6 @@
   },
   {
     "name": "Shelgon",
-    "generation": 3,
     "dex": "0372",
     "type": "Dragon",
     "games": [
@@ -4073,7 +3701,6 @@
   },
   {
     "name": "Salamence",
-    "generation": 3,
     "dex": "0373",
     "type": "Dragon, Flying",
     "games": [
@@ -4085,7 +3712,6 @@
   },
   {
     "name": "Beldum",
-    "generation": 3,
     "dex": "0374",
     "type": "Steel, Psychic",
     "games": [
@@ -4097,7 +3723,6 @@
   },
   {
     "name": "Metang",
-    "generation": 3,
     "dex": "0375",
     "type": "Steel, Psychic",
     "games": [
@@ -4109,7 +3734,6 @@
   },
   {
     "name": "Metagross",
-    "generation": 3,
     "dex": "0376",
     "type": "Steel, Psychic",
     "games": [
@@ -4121,7 +3745,6 @@
   },
   {
     "name": "Regirock",
-    "generation": 3,
     "dex": "0377",
     "type": "Rock",
     "games": [
@@ -4131,7 +3754,6 @@
   },
   {
     "name": "Regice",
-    "generation": 3,
     "dex": "0378",
     "type": "Ice",
     "games": [
@@ -4141,7 +3763,6 @@
   },
   {
     "name": "Registeel",
-    "generation": 3,
     "dex": "0379",
     "type": "Steel",
     "games": [
@@ -4151,7 +3772,6 @@
   },
   {
     "name": "Latias",
-    "generation": 3,
     "dex": "0380",
     "type": "Dragon, Psychic",
     "games": [
@@ -4162,7 +3782,6 @@
   },
   {
     "name": "Latios",
-    "generation": 3,
     "dex": "0381",
     "type": "Dragon, Psychic",
     "games": [
@@ -4173,7 +3792,6 @@
   },
   {
     "name": "Kyogre",
-    "generation": 3,
     "dex": "0382",
     "type": "Water",
     "games": [
@@ -4184,7 +3802,6 @@
   },
   {
     "name": "Groudon",
-    "generation": 3,
     "dex": "0383",
     "type": "Ground",
     "games": [
@@ -4195,7 +3812,6 @@
   },
   {
     "name": "Rayquaza",
-    "generation": 3,
     "dex": "0384",
     "type": "Dragon, Flying",
     "games": [
@@ -4206,7 +3822,6 @@
   },
   {
     "name": "Jirachi",
-    "generation": 3,
     "dex": "0385",
     "type": "Steel, Psychic",
     "games": [
@@ -4215,7 +3830,6 @@
   },
   {
     "name": "Deoxys",
-    "generation": 3,
     "dex": "0386",
     "type": "Psychic",
     "games": [
@@ -4224,7 +3838,6 @@
   },
   {
     "name": "Turtwig",
-    "generation": 4,
     "dex": "0387",
     "type": "Grass",
     "games": [
@@ -4235,7 +3848,6 @@
   },
   {
     "name": "Grotle",
-    "generation": 4,
     "dex": "0388",
     "type": "Grass",
     "games": [
@@ -4246,7 +3858,6 @@
   },
   {
     "name": "Torterra",
-    "generation": 4,
     "dex": "0389",
     "type": "Grass, Ground",
     "games": [
@@ -4257,7 +3868,6 @@
   },
   {
     "name": "Chimchar",
-    "generation": 4,
     "dex": "0390",
     "type": "Fire",
     "games": [
@@ -4268,7 +3878,6 @@
   },
   {
     "name": "Monferno",
-    "generation": 4,
     "dex": "0391",
     "type": "Fire, Fighting",
     "games": [
@@ -4279,7 +3888,6 @@
   },
   {
     "name": "Infernape",
-    "generation": 4,
     "dex": "0392",
     "type": "Fire, Fighting",
     "games": [
@@ -4290,7 +3898,6 @@
   },
   {
     "name": "Piplup",
-    "generation": 4,
     "dex": "0393",
     "type": "Water",
     "games": [
@@ -4301,7 +3908,6 @@
   },
   {
     "name": "Prinplup",
-    "generation": 4,
     "dex": "0394",
     "type": "Water",
     "games": [
@@ -4312,7 +3918,6 @@
   },
   {
     "name": "Empoleon",
-    "generation": 4,
     "dex": "0395",
     "type": "Water, Steel",
     "games": [
@@ -4323,7 +3928,6 @@
   },
   {
     "name": "Starly",
-    "generation": 4,
     "dex": "0396",
     "type": "Normal, Flying",
     "games": [
@@ -4335,7 +3939,6 @@
   },
   {
     "name": "Staravia",
-    "generation": 4,
     "dex": "0397",
     "type": "Normal, Flying",
     "games": [
@@ -4347,7 +3950,6 @@
   },
   {
     "name": "Staraptor",
-    "generation": 4,
     "dex": "0398",
     "type": "Normal, Flying",
     "games": [
@@ -4359,7 +3961,6 @@
   },
   {
     "name": "Bidoof",
-    "generation": 4,
     "dex": "0399",
     "type": "Normal",
     "games": [
@@ -4369,7 +3970,6 @@
   },
   {
     "name": "Bibarel",
-    "generation": 4,
     "dex": "0400",
     "type": "Normal, Water",
     "games": [
@@ -4379,7 +3979,6 @@
   },
   {
     "name": "Kricketot",
-    "generation": 4,
     "dex": "0401",
     "type": "Bug",
     "games": [
@@ -4390,7 +3989,6 @@
   },
   {
     "name": "Kricketune",
-    "generation": 4,
     "dex": "0402",
     "type": "Bug",
     "games": [
@@ -4401,7 +3999,6 @@
   },
   {
     "name": "Shinx",
-    "generation": 4,
     "dex": "0403",
     "type": "Electric",
     "games": [
@@ -4413,7 +4010,6 @@
   },
   {
     "name": "Luxio",
-    "generation": 4,
     "dex": "0404",
     "type": "Electric",
     "games": [
@@ -4425,7 +4021,6 @@
   },
   {
     "name": "Luxray",
-    "generation": 4,
     "dex": "0405",
     "type": "Electric",
     "games": [
@@ -4437,7 +4032,6 @@
   },
   {
     "name": "Budew",
-    "generation": 4,
     "dex": "0406",
     "type": "Grass, Poison",
     "games": [
@@ -4449,7 +4043,6 @@
   },
   {
     "name": "Roserade",
-    "generation": 4,
     "dex": "0407",
     "type": "Grass, Poison",
     "games": [
@@ -4461,7 +4054,6 @@
   },
   {
     "name": "Cranidos",
-    "generation": 4,
     "dex": "0408",
     "type": "Rock",
     "games": [
@@ -4472,7 +4064,6 @@
   },
   {
     "name": "Rampardos",
-    "generation": 4,
     "dex": "0409",
     "type": "Rock",
     "games": [
@@ -4483,7 +4074,6 @@
   },
   {
     "name": "Shieldon",
-    "generation": 4,
     "dex": "0410",
     "type": "Rock, Steel",
     "games": [
@@ -4494,7 +4084,6 @@
   },
   {
     "name": "Bastiodon",
-    "generation": 4,
     "dex": "0411",
     "type": "Rock, Steel",
     "games": [
@@ -4505,7 +4094,6 @@
   },
   {
     "name": "Burmy",
-    "generation": 4,
     "dex": "0412",
     "type": "Bug",
     "games": [
@@ -4515,7 +4103,6 @@
   },
   {
     "name": "Wormadam",
-    "generation": 4,
     "dex": "0413",
     "type": "Bug, Grass, Ground, Steel",
     "games": [
@@ -4525,7 +4112,6 @@
   },
   {
     "name": "Mothim",
-    "generation": 4,
     "dex": "0414",
     "type": "Bug, Flying",
     "games": [
@@ -4535,7 +4121,6 @@
   },
   {
     "name": "Combee",
-    "generation": 4,
     "dex": "0415",
     "type": "Bug, Flying",
     "games": [
@@ -4547,7 +4132,6 @@
   },
   {
     "name": "Vespiquen",
-    "generation": 4,
     "dex": "0416",
     "type": "Bug, Flying",
     "games": [
@@ -4559,7 +4143,6 @@
   },
   {
     "name": "Pachirisu",
-    "generation": 4,
     "dex": "0417",
     "type": "Electric",
     "games": [
@@ -4570,7 +4153,6 @@
   },
   {
     "name": "Buizel",
-    "generation": 4,
     "dex": "0418",
     "type": "Water",
     "games": [
@@ -4581,7 +4163,6 @@
   },
   {
     "name": "Floatzel",
-    "generation": 4,
     "dex": "0419",
     "type": "Water",
     "games": [
@@ -4592,7 +4173,6 @@
   },
   {
     "name": "Cherubi",
-    "generation": 4,
     "dex": "0420",
     "type": "Grass",
     "games": [
@@ -4603,7 +4183,6 @@
   },
   {
     "name": "Cherrim",
-    "generation": 4,
     "dex": "0421",
     "type": "Grass",
     "games": [
@@ -4614,7 +4193,6 @@
   },
   {
     "name": "Shellos",
-    "generation": 4,
     "dex": "0422",
     "type": "Water",
     "games": [
@@ -4626,7 +4204,6 @@
   },
   {
     "name": "Gastrodon",
-    "generation": 4,
     "dex": "0423",
     "type": "Water, Ground",
     "games": [
@@ -4638,7 +4215,6 @@
   },
   {
     "name": "Ambipom",
-    "generation": 4,
     "dex": "0424",
     "type": "Normal",
     "games": [
@@ -4649,7 +4225,6 @@
   },
   {
     "name": "Drifloon",
-    "generation": 4,
     "dex": "0425",
     "type": "Ghost, Flying",
     "games": [
@@ -4661,7 +4236,6 @@
   },
   {
     "name": "Drifblim",
-    "generation": 4,
     "dex": "0426",
     "type": "Ghost, Flying",
     "games": [
@@ -4673,7 +4247,6 @@
   },
   {
     "name": "Buneary",
-    "generation": 4,
     "dex": "0427",
     "type": "Normal",
     "games": [
@@ -4685,7 +4258,6 @@
   },
   {
     "name": "Lopunny",
-    "generation": 4,
     "dex": "0428",
     "type": "Normal",
     "games": [
@@ -4697,7 +4269,6 @@
   },
   {
     "name": "Mismagius",
-    "generation": 4,
     "dex": "0429",
     "type": "Ghost",
     "games": [
@@ -4708,7 +4279,6 @@
   },
   {
     "name": "Honchkrow",
-    "generation": 4,
     "dex": "0430",
     "type": "Dark, Flying",
     "games": [
@@ -4719,7 +4289,6 @@
   },
   {
     "name": "Glameow",
-    "generation": 4,
     "dex": "0431",
     "type": "Normal",
     "games": [
@@ -4729,7 +4298,6 @@
   },
   {
     "name": "Purugly",
-    "generation": 4,
     "dex": "0432",
     "type": "Normal",
     "games": [
@@ -4739,7 +4307,6 @@
   },
   {
     "name": "Chingling",
-    "generation": 4,
     "dex": "0433",
     "type": "Psychic",
     "games": [
@@ -4751,7 +4318,6 @@
   },
   {
     "name": "Stunky",
-    "generation": 4,
     "dex": "0434",
     "type": "Poison, Dark",
     "games": [
@@ -4763,7 +4329,6 @@
   },
   {
     "name": "Skuntank",
-    "generation": 4,
     "dex": "0435",
     "type": "Poison, Dark",
     "games": [
@@ -4775,7 +4340,6 @@
   },
   {
     "name": "Bronzor",
-    "generation": 4,
     "dex": "0436",
     "type": "Steel, Psychic",
     "games": [
@@ -4787,7 +4351,6 @@
   },
   {
     "name": "Bronzong",
-    "generation": 4,
     "dex": "0437",
     "type": "Steel, Psychic",
     "games": [
@@ -4799,7 +4362,6 @@
   },
   {
     "name": "Bonsly",
-    "generation": 4,
     "dex": "0438",
     "type": "Rock",
     "games": [
@@ -4811,7 +4373,6 @@
   },
   {
     "name": "Mime-jr",
-    "generation": 4,
     "dex": "0439",
     "type": "Psychic, Fairy",
     "games": [
@@ -4823,7 +4384,6 @@
   },
   {
     "name": "Happiny",
-    "generation": 4,
     "dex": "0440",
     "type": "Normal",
     "games": [
@@ -4835,7 +4395,6 @@
   },
   {
     "name": "Chatot",
-    "generation": 4,
     "dex": "0441",
     "type": "Normal, Flying",
     "games": [
@@ -4845,7 +4404,6 @@
   },
   {
     "name": "Spiritomb",
-    "generation": 4,
     "dex": "0442",
     "type": "Ghost, Dark",
     "games": [
@@ -4857,7 +4415,6 @@
   },
   {
     "name": "Gible",
-    "generation": 4,
     "dex": "0443",
     "type": "Dragon, Ground",
     "games": [
@@ -4870,7 +4427,6 @@
   },
   {
     "name": "Gabite",
-    "generation": 4,
     "dex": "0444",
     "type": "Dragon, Ground",
     "games": [
@@ -4883,7 +4439,6 @@
   },
   {
     "name": "Garchomp",
-    "generation": 4,
     "dex": "0445",
     "type": "Dragon, Ground",
     "games": [
@@ -4896,7 +4451,6 @@
   },
   {
     "name": "Munchlax",
-    "generation": 4,
     "dex": "0446",
     "type": "Normal",
     "games": [
@@ -4908,7 +4462,6 @@
   },
   {
     "name": "Riolu",
-    "generation": 4,
     "dex": "0447",
     "type": "Fighting",
     "games": [
@@ -4921,7 +4474,6 @@
   },
   {
     "name": "Lucario",
-    "generation": 4,
     "dex": "0448",
     "type": "Fighting, Steel",
     "games": [
@@ -4934,7 +4486,6 @@
   },
   {
     "name": "Hippopotas",
-    "generation": 4,
     "dex": "0449",
     "type": "Ground",
     "games": [
@@ -4947,7 +4498,6 @@
   },
   {
     "name": "Hippowdon",
-    "generation": 4,
     "dex": "0450",
     "type": "Ground",
     "games": [
@@ -4960,7 +4510,6 @@
   },
   {
     "name": "Skorupi",
-    "generation": 4,
     "dex": "0451",
     "type": "Poison, Bug",
     "games": [
@@ -4971,7 +4520,6 @@
   },
   {
     "name": "Drapion",
-    "generation": 4,
     "dex": "0452",
     "type": "Poison, Dark",
     "games": [
@@ -4982,7 +4530,6 @@
   },
   {
     "name": "Croagunk",
-    "generation": 4,
     "dex": "0453",
     "type": "Poison, Fighting",
     "games": [
@@ -4994,7 +4541,6 @@
   },
   {
     "name": "Toxicroak",
-    "generation": 4,
     "dex": "0454",
     "type": "Poison, Fighting",
     "games": [
@@ -5006,7 +4552,6 @@
   },
   {
     "name": "Carnivine",
-    "generation": 4,
     "dex": "0455",
     "type": "Grass",
     "games": [
@@ -5016,7 +4561,6 @@
   },
   {
     "name": "Finneon",
-    "generation": 4,
     "dex": "0456",
     "type": "Water",
     "games": [
@@ -5027,7 +4571,6 @@
   },
   {
     "name": "Lumineon",
-    "generation": 4,
     "dex": "0457",
     "type": "Water",
     "games": [
@@ -5038,7 +4581,6 @@
   },
   {
     "name": "Mantyke",
-    "generation": 4,
     "dex": "0458",
     "type": "Water, Flying",
     "games": [
@@ -5049,7 +4591,6 @@
   },
   {
     "name": "Snover",
-    "generation": 4,
     "dex": "0459",
     "type": "Grass, Ice",
     "games": [
@@ -5062,7 +4603,6 @@
   },
   {
     "name": "Abomasnow",
-    "generation": 4,
     "dex": "0460",
     "type": "Grass, Ice",
     "games": [
@@ -5075,7 +4615,6 @@
   },
   {
     "name": "Weavile",
-    "generation": 4,
     "dex": "0461",
     "type": "Dark, Ice",
     "games": [
@@ -5087,7 +4626,6 @@
   },
   {
     "name": "Magnezone",
-    "generation": 4,
     "dex": "0462",
     "type": "Electric, Steel",
     "games": [
@@ -5099,7 +4637,6 @@
   },
   {
     "name": "Lickilicky",
-    "generation": 4,
     "dex": "0463",
     "type": "Normal",
     "games": [
@@ -5110,7 +4647,6 @@
   },
   {
     "name": "Rhyperior",
-    "generation": 4,
     "dex": "0464",
     "type": "Ground, Rock",
     "games": [
@@ -5122,7 +4658,6 @@
   },
   {
     "name": "Tangrowth",
-    "generation": 4,
     "dex": "0465",
     "type": "Grass",
     "games": [
@@ -5133,7 +4668,6 @@
   },
   {
     "name": "Electivire",
-    "generation": 4,
     "dex": "0466",
     "type": "Electric",
     "games": [
@@ -5145,7 +4679,6 @@
   },
   {
     "name": "Magmortar",
-    "generation": 4,
     "dex": "0467",
     "type": "Fire",
     "games": [
@@ -5157,7 +4690,6 @@
   },
   {
     "name": "Togekiss",
-    "generation": 4,
     "dex": "0468",
     "type": "Fairy, Flying",
     "games": [
@@ -5168,7 +4700,6 @@
   },
   {
     "name": "Yanmega",
-    "generation": 4,
     "dex": "0469",
     "type": "Bug, Flying",
     "games": [
@@ -5179,7 +4710,6 @@
   },
   {
     "name": "Leafeon",
-    "generation": 4,
     "dex": "0470",
     "type": "Grass",
     "games": [
@@ -5192,7 +4722,6 @@
   },
   {
     "name": "Glaceon",
-    "generation": 4,
     "dex": "0471",
     "type": "Ice",
     "games": [
@@ -5205,7 +4734,6 @@
   },
   {
     "name": "Gliscor",
-    "generation": 4,
     "dex": "0472",
     "type": "Ground, Flying",
     "games": [
@@ -5216,7 +4744,6 @@
   },
   {
     "name": "Mamoswine",
-    "generation": 4,
     "dex": "0473",
     "type": "Ice, Ground",
     "games": [
@@ -5228,7 +4755,6 @@
   },
   {
     "name": "Porygon-z",
-    "generation": 4,
     "dex": "0474",
     "type": "Normal",
     "games": [
@@ -5241,7 +4767,6 @@
   },
   {
     "name": "Gallade",
-    "generation": 4,
     "dex": "0475",
     "type": "Psychic, Fighting",
     "games": [
@@ -5254,7 +4779,6 @@
   },
   {
     "name": "Probopass",
-    "generation": 4,
     "dex": "0476",
     "type": "Rock, Steel",
     "games": [
@@ -5265,7 +4789,6 @@
   },
   {
     "name": "Dusknoir",
-    "generation": 4,
     "dex": "0477",
     "type": "Ghost",
     "games": [
@@ -5277,7 +4800,6 @@
   },
   {
     "name": "Froslass",
-    "generation": 4,
     "dex": "0478",
     "type": "Ice, Ghost",
     "games": [
@@ -5290,7 +4812,6 @@
   },
   {
     "name": "Rotom",
-    "generation": 4,
     "dex": "0479",
     "type": "Electric, Ghost",
     "games": [
@@ -5303,7 +4824,6 @@
   },
   {
     "name": "Uxie",
-    "generation": 4,
     "dex": "0480",
     "type": "Psychic",
     "games": [
@@ -5314,7 +4834,6 @@
   },
   {
     "name": "Mesprit",
-    "generation": 4,
     "dex": "0481",
     "type": "Psychic",
     "games": [
@@ -5325,7 +4844,6 @@
   },
   {
     "name": "Azelf",
-    "generation": 4,
     "dex": "0482",
     "type": "Psychic",
     "games": [
@@ -5336,7 +4854,6 @@
   },
   {
     "name": "Dialga",
-    "generation": 4,
     "dex": "0483",
     "type": "Steel, Dragon",
     "games": [
@@ -5347,7 +4864,6 @@
   },
   {
     "name": "Palkia",
-    "generation": 4,
     "dex": "0484",
     "type": "Water, Dragon",
     "games": [
@@ -5358,7 +4874,6 @@
   },
   {
     "name": "Heatran",
-    "generation": 4,
     "dex": "0485",
     "type": "Fire, Steel",
     "games": [
@@ -5370,7 +4885,6 @@
   },
   {
     "name": "Regigigas",
-    "generation": 4,
     "dex": "0486",
     "type": "Normal",
     "games": [
@@ -5381,7 +4895,6 @@
   },
   {
     "name": "Giratina",
-    "generation": 4,
     "dex": "0487",
     "type": "Ghost, Dragon",
     "games": [
@@ -5392,7 +4905,6 @@
   },
   {
     "name": "Cresselia",
-    "generation": 4,
     "dex": "0488",
     "type": "Psychic",
     "games": [
@@ -5403,7 +4915,6 @@
   },
   {
     "name": "Phione",
-    "generation": 4,
     "dex": "0489",
     "type": "Water",
     "games": [
@@ -5413,7 +4924,6 @@
   },
   {
     "name": "Manaphy",
-    "generation": 4,
     "dex": "0490",
     "type": "Water",
     "games": [
@@ -5423,7 +4933,6 @@
   },
   {
     "name": "Darkrai",
-    "generation": 4,
     "dex": "0491",
     "type": "Dark",
     "games": [
@@ -5434,7 +4943,6 @@
   },
   {
     "name": "Shaymin",
-    "generation": 4,
     "dex": "0492",
     "type": "Grass",
     "games": [
@@ -5444,7 +4952,6 @@
   },
   {
     "name": "Arceus",
-    "generation": 4,
     "dex": "0493",
     "type": "Normal",
     "games": [
@@ -5454,14 +4961,12 @@
   },
   {
     "name": "Victini",
-    "generation": 5,
     "dex": "0494",
     "type": "Psychic, Fire",
     "games": []
   },
   {
     "name": "Snivy",
-    "generation": 5,
     "dex": "0495",
     "type": "Grass",
     "games": [
@@ -5470,7 +4975,6 @@
   },
   {
     "name": "Servine",
-    "generation": 5,
     "dex": "0496",
     "type": "Grass",
     "games": [
@@ -5479,7 +4983,6 @@
   },
   {
     "name": "Serperior",
-    "generation": 5,
     "dex": "0497",
     "type": "Grass",
     "games": [
@@ -5488,7 +4991,6 @@
   },
   {
     "name": "Tepig",
-    "generation": 5,
     "dex": "0498",
     "type": "Fire",
     "games": [
@@ -5498,7 +5000,6 @@
   },
   {
     "name": "Pignite",
-    "generation": 5,
     "dex": "0499",
     "type": "Fire, Fighting",
     "games": [
@@ -5508,7 +5009,6 @@
   },
   {
     "name": "Emboar",
-    "generation": 5,
     "dex": "0500",
     "type": "Fire, Fighting",
     "games": [
@@ -5518,7 +5018,6 @@
   },
   {
     "name": "Oshawott",
-    "generation": 5,
     "dex": "0501",
     "type": "Water",
     "games": [
@@ -5528,7 +5027,6 @@
   },
   {
     "name": "Dewott",
-    "generation": 5,
     "dex": "0502",
     "type": "Water",
     "games": [
@@ -5538,7 +5036,6 @@
   },
   {
     "name": "Samurott",
-    "generation": 5,
     "dex": "0503",
     "type": "Water",
     "games": [
@@ -5547,7 +5044,6 @@
   },
   {
     "name": "Patrat",
-    "generation": 5,
     "dex": "0504",
     "type": "Normal",
     "games": [
@@ -5556,7 +5052,6 @@
   },
   {
     "name": "Watchog",
-    "generation": 5,
     "dex": "0505",
     "type": "Normal",
     "games": [
@@ -5565,7 +5060,6 @@
   },
   {
     "name": "Lillipup",
-    "generation": 5,
     "dex": "0506",
     "type": "Normal",
     "games": [
@@ -5574,7 +5068,6 @@
   },
   {
     "name": "Herdier",
-    "generation": 5,
     "dex": "0507",
     "type": "Normal",
     "games": [
@@ -5583,7 +5076,6 @@
   },
   {
     "name": "Stoutland",
-    "generation": 5,
     "dex": "0508",
     "type": "Normal",
     "games": [
@@ -5592,7 +5084,6 @@
   },
   {
     "name": "Purrloin",
-    "generation": 5,
     "dex": "0509",
     "type": "Dark",
     "games": [
@@ -5602,7 +5093,6 @@
   },
   {
     "name": "Liepard",
-    "generation": 5,
     "dex": "0510",
     "type": "Dark",
     "games": [
@@ -5612,7 +5102,6 @@
   },
   {
     "name": "Pansage",
-    "generation": 5,
     "dex": "0511",
     "type": "Grass",
     "games": [
@@ -5621,7 +5110,6 @@
   },
   {
     "name": "Simisage",
-    "generation": 5,
     "dex": "0512",
     "type": "Grass",
     "games": [
@@ -5630,7 +5118,6 @@
   },
   {
     "name": "Pansear",
-    "generation": 5,
     "dex": "0513",
     "type": "Fire",
     "games": [
@@ -5639,7 +5126,6 @@
   },
   {
     "name": "Simisear",
-    "generation": 5,
     "dex": "0514",
     "type": "Fire",
     "games": [
@@ -5648,7 +5134,6 @@
   },
   {
     "name": "Panpour",
-    "generation": 5,
     "dex": "0515",
     "type": "Water",
     "games": [
@@ -5657,7 +5142,6 @@
   },
   {
     "name": "Simipour",
-    "generation": 5,
     "dex": "0516",
     "type": "Water",
     "games": [
@@ -5666,7 +5150,6 @@
   },
   {
     "name": "Munna",
-    "generation": 5,
     "dex": "0517",
     "type": "Psychic",
     "games": [
@@ -5676,7 +5159,6 @@
   },
   {
     "name": "Musharna",
-    "generation": 5,
     "dex": "0518",
     "type": "Psychic",
     "games": [
@@ -5686,7 +5168,6 @@
   },
   {
     "name": "Pidove",
-    "generation": 5,
     "dex": "0519",
     "type": "Normal, Flying",
     "games": [
@@ -5695,7 +5176,6 @@
   },
   {
     "name": "Tranquill",
-    "generation": 5,
     "dex": "0520",
     "type": "Normal, Flying",
     "games": [
@@ -5704,7 +5184,6 @@
   },
   {
     "name": "Unfezant",
-    "generation": 5,
     "dex": "0521",
     "type": "Normal, Flying",
     "games": [
@@ -5713,7 +5192,6 @@
   },
   {
     "name": "Blitzle",
-    "generation": 5,
     "dex": "0522",
     "type": "Electric",
     "games": [
@@ -5722,7 +5200,6 @@
   },
   {
     "name": "Zebstrika",
-    "generation": 5,
     "dex": "0523",
     "type": "Electric",
     "games": [
@@ -5731,7 +5208,6 @@
   },
   {
     "name": "Roggenrola",
-    "generation": 5,
     "dex": "0524",
     "type": "Rock",
     "games": [
@@ -5740,7 +5216,6 @@
   },
   {
     "name": "Boldore",
-    "generation": 5,
     "dex": "0525",
     "type": "Rock",
     "games": [
@@ -5749,7 +5224,6 @@
   },
   {
     "name": "Gigalith",
-    "generation": 5,
     "dex": "0526",
     "type": "Rock",
     "games": [
@@ -5758,7 +5232,6 @@
   },
   {
     "name": "Woobat",
-    "generation": 5,
     "dex": "0527",
     "type": "Psychic, Flying",
     "games": [
@@ -5767,7 +5240,6 @@
   },
   {
     "name": "Swoobat",
-    "generation": 5,
     "dex": "0528",
     "type": "Psychic, Flying",
     "games": [
@@ -5776,7 +5248,6 @@
   },
   {
     "name": "Drilbur",
-    "generation": 5,
     "dex": "0529",
     "type": "Ground",
     "games": [
@@ -5787,7 +5258,6 @@
   },
   {
     "name": "Excadrill",
-    "generation": 5,
     "dex": "0530",
     "type": "Ground, Steel",
     "games": [
@@ -5798,7 +5268,6 @@
   },
   {
     "name": "Audino",
-    "generation": 5,
     "dex": "0531",
     "type": "Normal",
     "games": [
@@ -5808,7 +5277,6 @@
   },
   {
     "name": "Timburr",
-    "generation": 5,
     "dex": "0532",
     "type": "Fighting",
     "games": [
@@ -5818,7 +5286,6 @@
   },
   {
     "name": "Gurdurr",
-    "generation": 5,
     "dex": "0533",
     "type": "Fighting",
     "games": [
@@ -5828,7 +5295,6 @@
   },
   {
     "name": "Conkeldurr",
-    "generation": 5,
     "dex": "0534",
     "type": "Fighting",
     "games": [
@@ -5838,7 +5304,6 @@
   },
   {
     "name": "Tympole",
-    "generation": 5,
     "dex": "0535",
     "type": "Water",
     "games": [
@@ -5847,7 +5312,6 @@
   },
   {
     "name": "Palpitoad",
-    "generation": 5,
     "dex": "0536",
     "type": "Water, Ground",
     "games": [
@@ -5856,7 +5320,6 @@
   },
   {
     "name": "Seismitoad",
-    "generation": 5,
     "dex": "0537",
     "type": "Water, Ground",
     "games": [
@@ -5865,7 +5328,6 @@
   },
   {
     "name": "Throh",
-    "generation": 5,
     "dex": "0538",
     "type": "Fighting",
     "games": [
@@ -5875,7 +5337,6 @@
   },
   {
     "name": "Sawk",
-    "generation": 5,
     "dex": "0539",
     "type": "Fighting",
     "games": [
@@ -5885,7 +5346,6 @@
   },
   {
     "name": "Sewaddle",
-    "generation": 5,
     "dex": "0540",
     "type": "Bug, Grass",
     "games": [
@@ -5894,7 +5354,6 @@
   },
   {
     "name": "Swadloon",
-    "generation": 5,
     "dex": "0541",
     "type": "Bug, Grass",
     "games": [
@@ -5903,7 +5362,6 @@
   },
   {
     "name": "Leavanny",
-    "generation": 5,
     "dex": "0542",
     "type": "Bug, Grass",
     "games": [
@@ -5912,7 +5370,6 @@
   },
   {
     "name": "Venipede",
-    "generation": 5,
     "dex": "0543",
     "type": "Bug, Poison",
     "games": [
@@ -5922,7 +5379,6 @@
   },
   {
     "name": "Whirlipede",
-    "generation": 5,
     "dex": "0544",
     "type": "Bug, Poison",
     "games": [
@@ -5932,7 +5388,6 @@
   },
   {
     "name": "Scolipede",
-    "generation": 5,
     "dex": "0545",
     "type": "Bug, Poison",
     "games": [
@@ -5942,7 +5397,6 @@
   },
   {
     "name": "Cottonee",
-    "generation": 5,
     "dex": "0546",
     "type": "Grass, Fairy",
     "games": [
@@ -5952,7 +5406,6 @@
   },
   {
     "name": "Whimsicott",
-    "generation": 5,
     "dex": "0547",
     "type": "Grass, Fairy",
     "games": [
@@ -5962,7 +5415,6 @@
   },
   {
     "name": "Petilil",
-    "generation": 5,
     "dex": "0548",
     "type": "Grass",
     "games": [
@@ -5973,7 +5425,6 @@
   },
   {
     "name": "Lilligant",
-    "generation": 5,
     "dex": "0549",
     "type": "Grass",
     "games": [
@@ -5983,7 +5434,6 @@
   },
   {
     "name": "Basculin",
-    "generation": 5,
     "dex": "0550",
     "type": "Water",
     "games": [
@@ -5993,7 +5443,6 @@
   },
   {
     "name": "Sandile",
-    "generation": 5,
     "dex": "0551",
     "type": "Ground, Dark",
     "games": [
@@ -6004,7 +5453,6 @@
   },
   {
     "name": "Krokorok",
-    "generation": 5,
     "dex": "0552",
     "type": "Ground, Dark",
     "games": [
@@ -6015,7 +5463,6 @@
   },
   {
     "name": "Krookodile",
-    "generation": 5,
     "dex": "0553",
     "type": "Ground, Dark",
     "games": [
@@ -6026,7 +5473,6 @@
   },
   {
     "name": "Darumaka",
-    "generation": 5,
     "dex": "0554",
     "type": "Fire",
     "games": [
@@ -6035,7 +5481,6 @@
   },
   {
     "name": "Darmanitan",
-    "generation": 5,
     "dex": "0555",
     "type": "Fire",
     "games": [
@@ -6044,7 +5489,6 @@
   },
   {
     "name": "Maractus",
-    "generation": 5,
     "dex": "0556",
     "type": "Grass",
     "games": [
@@ -6053,7 +5497,6 @@
   },
   {
     "name": "Dwebble",
-    "generation": 5,
     "dex": "0557",
     "type": "Bug, Rock",
     "games": [
@@ -6062,7 +5505,6 @@
   },
   {
     "name": "Crustle",
-    "generation": 5,
     "dex": "0558",
     "type": "Bug, Rock",
     "games": [
@@ -6071,7 +5513,6 @@
   },
   {
     "name": "Scraggy",
-    "generation": 5,
     "dex": "0559",
     "type": "Dark, Fighting",
     "games": [
@@ -6082,7 +5523,6 @@
   },
   {
     "name": "Scrafty",
-    "generation": 5,
     "dex": "0560",
     "type": "Dark, Fighting",
     "games": [
@@ -6093,7 +5533,6 @@
   },
   {
     "name": "Sigilyph",
-    "generation": 5,
     "dex": "0561",
     "type": "Psychic, Flying",
     "games": [
@@ -6102,7 +5541,6 @@
   },
   {
     "name": "Yamask",
-    "generation": 5,
     "dex": "0562",
     "type": "Ghost",
     "games": [
@@ -6111,7 +5549,6 @@
   },
   {
     "name": "Cofagrigus",
-    "generation": 5,
     "dex": "0563",
     "type": "Ghost",
     "games": [
@@ -6121,7 +5558,6 @@
   },
   {
     "name": "Tirtouga",
-    "generation": 5,
     "dex": "0564",
     "type": "Water, Rock",
     "games": [
@@ -6130,7 +5566,6 @@
   },
   {
     "name": "Carracosta",
-    "generation": 5,
     "dex": "0565",
     "type": "Water, Rock",
     "games": [
@@ -6139,7 +5574,6 @@
   },
   {
     "name": "Archen",
-    "generation": 5,
     "dex": "0566",
     "type": "Rock, Flying",
     "games": [
@@ -6148,7 +5582,6 @@
   },
   {
     "name": "Archeops",
-    "generation": 5,
     "dex": "0567",
     "type": "Rock, Flying",
     "games": [
@@ -6157,7 +5590,6 @@
   },
   {
     "name": "Trubbish",
-    "generation": 5,
     "dex": "0568",
     "type": "Poison",
     "games": [
@@ -6167,7 +5599,6 @@
   },
   {
     "name": "Garbodor",
-    "generation": 5,
     "dex": "0569",
     "type": "Poison",
     "games": [
@@ -6177,7 +5608,6 @@
   },
   {
     "name": "Zorua",
-    "generation": 5,
     "dex": "0570",
     "type": "Dark",
     "games": [
@@ -6187,7 +5617,6 @@
   },
   {
     "name": "Zoroark",
-    "generation": 5,
     "dex": "0571",
     "type": "Dark",
     "games": [
@@ -6197,7 +5626,6 @@
   },
   {
     "name": "Minccino",
-    "generation": 5,
     "dex": "0572",
     "type": "Normal",
     "games": [
@@ -6207,7 +5635,6 @@
   },
   {
     "name": "Cinccino",
-    "generation": 5,
     "dex": "0573",
     "type": "Normal",
     "games": [
@@ -6217,7 +5644,6 @@
   },
   {
     "name": "Gothita",
-    "generation": 5,
     "dex": "0574",
     "type": "Psychic",
     "games": [
@@ -6227,7 +5653,6 @@
   },
   {
     "name": "Gothorita",
-    "generation": 5,
     "dex": "0575",
     "type": "Psychic",
     "games": [
@@ -6237,7 +5662,6 @@
   },
   {
     "name": "Gothitelle",
-    "generation": 5,
     "dex": "0576",
     "type": "Psychic",
     "games": [
@@ -6247,7 +5671,6 @@
   },
   {
     "name": "Solosis",
-    "generation": 5,
     "dex": "0577",
     "type": "Psychic",
     "games": [
@@ -6257,7 +5680,6 @@
   },
   {
     "name": "Duosion",
-    "generation": 5,
     "dex": "0578",
     "type": "Psychic",
     "games": [
@@ -6267,7 +5689,6 @@
   },
   {
     "name": "Reuniclus",
-    "generation": 5,
     "dex": "0579",
     "type": "Psychic",
     "games": [
@@ -6277,7 +5698,6 @@
   },
   {
     "name": "Ducklett",
-    "generation": 5,
     "dex": "0580",
     "type": "Water, Flying",
     "games": [
@@ -6286,7 +5706,6 @@
   },
   {
     "name": "Swanna",
-    "generation": 5,
     "dex": "0581",
     "type": "Water, Flying",
     "games": [
@@ -6295,7 +5714,6 @@
   },
   {
     "name": "Vanillite",
-    "generation": 5,
     "dex": "0582",
     "type": "Ice",
     "games": [
@@ -6305,7 +5723,6 @@
   },
   {
     "name": "Vanillish",
-    "generation": 5,
     "dex": "0583",
     "type": "Ice",
     "games": [
@@ -6315,7 +5732,6 @@
   },
   {
     "name": "Vanilluxe",
-    "generation": 5,
     "dex": "0584",
     "type": "Ice",
     "games": [
@@ -6325,7 +5741,6 @@
   },
   {
     "name": "Deerling",
-    "generation": 5,
     "dex": "0585",
     "type": "Normal, Grass",
     "games": [
@@ -6334,7 +5749,6 @@
   },
   {
     "name": "Sawsbuck",
-    "generation": 5,
     "dex": "0586",
     "type": "Normal, Grass",
     "games": [
@@ -6343,7 +5757,6 @@
   },
   {
     "name": "Emolga",
-    "generation": 5,
     "dex": "0587",
     "type": "Electric, Flying",
     "games": [
@@ -6353,7 +5766,6 @@
   },
   {
     "name": "Karrablast",
-    "generation": 5,
     "dex": "0588",
     "type": "Bug",
     "games": [
@@ -6362,7 +5774,6 @@
   },
   {
     "name": "Escavalier",
-    "generation": 5,
     "dex": "0589",
     "type": "Bug, Steel",
     "games": [
@@ -6371,7 +5782,6 @@
   },
   {
     "name": "Foongus",
-    "generation": 5,
     "dex": "0590",
     "type": "Grass, Poison",
     "games": [
@@ -6382,7 +5792,6 @@
   },
   {
     "name": "Amoonguss",
-    "generation": 5,
     "dex": "0591",
     "type": "Grass, Poison",
     "games": [
@@ -6393,7 +5802,6 @@
   },
   {
     "name": "Frillish",
-    "generation": 5,
     "dex": "0592",
     "type": "Water, Ghost",
     "games": [
@@ -6402,7 +5810,6 @@
   },
   {
     "name": "Jellicent",
-    "generation": 5,
     "dex": "0593",
     "type": "Water, Ghost",
     "games": [
@@ -6411,7 +5818,6 @@
   },
   {
     "name": "Alomomola",
-    "generation": 5,
     "dex": "0594",
     "type": "Water",
     "games": [
@@ -6420,7 +5826,6 @@
   },
   {
     "name": "Joltik",
-    "generation": 5,
     "dex": "0595",
     "type": "Bug, Electric",
     "games": [
@@ -6430,7 +5835,6 @@
   },
   {
     "name": "Galvantula",
-    "generation": 5,
     "dex": "0596",
     "type": "Bug, Electric",
     "games": [
@@ -6440,7 +5844,6 @@
   },
   {
     "name": "Ferroseed",
-    "generation": 5,
     "dex": "0597",
     "type": "Grass, Steel",
     "games": [
@@ -6449,7 +5852,6 @@
   },
   {
     "name": "Ferrothorn",
-    "generation": 5,
     "dex": "0598",
     "type": "Grass, Steel",
     "games": [
@@ -6458,7 +5860,6 @@
   },
   {
     "name": "Klink",
-    "generation": 5,
     "dex": "0599",
     "type": "Steel",
     "games": [
@@ -6467,7 +5868,6 @@
   },
   {
     "name": "Klang",
-    "generation": 5,
     "dex": "0600",
     "type": "Steel",
     "games": [
@@ -6476,7 +5876,6 @@
   },
   {
     "name": "Klinklang",
-    "generation": 5,
     "dex": "0601",
     "type": "Steel",
     "games": [
@@ -6485,7 +5884,6 @@
   },
   {
     "name": "Tynamo",
-    "generation": 5,
     "dex": "0602",
     "type": "Electric",
     "games": [
@@ -6495,7 +5893,6 @@
   },
   {
     "name": "Eelektrik",
-    "generation": 5,
     "dex": "0603",
     "type": "Electric",
     "games": [
@@ -6505,7 +5902,6 @@
   },
   {
     "name": "Eelektross",
-    "generation": 5,
     "dex": "0604",
     "type": "Electric",
     "games": [
@@ -6515,7 +5911,6 @@
   },
   {
     "name": "Elgyem",
-    "generation": 5,
     "dex": "0605",
     "type": "Psychic",
     "games": [
@@ -6524,7 +5919,6 @@
   },
   {
     "name": "Beheeyem",
-    "generation": 5,
     "dex": "0606",
     "type": "Psychic",
     "games": [
@@ -6533,7 +5927,6 @@
   },
   {
     "name": "Litwick",
-    "generation": 5,
     "dex": "0607",
     "type": "Ghost, Fire",
     "games": [
@@ -6544,7 +5937,6 @@
   },
   {
     "name": "Lampent",
-    "generation": 5,
     "dex": "0608",
     "type": "Ghost, Fire",
     "games": [
@@ -6555,7 +5947,6 @@
   },
   {
     "name": "Chandelure",
-    "generation": 5,
     "dex": "0609",
     "type": "Ghost, Fire",
     "games": [
@@ -6566,7 +5957,6 @@
   },
   {
     "name": "Axew",
-    "generation": 5,
     "dex": "0610",
     "type": "Dragon",
     "games": [
@@ -6576,7 +5966,6 @@
   },
   {
     "name": "Fraxure",
-    "generation": 5,
     "dex": "0611",
     "type": "Dragon",
     "games": [
@@ -6586,7 +5975,6 @@
   },
   {
     "name": "Haxorus",
-    "generation": 5,
     "dex": "0612",
     "type": "Dragon",
     "games": [
@@ -6596,7 +5984,6 @@
   },
   {
     "name": "Cubchoo",
-    "generation": 5,
     "dex": "0613",
     "type": "Ice",
     "games": [
@@ -6606,7 +5993,6 @@
   },
   {
     "name": "Beartic",
-    "generation": 5,
     "dex": "0614",
     "type": "Ice",
     "games": [
@@ -6616,7 +6002,6 @@
   },
   {
     "name": "Cryogonal",
-    "generation": 5,
     "dex": "0615",
     "type": "Ice",
     "games": [
@@ -6627,7 +6012,6 @@
   },
   {
     "name": "Shelmet",
-    "generation": 5,
     "dex": "0616",
     "type": "Bug",
     "games": [
@@ -6636,7 +6020,6 @@
   },
   {
     "name": "Accelgor",
-    "generation": 5,
     "dex": "0617",
     "type": "Bug",
     "games": [
@@ -6645,7 +6028,6 @@
   },
   {
     "name": "Stunfisk",
-    "generation": 5,
     "dex": "0618",
     "type": "Ground, Electric",
     "games": [
@@ -6654,7 +6036,6 @@
   },
   {
     "name": "Mienfoo",
-    "generation": 5,
     "dex": "0619",
     "type": "Fighting",
     "games": [
@@ -6664,7 +6045,6 @@
   },
   {
     "name": "Mienshao",
-    "generation": 5,
     "dex": "0620",
     "type": "Fighting",
     "games": [
@@ -6674,7 +6054,6 @@
   },
   {
     "name": "Druddigon",
-    "generation": 5,
     "dex": "0621",
     "type": "Dragon",
     "games": [
@@ -6683,7 +6062,6 @@
   },
   {
     "name": "Golett",
-    "generation": 5,
     "dex": "0622",
     "type": "Ground, Ghost",
     "games": [
@@ -6694,7 +6072,6 @@
   },
   {
     "name": "Golurk",
-    "generation": 5,
     "dex": "0623",
     "type": "Ground, Ghost",
     "games": [
@@ -6705,7 +6082,6 @@
   },
   {
     "name": "Pawniard",
-    "generation": 5,
     "dex": "0624",
     "type": "Dark, Steel",
     "games": [
@@ -6715,7 +6091,6 @@
   },
   {
     "name": "Bisharp",
-    "generation": 5,
     "dex": "0625",
     "type": "Dark, Steel",
     "games": [
@@ -6725,7 +6100,6 @@
   },
   {
     "name": "Bouffalant",
-    "generation": 5,
     "dex": "0626",
     "type": "Normal",
     "games": [
@@ -6734,7 +6108,6 @@
   },
   {
     "name": "Rufflet",
-    "generation": 5,
     "dex": "0627",
     "type": "Normal, Flying",
     "games": [
@@ -6745,7 +6118,6 @@
   },
   {
     "name": "Braviary",
-    "generation": 5,
     "dex": "0628",
     "type": "Normal, Flying",
     "games": [
@@ -6755,7 +6127,6 @@
   },
   {
     "name": "Vullaby",
-    "generation": 5,
     "dex": "0629",
     "type": "Dark, Flying",
     "games": [
@@ -6765,7 +6136,6 @@
   },
   {
     "name": "Mandibuzz",
-    "generation": 5,
     "dex": "0630",
     "type": "Dark, Flying",
     "games": [
@@ -6775,7 +6145,6 @@
   },
   {
     "name": "Heatmor",
-    "generation": 5,
     "dex": "0631",
     "type": "Fire",
     "games": [
@@ -6784,7 +6153,6 @@
   },
   {
     "name": "Durant",
-    "generation": 5,
     "dex": "0632",
     "type": "Bug, Steel",
     "games": [
@@ -6793,7 +6161,6 @@
   },
   {
     "name": "Deino",
-    "generation": 5,
     "dex": "0633",
     "type": "Dark, Dragon",
     "games": [
@@ -6803,7 +6170,6 @@
   },
   {
     "name": "Zweilous",
-    "generation": 5,
     "dex": "0634",
     "type": "Dark, Dragon",
     "games": [
@@ -6813,7 +6179,6 @@
   },
   {
     "name": "Hydreigon",
-    "generation": 5,
     "dex": "0635",
     "type": "Dark, Dragon",
     "games": [
@@ -6823,7 +6188,6 @@
   },
   {
     "name": "Larvesta",
-    "generation": 5,
     "dex": "0636",
     "type": "Bug, Fire",
     "games": [
@@ -6833,7 +6197,6 @@
   },
   {
     "name": "Volcarona",
-    "generation": 5,
     "dex": "0637",
     "type": "Bug, Fire",
     "games": [
@@ -6843,7 +6206,6 @@
   },
   {
     "name": "Cobalion",
-    "generation": 5,
     "dex": "0638",
     "type": "Steel, Fighting",
     "games": [
@@ -6853,7 +6215,6 @@
   },
   {
     "name": "Terrakion",
-    "generation": 5,
     "dex": "0639",
     "type": "Rock, Fighting",
     "games": [
@@ -6863,7 +6224,6 @@
   },
   {
     "name": "Virizion",
-    "generation": 5,
     "dex": "0640",
     "type": "Grass, Fighting",
     "games": [
@@ -6873,7 +6233,6 @@
   },
   {
     "name": "Tornadus",
-    "generation": 5,
     "dex": "0641",
     "type": "Flying",
     "games": [
@@ -6883,7 +6242,6 @@
   },
   {
     "name": "Thundurus",
-    "generation": 5,
     "dex": "0642",
     "type": "Electric, Flying",
     "games": [
@@ -6893,7 +6251,6 @@
   },
   {
     "name": "Reshiram",
-    "generation": 5,
     "dex": "0643",
     "type": "Dragon, Fire",
     "games": [
@@ -6902,7 +6259,6 @@
   },
   {
     "name": "Zekrom",
-    "generation": 5,
     "dex": "0644",
     "type": "Dragon, Electric",
     "games": [
@@ -6911,7 +6267,6 @@
   },
   {
     "name": "Landorus",
-    "generation": 5,
     "dex": "0645",
     "type": "Ground, Flying",
     "games": [
@@ -6921,7 +6276,6 @@
   },
   {
     "name": "Kyurem",
-    "generation": 5,
     "dex": "0646",
     "type": "Dragon, Ice",
     "games": [
@@ -6930,7 +6284,6 @@
   },
   {
     "name": "Keldeo",
-    "generation": 5,
     "dex": "0647",
     "type": "Water, Fighting",
     "games": [
@@ -6940,7 +6293,6 @@
   },
   {
     "name": "Meloetta",
-    "generation": 5,
     "dex": "0648",
     "type": "Normal, Psychic",
     "games": [
@@ -6949,7 +6301,6 @@
   },
   {
     "name": "Genesect",
-    "generation": 5,
     "dex": "0649",
     "type": "Bug, Steel",
     "games": [
@@ -6958,7 +6309,6 @@
   },
   {
     "name": "Chespin",
-    "generation": 6,
     "dex": "0650",
     "type": "Grass",
     "games": [
@@ -6968,7 +6318,6 @@
   },
   {
     "name": "Quilladin",
-    "generation": 6,
     "dex": "0651",
     "type": "Grass",
     "games": [
@@ -6978,7 +6327,6 @@
   },
   {
     "name": "Chesnaught",
-    "generation": 6,
     "dex": "0652",
     "type": "Grass, Fighting",
     "games": [
@@ -6988,7 +6336,6 @@
   },
   {
     "name": "Fennekin",
-    "generation": 6,
     "dex": "0653",
     "type": "Fire",
     "games": [
@@ -6998,7 +6345,6 @@
   },
   {
     "name": "Braixen",
-    "generation": 6,
     "dex": "0654",
     "type": "Fire",
     "games": [
@@ -7008,7 +6354,6 @@
   },
   {
     "name": "Delphox",
-    "generation": 6,
     "dex": "0655",
     "type": "Fire, Psychic",
     "games": [
@@ -7018,7 +6363,6 @@
   },
   {
     "name": "Froakie",
-    "generation": 6,
     "dex": "0656",
     "type": "Water",
     "games": [
@@ -7028,7 +6372,6 @@
   },
   {
     "name": "Frogadier",
-    "generation": 6,
     "dex": "0657",
     "type": "Water",
     "games": [
@@ -7038,7 +6381,6 @@
   },
   {
     "name": "Greninja",
-    "generation": 6,
     "dex": "0658",
     "type": "Water, Dark",
     "games": [
@@ -7048,7 +6390,6 @@
   },
   {
     "name": "Bunnelby",
-    "generation": 6,
     "dex": "0659",
     "type": "Normal",
     "games": [
@@ -7058,7 +6399,6 @@
   },
   {
     "name": "Diggersby",
-    "generation": 6,
     "dex": "0660",
     "type": "Normal, Ground",
     "games": [
@@ -7068,7 +6408,6 @@
   },
   {
     "name": "Fletchling",
-    "generation": 6,
     "dex": "0661",
     "type": "Normal, Flying",
     "games": [
@@ -7079,7 +6418,6 @@
   },
   {
     "name": "Fletchinder",
-    "generation": 6,
     "dex": "0662",
     "type": "Fire, Flying",
     "games": [
@@ -7090,7 +6428,6 @@
   },
   {
     "name": "Talonflame",
-    "generation": 6,
     "dex": "0663",
     "type": "Fire, Flying",
     "games": [
@@ -7101,7 +6438,6 @@
   },
   {
     "name": "Scatterbug",
-    "generation": 6,
     "dex": "0664",
     "type": "Bug",
     "games": [
@@ -7111,7 +6447,6 @@
   },
   {
     "name": "Spewpa",
-    "generation": 6,
     "dex": "0665",
     "type": "Bug",
     "games": [
@@ -7121,7 +6456,6 @@
   },
   {
     "name": "Vivillon",
-    "generation": 6,
     "dex": "0666",
     "type": "Bug, Flying",
     "games": [
@@ -7131,7 +6465,6 @@
   },
   {
     "name": "Litleo",
-    "generation": 6,
     "dex": "0667",
     "type": "Fire, Normal",
     "games": [
@@ -7141,7 +6474,6 @@
   },
   {
     "name": "Pyroar",
-    "generation": 6,
     "dex": "0668",
     "type": "Fire, Normal",
     "games": [
@@ -7151,7 +6483,6 @@
   },
   {
     "name": "Flabebe",
-    "generation": 6,
     "dex": "0669",
     "type": "Fairy",
     "games": [
@@ -7161,7 +6492,6 @@
   },
   {
     "name": "Floette",
-    "generation": 6,
     "dex": "0670",
     "type": "Fairy",
     "games": [
@@ -7171,7 +6501,6 @@
   },
   {
     "name": "Florges",
-    "generation": 6,
     "dex": "0671",
     "type": "Fairy",
     "games": [
@@ -7181,7 +6510,6 @@
   },
   {
     "name": "Skiddo",
-    "generation": 6,
     "dex": "0672",
     "type": "Grass",
     "games": [
@@ -7191,7 +6519,6 @@
   },
   {
     "name": "Gogoat",
-    "generation": 6,
     "dex": "0673",
     "type": "Grass",
     "games": [
@@ -7201,7 +6528,6 @@
   },
   {
     "name": "Pancham",
-    "generation": 6,
     "dex": "0674",
     "type": "Fighting",
     "games": [
@@ -7211,7 +6537,6 @@
   },
   {
     "name": "Pangoro",
-    "generation": 6,
     "dex": "0675",
     "type": "Fighting, Dark",
     "games": [
@@ -7221,7 +6546,6 @@
   },
   {
     "name": "Furfrou",
-    "generation": 6,
     "dex": "0676",
     "type": "Normal",
     "games": [
@@ -7230,7 +6554,6 @@
   },
   {
     "name": "Espurr",
-    "generation": 6,
     "dex": "0677",
     "type": "Psychic",
     "games": [
@@ -7241,7 +6564,6 @@
   },
   {
     "name": "Meowstic",
-    "generation": 6,
     "dex": "0678",
     "type": "Psychic",
     "games": [
@@ -7252,7 +6574,6 @@
   },
   {
     "name": "Honedge",
-    "generation": 6,
     "dex": "0679",
     "type": "Steel, Ghost",
     "games": [
@@ -7262,7 +6583,6 @@
   },
   {
     "name": "Doublade",
-    "generation": 6,
     "dex": "0680",
     "type": "Steel, Ghost",
     "games": [
@@ -7272,7 +6592,6 @@
   },
   {
     "name": "Aegislash",
-    "generation": 6,
     "dex": "0681",
     "type": "Steel, Ghost",
     "games": [
@@ -7282,7 +6601,6 @@
   },
   {
     "name": "Spritzee",
-    "generation": 6,
     "dex": "0682",
     "type": "Fairy",
     "games": [
@@ -7292,7 +6610,6 @@
   },
   {
     "name": "Aromatisse",
-    "generation": 6,
     "dex": "0683",
     "type": "Fairy",
     "games": [
@@ -7302,7 +6619,6 @@
   },
   {
     "name": "Swirlix",
-    "generation": 6,
     "dex": "0684",
     "type": "Fairy",
     "games": [
@@ -7312,7 +6628,6 @@
   },
   {
     "name": "Slurpuff",
-    "generation": 6,
     "dex": "0685",
     "type": "Fairy",
     "games": [
@@ -7322,7 +6637,6 @@
   },
   {
     "name": "Inkay",
-    "generation": 6,
     "dex": "0686",
     "type": "Dark, Psychic",
     "games": [
@@ -7333,7 +6647,6 @@
   },
   {
     "name": "Malamar",
-    "generation": 6,
     "dex": "0687",
     "type": "Dark, Psychic",
     "games": [
@@ -7344,7 +6657,6 @@
   },
   {
     "name": "Binacle",
-    "generation": 6,
     "dex": "0688",
     "type": "Rock, Water",
     "games": [
@@ -7354,7 +6666,6 @@
   },
   {
     "name": "Barbaracle",
-    "generation": 6,
     "dex": "0689",
     "type": "Rock, Water",
     "games": [
@@ -7364,7 +6675,6 @@
   },
   {
     "name": "Skrelp",
-    "generation": 6,
     "dex": "0690",
     "type": "Poison, Water",
     "games": [
@@ -7375,7 +6685,6 @@
   },
   {
     "name": "Dragalge",
-    "generation": 6,
     "dex": "0691",
     "type": "Poison, Dragon",
     "games": [
@@ -7386,7 +6695,6 @@
   },
   {
     "name": "Clauncher",
-    "generation": 6,
     "dex": "0692",
     "type": "Water",
     "games": [
@@ -7397,7 +6705,6 @@
   },
   {
     "name": "Clawitzer",
-    "generation": 6,
     "dex": "0693",
     "type": "Water",
     "games": [
@@ -7408,7 +6715,6 @@
   },
   {
     "name": "Helioptile",
-    "generation": 6,
     "dex": "0694",
     "type": "Electric, Normal",
     "games": [
@@ -7418,7 +6724,6 @@
   },
   {
     "name": "Heliolisk",
-    "generation": 6,
     "dex": "0695",
     "type": "Electric, Normal",
     "games": [
@@ -7428,7 +6733,6 @@
   },
   {
     "name": "Tyrunt",
-    "generation": 6,
     "dex": "0696",
     "type": "Rock, Dragon",
     "games": [
@@ -7438,7 +6742,6 @@
   },
   {
     "name": "Tyrantrum",
-    "generation": 6,
     "dex": "0697",
     "type": "Rock, Dragon",
     "games": [
@@ -7448,7 +6751,6 @@
   },
   {
     "name": "Amaura",
-    "generation": 6,
     "dex": "0698",
     "type": "Rock, Ice",
     "games": [
@@ -7458,7 +6760,6 @@
   },
   {
     "name": "Aurorus",
-    "generation": 6,
     "dex": "0699",
     "type": "Rock, Ice",
     "games": [
@@ -7468,7 +6769,6 @@
   },
   {
     "name": "Sylveon",
-    "generation": 6,
     "dex": "0700",
     "type": "Fairy",
     "games": [
@@ -7480,7 +6780,6 @@
   },
   {
     "name": "Hawlucha",
-    "generation": 6,
     "dex": "0701",
     "type": "Fighting, Flying",
     "games": [
@@ -7491,7 +6790,6 @@
   },
   {
     "name": "Dedenne",
-    "generation": 6,
     "dex": "0702",
     "type": "Electric, Fairy",
     "games": [
@@ -7502,7 +6800,6 @@
   },
   {
     "name": "Carbink",
-    "generation": 6,
     "dex": "0703",
     "type": "Rock, Fairy",
     "games": [
@@ -7513,7 +6810,6 @@
   },
   {
     "name": "Goomy",
-    "generation": 6,
     "dex": "0704",
     "type": "Dragon",
     "games": [
@@ -7525,7 +6821,6 @@
   },
   {
     "name": "Sliggoo",
-    "generation": 6,
     "dex": "0705",
     "type": "Dragon",
     "games": [
@@ -7536,7 +6831,6 @@
   },
   {
     "name": "Goodra",
-    "generation": 6,
     "dex": "0706",
     "type": "Dragon",
     "games": [
@@ -7547,7 +6841,6 @@
   },
   {
     "name": "Klefki",
-    "generation": 6,
     "dex": "0707",
     "type": "Steel, Fairy",
     "games": [
@@ -7558,7 +6851,6 @@
   },
   {
     "name": "Phantump",
-    "generation": 6,
     "dex": "0708",
     "type": "Ghost, Grass",
     "games": [
@@ -7569,7 +6861,6 @@
   },
   {
     "name": "Trevenant",
-    "generation": 6,
     "dex": "0709",
     "type": "Ghost, Grass",
     "games": [
@@ -7580,7 +6871,6 @@
   },
   {
     "name": "Pumpkaboo",
-    "generation": 6,
     "dex": "0710",
     "type": "Ghost, Grass",
     "games": [
@@ -7590,7 +6880,6 @@
   },
   {
     "name": "Gourgeist",
-    "generation": 6,
     "dex": "0711",
     "type": "Ghost, Grass",
     "games": [
@@ -7600,7 +6889,6 @@
   },
   {
     "name": "Bergmite",
-    "generation": 6,
     "dex": "0712",
     "type": "Ice",
     "games": [
@@ -7612,7 +6900,6 @@
   },
   {
     "name": "Avalugg",
-    "generation": 6,
     "dex": "0713",
     "type": "Ice",
     "games": [
@@ -7623,7 +6910,6 @@
   },
   {
     "name": "Noibat",
-    "generation": 6,
     "dex": "0714",
     "type": "Flying, Dragon",
     "games": [
@@ -7634,7 +6920,6 @@
   },
   {
     "name": "Noivern",
-    "generation": 6,
     "dex": "0715",
     "type": "Flying, Dragon",
     "games": [
@@ -7645,7 +6930,6 @@
   },
   {
     "name": "Xerneas",
-    "generation": 6,
     "dex": "0716",
     "type": "Fairy",
     "games": [
@@ -7655,7 +6939,6 @@
   },
   {
     "name": "Yveltal",
-    "generation": 6,
     "dex": "0717",
     "type": "Dark, Flying",
     "games": [
@@ -7665,7 +6948,6 @@
   },
   {
     "name": "Zygarde",
-    "generation": 6,
     "dex": "0718",
     "type": "Dragon, Ground",
     "games": [
@@ -7675,7 +6957,6 @@
   },
   {
     "name": "Diancie",
-    "generation": 6,
     "dex": "0719",
     "type": "Rock, Fairy",
     "games": [
@@ -7684,7 +6965,6 @@
   },
   {
     "name": "Hoopa",
-    "generation": 6,
     "dex": "0720",
     "type": "Psychic, Ghost",
     "games": [
@@ -7693,7 +6973,6 @@
   },
   {
     "name": "Volcanion",
-    "generation": 6,
     "dex": "0721",
     "type": "Fire, Water",
     "games": [
@@ -7702,7 +6981,6 @@
   },
   {
     "name": "Rowlet",
-    "generation": 7,
     "dex": "0722",
     "type": "Grass, Flying",
     "games": [
@@ -7713,7 +6991,6 @@
   },
   {
     "name": "Dartrix",
-    "generation": 7,
     "dex": "0723",
     "type": "Grass, Flying",
     "games": [
@@ -7724,7 +7001,6 @@
   },
   {
     "name": "Decidueye",
-    "generation": 7,
     "dex": "0724",
     "type": "Grass, Ghost",
     "games": [
@@ -7734,7 +7010,6 @@
   },
   {
     "name": "Litten",
-    "generation": 7,
     "dex": "0725",
     "type": "Fire",
     "games": [
@@ -7744,7 +7019,6 @@
   },
   {
     "name": "Torracat",
-    "generation": 7,
     "dex": "0726",
     "type": "Fire",
     "games": [
@@ -7754,7 +7028,6 @@
   },
   {
     "name": "Incineroar",
-    "generation": 7,
     "dex": "0727",
     "type": "Fire, Dark",
     "games": [
@@ -7764,7 +7037,6 @@
   },
   {
     "name": "Popplio",
-    "generation": 7,
     "dex": "0728",
     "type": "Water",
     "games": [
@@ -7774,7 +7046,6 @@
   },
   {
     "name": "Brionne",
-    "generation": 7,
     "dex": "0729",
     "type": "Water",
     "games": [
@@ -7784,7 +7055,6 @@
   },
   {
     "name": "Primarina",
-    "generation": 7,
     "dex": "0730",
     "type": "Water, Fairy",
     "games": [
@@ -7794,7 +7064,6 @@
   },
   {
     "name": "Pikipek",
-    "generation": 7,
     "dex": "0731",
     "type": "Normal, Flying",
     "games": [
@@ -7803,7 +7072,6 @@
   },
   {
     "name": "Trumbeak",
-    "generation": 7,
     "dex": "0732",
     "type": "Normal, Flying",
     "games": [
@@ -7812,7 +7080,6 @@
   },
   {
     "name": "Toucannon",
-    "generation": 7,
     "dex": "0733",
     "type": "Normal, Flying",
     "games": [
@@ -7821,7 +7088,6 @@
   },
   {
     "name": "Yungoos",
-    "generation": 7,
     "dex": "0734",
     "type": "Normal",
     "games": [
@@ -7830,7 +7096,6 @@
   },
   {
     "name": "Gumshoos",
-    "generation": 7,
     "dex": "0735",
     "type": "Normal",
     "games": [
@@ -7839,7 +7104,6 @@
   },
   {
     "name": "Alolan Rattata",
-    "generation": 7,
     "dex": "0019",
     "type": "Normal, Dark",
     "games": [
@@ -7848,7 +7112,6 @@
   },
   {
     "name": "Alolan Raticate",
-    "generation": 7,
     "dex": "0020",
     "type": "Normal, Dark",
     "games": [
@@ -7857,7 +7120,6 @@
   },
   {
     "name": "Alolan Raichu",
-    "generation": 7,
     "dex": "0026",
     "type": "Electric, Psychic",
     "games": [
@@ -7867,7 +7129,6 @@
   },
   {
     "name": "Grubbin",
-    "generation": 7,
     "dex": "0736",
     "type": "Bug",
     "games": [
@@ -7877,7 +7138,6 @@
   },
   {
     "name": "Charjabug",
-    "generation": 7,
     "dex": "0737",
     "type": "Bug, Electric",
     "games": [
@@ -7887,7 +7147,6 @@
   },
   {
     "name": "Vikavolt",
-    "generation": 7,
     "dex": "0738",
     "type": "Bug, Electric",
     "games": [
@@ -7897,7 +7156,6 @@
   },
   {
     "name": "Alolan Meowth",
-    "generation": 7,
     "dex": "0052",
     "type": "Dark",
     "games": [
@@ -7907,7 +7165,6 @@
   },
   {
     "name": "Alolan Persian",
-    "generation": 7,
     "dex": "0053",
     "type": "Dark",
     "games": [
@@ -7917,7 +7174,6 @@
   },
   {
     "name": "Alolan Grimer",
-    "generation": 7,
     "dex": "0088",
     "type": "Poison, Dark",
     "games": [
@@ -7927,7 +7183,6 @@
   },
   {
     "name": "Alolan Muk",
-    "generation": 7,
     "dex": "0089",
     "type": "Poison, Dark",
     "games": [
@@ -7937,7 +7192,6 @@
   },
   {
     "name": "Crabrawler",
-    "generation": 7,
     "dex": "0739",
     "type": "Fighting",
     "games": [
@@ -7947,7 +7201,6 @@
   },
   {
     "name": "Crabominable",
-    "generation": 7,
     "dex": "0740",
     "type": "Fighting, Ice",
     "games": [
@@ -7957,7 +7210,6 @@
   },
   {
     "name": "Alolan Diglett",
-    "generation": 7,
     "dex": "0050",
     "type": "Ground, Steel",
     "games": [
@@ -7967,7 +7219,6 @@
   },
   {
     "name": "Alolan Dugtrio",
-    "generation": 7,
     "dex": "0051",
     "type": "Ground, Steel",
     "games": [
@@ -7977,7 +7228,6 @@
   },
   {
     "name": "Oricorio",
-    "generation": 7,
     "dex": "0741",
     "type": "Fire, Electric, Psychic, Ghost, Flying",
     "games": [
@@ -7986,7 +7236,6 @@
   },
   {
     "name": "Cutiefly",
-    "generation": 7,
     "dex": "0742",
     "type": "Bug, Fairy",
     "games": [
@@ -7996,7 +7245,6 @@
   },
   {
     "name": "Ribombee",
-    "generation": 7,
     "dex": "0743",
     "type": "Bug, Fairy",
     "games": [
@@ -8006,7 +7254,6 @@
   },
   {
     "name": "Rockruff",
-    "generation": 7,
     "dex": "0744",
     "type": "Rock",
     "games": [
@@ -8016,7 +7263,6 @@
   },
   {
     "name": "Lycanroc",
-    "generation": 7,
     "dex": "0745",
     "type": "Rock",
     "games": [
@@ -8026,7 +7272,6 @@
   },
   {
     "name": "Wishiwashi",
-    "generation": 7,
     "dex": "0746",
     "type": "Water",
     "games": [
@@ -8035,7 +7280,6 @@
   },
   {
     "name": "Mareanie",
-    "generation": 7,
     "dex": "0747",
     "type": "Poison, Water",
     "games": [
@@ -8045,7 +7289,6 @@
   },
   {
     "name": "Toxapex",
-    "generation": 7,
     "dex": "0748",
     "type": "Poison, Water",
     "games": [
@@ -8055,7 +7298,6 @@
   },
   {
     "name": "Mudbray",
-    "generation": 7,
     "dex": "0749",
     "type": "Ground",
     "games": [
@@ -8065,7 +7307,6 @@
   },
   {
     "name": "Mudsdale",
-    "generation": 7,
     "dex": "0750",
     "type": "Ground",
     "games": [
@@ -8075,7 +7316,6 @@
   },
   {
     "name": "Dewpider",
-    "generation": 7,
     "dex": "0751",
     "type": "Water, Bug",
     "games": [
@@ -8085,7 +7325,6 @@
   },
   {
     "name": "Araquanid",
-    "generation": 7,
     "dex": "0752",
     "type": "Water, Bug",
     "games": [
@@ -8095,7 +7334,6 @@
   },
   {
     "name": "Fomantis",
-    "generation": 7,
     "dex": "0753",
     "type": "Grass",
     "games": [
@@ -8105,7 +7343,6 @@
   },
   {
     "name": "Lurantis",
-    "generation": 7,
     "dex": "0754",
     "type": "Grass",
     "games": [
@@ -8115,7 +7352,6 @@
   },
   {
     "name": "Morelull",
-    "generation": 7,
     "dex": "0755",
     "type": "Grass, Fairy",
     "games": [
@@ -8124,7 +7360,6 @@
   },
   {
     "name": "Shiinotic",
-    "generation": 7,
     "dex": "0756",
     "type": "Grass, Fairy",
     "games": [
@@ -8133,7 +7368,6 @@
   },
   {
     "name": "Salandit",
-    "generation": 7,
     "dex": "0757",
     "type": "Poison, Fire",
     "games": [
@@ -8143,7 +7377,6 @@
   },
   {
     "name": "Salazzle",
-    "generation": 7,
     "dex": "0758",
     "type": "Poison, Fire",
     "games": [
@@ -8153,7 +7386,6 @@
   },
   {
     "name": "Alolan Marowak",
-    "generation": 7,
     "dex": "0105",
     "type": "Fire, Ghost",
     "games": [
@@ -8163,7 +7395,6 @@
   },
   {
     "name": "Stufful",
-    "generation": 7,
     "dex": "0759",
     "type": "Normal, Fighting",
     "games": [
@@ -8172,7 +7403,6 @@
   },
   {
     "name": "Bewear",
-    "generation": 7,
     "dex": "0760",
     "type": "Normal, Fighting",
     "games": [
@@ -8181,7 +7411,6 @@
   },
   {
     "name": "Bounsweet",
-    "generation": 7,
     "dex": "0761",
     "type": "Grass",
     "games": [
@@ -8191,7 +7420,6 @@
   },
   {
     "name": "Steenee",
-    "generation": 7,
     "dex": "0762",
     "type": "Grass",
     "games": [
@@ -8201,7 +7429,6 @@
   },
   {
     "name": "Tsareena",
-    "generation": 7,
     "dex": "0763",
     "type": "Grass",
     "games": [
@@ -8211,7 +7438,6 @@
   },
   {
     "name": "Comfey",
-    "generation": 7,
     "dex": "0764",
     "type": "Fairy",
     "games": [
@@ -8221,7 +7447,6 @@
   },
   {
     "name": "Oranguru",
-    "generation": 7,
     "dex": "0765",
     "type": "Normal, Psychic",
     "games": [
@@ -8231,7 +7456,6 @@
   },
   {
     "name": "Passimian",
-    "generation": 7,
     "dex": "0766",
     "type": "Fighting",
     "games": [
@@ -8241,7 +7465,6 @@
   },
   {
     "name": "Wimpod",
-    "generation": 7,
     "dex": "0767",
     "type": "Bug, Water",
     "games": [
@@ -8251,7 +7474,6 @@
   },
   {
     "name": "Golisopod",
-    "generation": 7,
     "dex": "0768",
     "type": "Bug, Water",
     "games": [
@@ -8261,7 +7483,6 @@
   },
   {
     "name": "Sandygast",
-    "generation": 7,
     "dex": "0769",
     "type": "Ghost, Ground",
     "games": [
@@ -8272,7 +7493,6 @@
   },
   {
     "name": "Palossand",
-    "generation": 7,
     "dex": "0770",
     "type": "Ghost, Ground",
     "games": [
@@ -8283,7 +7503,6 @@
   },
   {
     "name": "Pyukumuku",
-    "generation": 7,
     "dex": "0771",
     "type": "Water",
     "games": [
@@ -8292,7 +7511,6 @@
   },
   {
     "name": "Type-null",
-    "generation": 7,
     "dex": "0772",
     "type": "Normal",
     "games": [
@@ -8301,7 +7519,6 @@
   },
   {
     "name": "Silvally",
-    "generation": 7,
     "dex": "0773",
     "type": "Normal",
     "games": [
@@ -8310,7 +7527,6 @@
   },
   {
     "name": "Minior",
-    "generation": 7,
     "dex": "0774",
     "type": "Rock, Flying",
     "games": [
@@ -8319,7 +7535,6 @@
   },
   {
     "name": "Komala",
-    "generation": 7,
     "dex": "0775",
     "type": "Normal",
     "games": [
@@ -8328,7 +7543,6 @@
   },
   {
     "name": "Turtonator",
-    "generation": 7,
     "dex": "0776",
     "type": "Fire, Dragon",
     "games": [
@@ -8337,7 +7551,6 @@
   },
   {
     "name": "Togedemaru",
-    "generation": 7,
     "dex": "0777",
     "type": "Electric, Steel",
     "games": [
@@ -8346,7 +7559,6 @@
   },
   {
     "name": "Alolan Geodude",
-    "generation": 7,
     "dex": "0074",
     "type": "Rock, Electric",
     "games": [
@@ -8356,7 +7568,6 @@
   },
   {
     "name": "Alolan Graveler",
-    "generation": 7,
     "dex": "0075",
     "type": "Rock, Electric",
     "games": [
@@ -8366,7 +7577,6 @@
   },
   {
     "name": "Alolan Golem",
-    "generation": 7,
     "dex": "0076",
     "type": "Rock, Electric",
     "games": [
@@ -8376,7 +7586,6 @@
   },
   {
     "name": "Mimikyu",
-    "generation": 7,
     "dex": "0778",
     "type": "Ghost, Fairy",
     "games": [
@@ -8387,7 +7596,6 @@
   },
   {
     "name": "Bruxish",
-    "generation": 7,
     "dex": "0779",
     "type": "Water, Psychic",
     "games": [
@@ -8396,7 +7604,6 @@
   },
   {
     "name": "Drampa",
-    "generation": 7,
     "dex": "0780",
     "type": "Normal, Dragon",
     "games": [
@@ -8406,7 +7613,6 @@
   },
   {
     "name": "Alolan Sandshrew",
-    "generation": 7,
     "dex": "0027",
     "type": "Ice, Steel",
     "games": [
@@ -8415,7 +7621,6 @@
   },
   {
     "name": "Alolan Sandslash",
-    "generation": 7,
     "dex": "0028",
     "type": "Ice, Steel",
     "games": [
@@ -8424,7 +7629,6 @@
   },
   {
     "name": "Alolan Vulpix",
-    "generation": 7,
     "dex": "0037",
     "type": "Ice",
     "games": [
@@ -8434,7 +7638,6 @@
   },
   {
     "name": "Alolan Ninetales",
-    "generation": 7,
     "dex": "0038",
     "type": "Ice, Fairy",
     "games": [
@@ -8444,7 +7647,6 @@
   },
   {
     "name": "Dhelmise",
-    "generation": 7,
     "dex": "0781",
     "type": "Ghost, Grass",
     "games": [
@@ -8453,7 +7655,6 @@
   },
   {
     "name": "Alolan Exeggutor",
-    "generation": 7,
     "dex": "0103",
     "type": "Grass, Dragon",
     "games": [
@@ -8463,7 +7664,6 @@
   },
   {
     "name": "Jangmo-o",
-    "generation": 7,
     "dex": "0782",
     "type": "Dragon",
     "games": [
@@ -8473,7 +7673,6 @@
   },
   {
     "name": "Hakamo-o",
-    "generation": 7,
     "dex": "0783",
     "type": "Dragon, Fighting",
     "games": [
@@ -8483,7 +7682,6 @@
   },
   {
     "name": "Kommo-o",
-    "generation": 7,
     "dex": "0784",
     "type": "Dragon, Fighting",
     "games": [
@@ -8493,7 +7691,6 @@
   },
   {
     "name": "Tapu-koko",
-    "generation": 7,
     "dex": "0785",
     "type": "Electric, Fairy",
     "games": [
@@ -8502,7 +7699,6 @@
   },
   {
     "name": "Tapu-lele",
-    "generation": 7,
     "dex": "0786",
     "type": "Psychic, Fairy",
     "games": [
@@ -8511,7 +7707,6 @@
   },
   {
     "name": "Tapu-bulu",
-    "generation": 7,
     "dex": "0787",
     "type": "Grass, Fairy",
     "games": [
@@ -8520,7 +7715,6 @@
   },
   {
     "name": "Tapu-fini",
-    "generation": 7,
     "dex": "0788",
     "type": "Water, Fairy",
     "games": [
@@ -8529,7 +7723,6 @@
   },
   {
     "name": "Cosmog",
-    "generation": 7,
     "dex": "0789",
     "type": "Psychic",
     "games": [
@@ -8538,7 +7731,6 @@
   },
   {
     "name": "Cosmoem",
-    "generation": 7,
     "dex": "0790",
     "type": "Psychic",
     "games": [
@@ -8547,7 +7739,6 @@
   },
   {
     "name": "Solgaleo",
-    "generation": 7,
     "dex": "0791",
     "type": "Psychic, Steel",
     "games": [
@@ -8556,7 +7747,6 @@
   },
   {
     "name": "Lunala",
-    "generation": 7,
     "dex": "0792",
     "type": "Psychic, Ghost",
     "games": [
@@ -8565,7 +7755,6 @@
   },
   {
     "name": "Nihilego",
-    "generation": 7,
     "dex": "0793",
     "type": "Rock, Poison",
     "games": [
@@ -8574,7 +7763,6 @@
   },
   {
     "name": "Buzzwole",
-    "generation": 7,
     "dex": "0794",
     "type": "Bug, Fighting",
     "games": [
@@ -8583,7 +7771,6 @@
   },
   {
     "name": "Pheromosa",
-    "generation": 7,
     "dex": "0795",
     "type": "Bug, Fighting",
     "games": [
@@ -8592,7 +7779,6 @@
   },
   {
     "name": "Xurkitree",
-    "generation": 7,
     "dex": "0796",
     "type": "Electric",
     "games": [
@@ -8601,7 +7787,6 @@
   },
   {
     "name": "Celesteela",
-    "generation": 7,
     "dex": "0797",
     "type": "Steel, Flying",
     "games": [
@@ -8610,7 +7795,6 @@
   },
   {
     "name": "Kartana",
-    "generation": 7,
     "dex": "0798",
     "type": "Grass, Steel",
     "games": [
@@ -8619,7 +7803,6 @@
   },
   {
     "name": "Guzzlord",
-    "generation": 7,
     "dex": "0799",
     "type": "Dark, Dragon",
     "games": [
@@ -8628,7 +7811,6 @@
   },
   {
     "name": "Necrozma",
-    "generation": 7,
     "dex": "0800",
     "type": "Psychic",
     "games": [
@@ -8637,7 +7819,6 @@
   },
   {
     "name": "Magearna",
-    "generation": 7,
     "dex": "0801",
     "type": "Steel, Fairy",
     "games": [
@@ -8646,7 +7827,6 @@
   },
   {
     "name": "Marshadow",
-    "generation": 7,
     "dex": "0802",
     "type": "Fighting, Ghost",
     "games": [
@@ -8655,7 +7835,6 @@
   },
   {
     "name": "Poipole",
-    "generation": 7,
     "dex": "0803",
     "type": "Poison",
     "games": [
@@ -8664,7 +7843,6 @@
   },
   {
     "name": "Naganadel",
-    "generation": 7,
     "dex": "0804",
     "type": "Poison, Dragon",
     "games": [
@@ -8673,7 +7851,6 @@
   },
   {
     "name": "Stakataka",
-    "generation": 7,
     "dex": "0805",
     "type": "Rock, Steel",
     "games": [
@@ -8682,7 +7859,6 @@
   },
   {
     "name": "Blacephalon",
-    "generation": 7,
     "dex": "0806",
     "type": "Fire, Ghost",
     "games": [
@@ -8691,7 +7867,6 @@
   },
   {
     "name": "Zeraora",
-    "generation": 7,
     "dex": "0807",
     "type": "Electric",
     "games": [
@@ -8700,7 +7875,6 @@
   },
   {
     "name": "Meltan",
-    "generation": 7,
     "dex": "0808",
     "type": "Steel",
     "games": [
@@ -8709,7 +7883,6 @@
   },
   {
     "name": "Melmetal",
-    "generation": 7,
     "dex": "0809",
     "type": "Steel",
     "games": [
@@ -8718,7 +7891,6 @@
   },
   {
     "name": "Grookey",
-    "generation": 8,
     "dex": "0810",
     "type": "Grass",
     "games": [
@@ -8728,7 +7900,6 @@
   },
   {
     "name": "Thwackey",
-    "generation": 8,
     "dex": "0811",
     "type": "Grass",
     "games": [
@@ -8738,7 +7909,6 @@
   },
   {
     "name": "Rillaboom",
-    "generation": 8,
     "dex": "0812",
     "type": "Grass",
     "games": [
@@ -8748,7 +7918,6 @@
   },
   {
     "name": "Scorbunny",
-    "generation": 8,
     "dex": "0813",
     "type": "Fire",
     "games": [
@@ -8758,7 +7927,6 @@
   },
   {
     "name": "Raboot",
-    "generation": 8,
     "dex": "0814",
     "type": "Fire",
     "games": [
@@ -8768,7 +7936,6 @@
   },
   {
     "name": "Cinderace",
-    "generation": 8,
     "dex": "0815",
     "type": "Fire",
     "games": [
@@ -8778,7 +7945,6 @@
   },
   {
     "name": "Sobble",
-    "generation": 8,
     "dex": "0816",
     "type": "Water",
     "games": [
@@ -8788,7 +7954,6 @@
   },
   {
     "name": "Drizzile",
-    "generation": 8,
     "dex": "0817",
     "type": "Water",
     "games": [
@@ -8798,7 +7963,6 @@
   },
   {
     "name": "Inteleon",
-    "generation": 8,
     "dex": "0818",
     "type": "Water",
     "games": [
@@ -8808,7 +7972,6 @@
   },
   {
     "name": "Skwovet",
-    "generation": 8,
     "dex": "0819",
     "type": "Normal",
     "games": [
@@ -8818,7 +7981,6 @@
   },
   {
     "name": "Greedent",
-    "generation": 8,
     "dex": "0820",
     "type": "Normal",
     "games": [
@@ -8828,7 +7990,6 @@
   },
   {
     "name": "Rookidee",
-    "generation": 8,
     "dex": "0821",
     "type": "Flying",
     "games": [
@@ -8839,7 +8000,6 @@
   },
   {
     "name": "Corvisquire",
-    "generation": 8,
     "dex": "0822",
     "type": "Flying",
     "games": [
@@ -8850,7 +8010,6 @@
   },
   {
     "name": "Corviknight",
-    "generation": 8,
     "dex": "0823",
     "type": "Flying, Steel",
     "games": [
@@ -8861,7 +8020,6 @@
   },
   {
     "name": "Blipbug",
-    "generation": 8,
     "dex": "0824",
     "type": "Bug",
     "games": [
@@ -8870,7 +8028,6 @@
   },
   {
     "name": "Dottler",
-    "generation": 8,
     "dex": "0825",
     "type": "Bug, Psychic",
     "games": [
@@ -8879,7 +8036,6 @@
   },
   {
     "name": "Orbeetle",
-    "generation": 8,
     "dex": "0826",
     "type": "Bug, Psychic",
     "games": [
@@ -8888,7 +8044,6 @@
   },
   {
     "name": "Nickit",
-    "generation": 8,
     "dex": "0827",
     "type": "Dark",
     "games": [
@@ -8898,7 +8053,6 @@
   },
   {
     "name": "Thievul",
-    "generation": 8,
     "dex": "0828",
     "type": "Dark",
     "games": [
@@ -8908,7 +8062,6 @@
   },
   {
     "name": "Gossifleur",
-    "generation": 8,
     "dex": "0829",
     "type": "Grass",
     "games": [
@@ -8917,7 +8070,6 @@
   },
   {
     "name": "Eldegoss",
-    "generation": 8,
     "dex": "0830",
     "type": "Grass",
     "games": [
@@ -8926,7 +8078,6 @@
   },
   {
     "name": "Wooloo",
-    "generation": 8,
     "dex": "0831",
     "type": "Normal",
     "games": [
@@ -8935,7 +8086,6 @@
   },
   {
     "name": "Dubwool",
-    "generation": 8,
     "dex": "0832",
     "type": "Normal",
     "games": [
@@ -8944,7 +8094,6 @@
   },
   {
     "name": "Chewtle",
-    "generation": 8,
     "dex": "0833",
     "type": "Water",
     "games": [
@@ -8954,7 +8103,6 @@
   },
   {
     "name": "Drednaw",
-    "generation": 8,
     "dex": "0834",
     "type": "Water, Rock",
     "games": [
@@ -8964,7 +8112,6 @@
   },
   {
     "name": "Yamper",
-    "generation": 8,
     "dex": "0835",
     "type": "Electric",
     "games": [
@@ -8973,7 +8120,6 @@
   },
   {
     "name": "Boltund",
-    "generation": 8,
     "dex": "0836",
     "type": "Electric",
     "games": [
@@ -8982,7 +8128,6 @@
   },
   {
     "name": "Rolycoly",
-    "generation": 8,
     "dex": "0837",
     "type": "Rock",
     "games": [
@@ -8992,7 +8137,6 @@
   },
   {
     "name": "Carkol",
-    "generation": 8,
     "dex": "0838",
     "type": "Rock, Fire",
     "games": [
@@ -9002,7 +8146,6 @@
   },
   {
     "name": "Coalossal",
-    "generation": 8,
     "dex": "0839",
     "type": "Rock, Fire",
     "games": [
@@ -9012,7 +8155,6 @@
   },
   {
     "name": "Applin",
-    "generation": 8,
     "dex": "0840",
     "type": "Grass, Dragon",
     "games": [
@@ -9022,7 +8164,6 @@
   },
   {
     "name": "Flapple",
-    "generation": 8,
     "dex": "0841",
     "type": "Grass, Dragon",
     "games": [
@@ -9032,7 +8173,6 @@
   },
   {
     "name": "Appletun",
-    "generation": 8,
     "dex": "0842",
     "type": "Grass, Dragon",
     "games": [
@@ -9042,7 +8182,6 @@
   },
   {
     "name": "Galarian Stunfisk",
-    "generation": 8,
     "dex": "0618",
     "type": "Ground, Steel",
     "games": [
@@ -9052,7 +8191,6 @@
   },
   {
     "name": "Silicobra",
-    "generation": 8,
     "dex": "0843",
     "type": "Ground",
     "games": [
@@ -9062,7 +8200,6 @@
   },
   {
     "name": "Sandaconda",
-    "generation": 8,
     "dex": "0844",
     "type": "Ground",
     "games": [
@@ -9072,7 +8209,6 @@
   },
   {
     "name": "Cramorant",
-    "generation": 8,
     "dex": "0845",
     "type": "Flying, Water",
     "games": [
@@ -9082,7 +8218,6 @@
   },
   {
     "name": "Arrokuda",
-    "generation": 8,
     "dex": "0846",
     "type": "Water",
     "games": [
@@ -9092,7 +8227,6 @@
   },
   {
     "name": "Barraskewda",
-    "generation": 8,
     "dex": "0847",
     "type": "Water",
     "games": [
@@ -9102,7 +8236,6 @@
   },
   {
     "name": "Toxel",
-    "generation": 8,
     "dex": "0848",
     "type": "Electric, Poison",
     "games": [
@@ -9113,7 +8246,6 @@
   },
   {
     "name": "Toxtricity",
-    "generation": 8,
     "dex": "0849",
     "type": "Electric, Poison",
     "games": [
@@ -9124,7 +8256,6 @@
   },
   {
     "name": "Sizzlipede",
-    "generation": 8,
     "dex": "0850",
     "type": "Fire, Bug",
     "games": [
@@ -9133,7 +8264,6 @@
   },
   {
     "name": "Centiskorch",
-    "generation": 8,
     "dex": "0851",
     "type": "Fire, Bug",
     "games": [
@@ -9142,7 +8272,6 @@
   },
   {
     "name": "Clobbopus",
-    "generation": 8,
     "dex": "0852",
     "type": "Fighting",
     "games": [
@@ -9152,7 +8281,6 @@
   },
   {
     "name": "Grapploct",
-    "generation": 8,
     "dex": "0853",
     "type": "Fighting",
     "games": [
@@ -9162,7 +8290,6 @@
   },
   {
     "name": "Galarian Ponyta",
-    "generation": 8,
     "dex": "0077",
     "type": "Psychic",
     "games": [
@@ -9172,7 +8299,6 @@
   },
   {
     "name": "Galarian Rapidash",
-    "generation": 8,
     "dex": "0078",
     "type": "Psychic, Fairy",
     "games": [
@@ -9182,7 +8308,6 @@
   },
   {
     "name": "Sinistea",
-    "generation": 8,
     "dex": "0854",
     "type": "Ghost",
     "games": [
@@ -9192,7 +8317,6 @@
   },
   {
     "name": "Polteageist",
-    "generation": 8,
     "dex": "0855",
     "type": "Ghost",
     "games": [
@@ -9202,7 +8326,6 @@
   },
   {
     "name": "Hatenna",
-    "generation": 8,
     "dex": "0856",
     "type": "Psychic",
     "games": [
@@ -9212,7 +8335,6 @@
   },
   {
     "name": "Hattrem",
-    "generation": 8,
     "dex": "0857",
     "type": "Psychic",
     "games": [
@@ -9222,7 +8344,6 @@
   },
   {
     "name": "Hatterene",
-    "generation": 8,
     "dex": "0858",
     "type": "Psychic, Fairy",
     "games": [
@@ -9232,7 +8353,6 @@
   },
   {
     "name": "Impidimp",
-    "generation": 8,
     "dex": "0859",
     "type": "Dark, Fairy",
     "games": [
@@ -9242,7 +8362,6 @@
   },
   {
     "name": "Morgrem",
-    "generation": 8,
     "dex": "0860",
     "type": "Dark, Fairy",
     "games": [
@@ -9252,7 +8371,6 @@
   },
   {
     "name": "Grimmsnarl",
-    "generation": 8,
     "dex": "0861",
     "type": "Dark, Fairy",
     "games": [
@@ -9262,7 +8380,6 @@
   },
   {
     "name": "Galarian Weezing",
-    "generation": 8,
     "dex": "0110",
     "type": "Poison, Fairy",
     "games": [
@@ -9272,7 +8389,6 @@
   },
   {
     "name": "Galarian Zigzagoon",
-    "generation": 8,
     "dex": "0263",
     "type": "Dark, Normal",
     "games": [
@@ -9282,7 +8398,6 @@
   },
   {
     "name": "Galarian Linoone",
-    "generation": 8,
     "dex": "0264",
     "type": "Dark, Normal",
     "games": [
@@ -9292,7 +8407,6 @@
   },
   {
     "name": "Obstagoon",
-    "generation": 8,
     "dex": "0862",
     "type": "Dark, Normal",
     "games": [
@@ -9301,7 +8415,6 @@
   },
   {
     "name": "Galarian Meowth",
-    "generation": 8,
     "dex": "0052",
     "type": "Steel",
     "games": [
@@ -9311,7 +8424,6 @@
   },
   {
     "name": "Perrserker",
-    "generation": 8,
     "dex": "0863",
     "type": "Steel",
     "games": [
@@ -9321,7 +8433,6 @@
   },
   {
     "name": "Galarian Corsola",
-    "generation": 8,
     "dex": "0222",
     "type": "Ghost",
     "games": [
@@ -9331,7 +8442,6 @@
   },
   {
     "name": "Cursola",
-    "generation": 8,
     "dex": "0864",
     "type": "Ghost",
     "games": [
@@ -9340,7 +8450,6 @@
   },
   {
     "name": "Galarian Farfetch'd",
-    "generation": 8,
     "dex": "0083",
     "type": "Fighting",
     "games": [
@@ -9351,7 +8460,6 @@
   },
   {
     "name": "Sirfetchd",
-    "generation": 8,
     "dex": "0865",
     "type": "Fighting",
     "games": [
@@ -9361,7 +8469,6 @@
   },
   {
     "name": "Galarian Mr. Mime",
-    "generation": 8,
     "dex": "0122",
     "type": "Ice, Psychic",
     "games": [
@@ -9372,7 +8479,6 @@
   },
   {
     "name": "Mr-rime",
-    "generation": 8,
     "dex": "0866",
     "type": "Ice, Psychic",
     "games": [
@@ -9382,7 +8488,6 @@
   },
   {
     "name": "Galarian Yamask",
-    "generation": 8,
     "dex": "0562",
     "type": "Ground, Ghost",
     "games": [
@@ -9392,7 +8497,6 @@
   },
   {
     "name": "Runerigus",
-    "generation": 8,
     "dex": "0867",
     "type": "Ground, Ghost",
     "games": [
@@ -9402,7 +8506,6 @@
   },
   {
     "name": "Milcery",
-    "generation": 8,
     "dex": "0868",
     "type": "Fairy",
     "games": [
@@ -9412,7 +8515,6 @@
   },
   {
     "name": "Alcremie",
-    "generation": 8,
     "dex": "0869",
     "type": "Fairy",
     "games": [
@@ -9422,7 +8524,6 @@
   },
   {
     "name": "Falinks",
-    "generation": 8,
     "dex": "0870",
     "type": "Fighting",
     "games": [
@@ -9433,7 +8534,6 @@
   },
   {
     "name": "Pincurchin",
-    "generation": 8,
     "dex": "0871",
     "type": "Electric",
     "games": [
@@ -9443,7 +8543,6 @@
   },
   {
     "name": "Snom",
-    "generation": 8,
     "dex": "0872",
     "type": "Ice, Bug",
     "games": [
@@ -9453,7 +8552,6 @@
   },
   {
     "name": "Frosmoth",
-    "generation": 8,
     "dex": "0873",
     "type": "Ice, Bug",
     "games": [
@@ -9463,7 +8561,6 @@
   },
   {
     "name": "Galarian Darumaka",
-    "generation": 8,
     "dex": "0554",
     "type": "Ice",
     "games": [
@@ -9472,7 +8569,6 @@
   },
   {
     "name": "Galarian Darmanitan",
-    "generation": 8,
     "dex": "0555",
     "type": "Ice",
     "games": [
@@ -9481,7 +8577,6 @@
   },
   {
     "name": "Stonjourner",
-    "generation": 8,
     "dex": "0874",
     "type": "Rock",
     "games": [
@@ -9491,7 +8586,6 @@
   },
   {
     "name": "Eiscue",
-    "generation": 8,
     "dex": "0875",
     "type": "Ice",
     "games": [
@@ -9501,7 +8595,6 @@
   },
   {
     "name": "Indeedee",
-    "generation": 8,
     "dex": "0876",
     "type": "Psychic, Normal",
     "games": [
@@ -9512,7 +8605,6 @@
   },
   {
     "name": "Morpeko",
-    "generation": 8,
     "dex": "0877",
     "type": "Electric, Dark",
     "games": [
@@ -9523,7 +8615,6 @@
   },
   {
     "name": "Cufant",
-    "generation": 8,
     "dex": "0878",
     "type": "Steel",
     "games": [
@@ -9533,7 +8624,6 @@
   },
   {
     "name": "Copperajah",
-    "generation": 8,
     "dex": "0879",
     "type": "Steel",
     "games": [
@@ -9543,7 +8633,6 @@
   },
   {
     "name": "Dracozolt",
-    "generation": 8,
     "dex": "0880",
     "type": "Electric, Dragon",
     "games": [
@@ -9552,7 +8641,6 @@
   },
   {
     "name": "Arctozolt",
-    "generation": 8,
     "dex": "0881",
     "type": "Electric, Ice",
     "games": [
@@ -9561,7 +8649,6 @@
   },
   {
     "name": "Dracovish",
-    "generation": 8,
     "dex": "0882",
     "type": "Water, Dragon",
     "games": [
@@ -9570,7 +8657,6 @@
   },
   {
     "name": "Arctovish",
-    "generation": 8,
     "dex": "0883",
     "type": "Water, Ice",
     "games": [
@@ -9579,7 +8665,6 @@
   },
   {
     "name": "Duraludon",
-    "generation": 8,
     "dex": "0884",
     "type": "Steel, Dragon",
     "games": [
@@ -9589,7 +8674,6 @@
   },
   {
     "name": "Dreepy",
-    "generation": 8,
     "dex": "0885",
     "type": "Dragon, Ghost",
     "games": [
@@ -9599,7 +8683,6 @@
   },
   {
     "name": "Drakloak",
-    "generation": 8,
     "dex": "0886",
     "type": "Dragon, Ghost",
     "games": [
@@ -9609,7 +8692,6 @@
   },
   {
     "name": "Dragapult",
-    "generation": 8,
     "dex": "0887",
     "type": "Dragon, Ghost",
     "games": [
@@ -9619,7 +8701,6 @@
   },
   {
     "name": "Zacian",
-    "generation": 8,
     "dex": "0888",
     "type": "Fairy",
     "games": [
@@ -9628,7 +8709,6 @@
   },
   {
     "name": "Zamazenta",
-    "generation": 8,
     "dex": "0889",
     "type": "Fighting",
     "games": [
@@ -9637,7 +8717,6 @@
   },
   {
     "name": "Eternatus",
-    "generation": 8,
     "dex": "0890",
     "type": "Poison, Dragon",
     "games": [
@@ -9646,7 +8725,6 @@
   },
   {
     "name": "Galarian Slowpoke",
-    "generation": 8,
     "dex": "0079",
     "type": "Psychic",
     "games": [
@@ -9657,7 +8735,6 @@
   },
   {
     "name": "Galarian Slowbro",
-    "generation": 8,
     "dex": "0080",
     "type": "Poison, Psychic",
     "games": [
@@ -9668,7 +8745,6 @@
   },
   {
     "name": "Galarian Slowking",
-    "generation": 8,
     "dex": "0199",
     "type": "Poison, Psychic",
     "games": [
@@ -9679,7 +8755,6 @@
   },
   {
     "name": "Kubfu",
-    "generation": 8,
     "dex": "0891",
     "type": "Fighting",
     "games": [
@@ -9688,7 +8763,6 @@
   },
   {
     "name": "Urshifu",
-    "generation": 8,
     "dex": "0892",
     "type": "Fighting",
     "games": [
@@ -9697,7 +8771,6 @@
   },
   {
     "name": "Zarude",
-    "generation": 8,
     "dex": "0893",
     "type": "Dark, Grass",
     "games": [
@@ -9706,7 +8779,6 @@
   },
   {
     "name": "Regieleki",
-    "generation": 8,
     "dex": "0894",
     "type": "Electric",
     "games": [
@@ -9715,7 +8787,6 @@
   },
   {
     "name": "Regidrago",
-    "generation": 8,
     "dex": "0895",
     "type": "Dragon",
     "games": [
@@ -9724,7 +8795,6 @@
   },
   {
     "name": "Galarian Articuno",
-    "generation": 8,
     "dex": "0144",
     "type": "Psychic, Flying",
     "games": [
@@ -9733,7 +8803,6 @@
   },
   {
     "name": "Galarian Zapdos",
-    "generation": 8,
     "dex": "0145",
     "type": "Fighting, Flying",
     "games": [
@@ -9742,7 +8811,6 @@
   },
   {
     "name": "Galarian Moltres",
-    "generation": 8,
     "dex": "0146",
     "type": "Dark, Flying",
     "games": [
@@ -9751,7 +8819,6 @@
   },
   {
     "name": "Glastrier",
-    "generation": 8,
     "dex": "0896",
     "type": "Ice",
     "games": [
@@ -9760,7 +8827,6 @@
   },
   {
     "name": "Spectrier",
-    "generation": 8,
     "dex": "0897",
     "type": "Ghost",
     "games": [
@@ -9769,7 +8835,6 @@
   },
   {
     "name": "Calyrex",
-    "generation": 8,
     "dex": "0898",
     "type": "Psychic, Grass",
     "games": [
@@ -9778,7 +8843,6 @@
   },
   {
     "name": "Hisuian Decidueye",
-    "generation": 8,
     "dex": "0724",
     "type": "Grass, Fighting",
     "games": [
@@ -9787,7 +8851,6 @@
   },
   {
     "name": "Hisuian Typhlosion",
-    "generation": 8,
     "dex": "0157",
     "type": "Fire, Ghost",
     "games": [
@@ -9797,7 +8860,6 @@
   },
   {
     "name": "Hisuian Samurott",
-    "generation": 8,
     "dex": "0503",
     "type": "Water, Dark",
     "games": [
@@ -9806,7 +8868,6 @@
   },
   {
     "name": "Wyrdeer",
-    "generation": 8,
     "dex": "0899",
     "type": "Normal, Psychic",
     "games": [
@@ -9815,7 +8876,6 @@
   },
   {
     "name": "Kleavor",
-    "generation": 8,
     "dex": "0900",
     "type": "Bug, Rock",
     "games": [
@@ -9826,7 +8886,6 @@
   },
   {
     "name": "Hisuian Lilligant",
-    "generation": 8,
     "dex": "0549",
     "type": "Grass, Fighting",
     "games": [
@@ -9835,7 +8894,6 @@
   },
   {
     "name": "Ursaluna",
-    "generation": 8,
     "dex": "0901",
     "type": "Ground, Normal",
     "games": [
@@ -9844,7 +8902,6 @@
   },
   {
     "name": "Hisuian Sliggoo",
-    "generation": 8,
     "dex": "0705",
     "type": "Dragon, Steel",
     "games": [
@@ -9854,7 +8911,6 @@
   },
   {
     "name": "Hisuian Goodra",
-    "generation": 8,
     "dex": "0706",
     "type": "Dragon, Steel",
     "games": [
@@ -9864,7 +8920,6 @@
   },
   {
     "name": "Hisuian Growlithe",
-    "generation": 8,
     "dex": "0058",
     "type": "Fire, Rock",
     "games": [
@@ -9874,7 +8929,6 @@
   },
   {
     "name": "Hisuian Arcanine",
-    "generation": 8,
     "dex": "0059",
     "type": "Fire, Rock",
     "games": [
@@ -9884,7 +8938,6 @@
   },
   {
     "name": "Hisuian Basculin",
-    "generation": 8,
     "dex": "0550",
     "type": "Water",
     "games": [
@@ -9893,7 +8946,6 @@
   },
   {
     "name": "Basculegion",
-    "generation": 8,
     "dex": "0902",
     "type": "Water, Ghost",
     "games": [
@@ -9903,7 +8955,6 @@
   },
   {
     "name": "Hisuian Voltorb",
-    "generation": 8,
     "dex": "0100",
     "type": "Electric, Grass",
     "games": [
@@ -9913,7 +8964,6 @@
   },
   {
     "name": "Hisuian Electrode",
-    "generation": 8,
     "dex": "0101",
     "type": "Electric, Grass",
     "games": [
@@ -9923,7 +8973,6 @@
   },
   {
     "name": "Hisuian Sneasel",
-    "generation": 8,
     "dex": "0215",
     "type": "Fighting, Poison",
     "games": [
@@ -9933,7 +8982,6 @@
   },
   {
     "name": "Sneasler",
-    "generation": 8,
     "dex": "0903",
     "type": "Fighting, Poison",
     "games": [
@@ -9942,7 +8990,6 @@
   },
   {
     "name": "Hisuian Qwilfish",
-    "generation": 8,
     "dex": "0211",
     "type": "Dark, Poison",
     "games": [
@@ -9954,7 +9001,6 @@
   },
   {
     "name": "Overqwil",
-    "generation": 8,
     "dex": "0904",
     "type": "Dark, Poison",
     "games": [
@@ -9965,7 +9011,6 @@
   },
   {
     "name": "Hisuian Avalugg",
-    "generation": 8,
     "dex": "0713",
     "type": "Ice, Rock",
     "games": [
@@ -9975,7 +9020,6 @@
   },
   {
     "name": "Hisuian Zorua",
-    "generation": 8,
     "dex": "0570",
     "type": "Normal, Ghost",
     "games": [
@@ -9984,7 +9028,6 @@
   },
   {
     "name": "Hisuian Zoroark",
-    "generation": 8,
     "dex": "0571",
     "type": "Normal, Ghost",
     "games": [
@@ -9993,7 +9036,6 @@
   },
   {
     "name": "Hisuian Braviary",
-    "generation": 8,
     "dex": "0628",
     "type": "Psychic, Flying",
     "games": [
@@ -10002,7 +9044,6 @@
   },
   {
     "name": "Enamorus",
-    "generation": 8,
     "dex": "0905",
     "type": "Fairy, Flying",
     "games": [
@@ -10011,7 +9052,6 @@
   },
   {
     "name": "Sprigatito",
-    "generation": 9,
     "dex": "0906",
     "type": "Grass",
     "games": [
@@ -10020,7 +9060,6 @@
   },
   {
     "name": "Floragato",
-    "generation": 9,
     "dex": "0907",
     "type": "Grass",
     "games": [
@@ -10029,7 +9068,6 @@
   },
   {
     "name": "Meowscarada",
-    "generation": 9,
     "dex": "0908",
     "type": "Grass, Dark",
     "games": [
@@ -10038,7 +9076,6 @@
   },
   {
     "name": "Fuecoco",
-    "generation": 9,
     "dex": "0909",
     "type": "Fire",
     "games": [
@@ -10047,7 +9084,6 @@
   },
   {
     "name": "Crocalor",
-    "generation": 9,
     "dex": "0910",
     "type": "Fire",
     "games": [
@@ -10056,7 +9092,6 @@
   },
   {
     "name": "Skeledirge",
-    "generation": 9,
     "dex": "0911",
     "type": "Fire, Ghost",
     "games": [
@@ -10065,7 +9100,6 @@
   },
   {
     "name": "Quaxly",
-    "generation": 9,
     "dex": "0912",
     "type": "Water",
     "games": [
@@ -10074,7 +9108,6 @@
   },
   {
     "name": "Quaxwell",
-    "generation": 9,
     "dex": "0913",
     "type": "Water",
     "games": [
@@ -10083,7 +9116,6 @@
   },
   {
     "name": "Quaquaval",
-    "generation": 9,
     "dex": "0914",
     "type": "Water, Fighting",
     "games": [
@@ -10092,7 +9124,6 @@
   },
   {
     "name": "Lechonk",
-    "generation": 9,
     "dex": "0915",
     "type": "Normal",
     "games": [
@@ -10101,7 +9132,6 @@
   },
   {
     "name": "Oinkologne",
-    "generation": 9,
     "dex": "0916",
     "type": "Normal",
     "games": [
@@ -10110,7 +9140,6 @@
   },
   {
     "name": "Tarountula",
-    "generation": 9,
     "dex": "0917",
     "type": "Bug",
     "games": [
@@ -10119,7 +9148,6 @@
   },
   {
     "name": "Spidops",
-    "generation": 9,
     "dex": "0918",
     "type": "Bug",
     "games": [
@@ -10128,7 +9156,6 @@
   },
   {
     "name": "Nymble",
-    "generation": 9,
     "dex": "0919",
     "type": "Bug",
     "games": [
@@ -10137,7 +9164,6 @@
   },
   {
     "name": "Lokix",
-    "generation": 9,
     "dex": "0920",
     "type": "Bug, Dark",
     "games": [
@@ -10146,7 +9172,6 @@
   },
   {
     "name": "Pawmi",
-    "generation": 9,
     "dex": "0921",
     "type": "Electric",
     "games": [
@@ -10155,7 +9180,6 @@
   },
   {
     "name": "Pawmo",
-    "generation": 9,
     "dex": "0922",
     "type": "Electric, Fighting",
     "games": [
@@ -10164,7 +9188,6 @@
   },
   {
     "name": "Pawmot",
-    "generation": 9,
     "dex": "0923",
     "type": "Electric, Fighting",
     "games": [
@@ -10173,7 +9196,6 @@
   },
   {
     "name": "Tandemaus",
-    "generation": 9,
     "dex": "0924",
     "type": "Normal",
     "games": [
@@ -10182,7 +9204,6 @@
   },
   {
     "name": "Maushold",
-    "generation": 9,
     "dex": "0925",
     "type": "Normal",
     "games": [
@@ -10191,7 +9212,6 @@
   },
   {
     "name": "Fidough",
-    "generation": 9,
     "dex": "0926",
     "type": "Fairy",
     "games": [
@@ -10201,7 +9221,6 @@
   },
   {
     "name": "Dachsbun",
-    "generation": 9,
     "dex": "0927",
     "type": "Fairy",
     "games": [
@@ -10211,7 +9230,6 @@
   },
   {
     "name": "Smoliv",
-    "generation": 9,
     "dex": "0928",
     "type": "Grass, Normal",
     "games": [
@@ -10220,7 +9238,6 @@
   },
   {
     "name": "Dolliv",
-    "generation": 9,
     "dex": "0929",
     "type": "Grass, Normal",
     "games": [
@@ -10229,7 +9246,6 @@
   },
   {
     "name": "Arboliva",
-    "generation": 9,
     "dex": "0930",
     "type": "Grass, Normal",
     "games": [
@@ -10238,7 +9254,6 @@
   },
   {
     "name": "Squawkabilly",
-    "generation": 9,
     "dex": "0931",
     "type": "Normal, Flying",
     "games": [
@@ -10248,7 +9263,6 @@
   },
   {
     "name": "Nacli",
-    "generation": 9,
     "dex": "0932",
     "type": "Rock",
     "games": [
@@ -10258,7 +9272,6 @@
   },
   {
     "name": "Naclstack",
-    "generation": 9,
     "dex": "0933",
     "type": "Rock",
     "games": [
@@ -10268,7 +9281,6 @@
   },
   {
     "name": "Garganacl",
-    "generation": 9,
     "dex": "0934",
     "type": "Rock",
     "games": [
@@ -10278,7 +9290,6 @@
   },
   {
     "name": "Charcadet",
-    "generation": 9,
     "dex": "0935",
     "type": "Fire",
     "games": [
@@ -10288,7 +9299,6 @@
   },
   {
     "name": "Armarouge",
-    "generation": 9,
     "dex": "0936",
     "type": "Fire, Psychic",
     "games": [
@@ -10298,7 +9308,6 @@
   },
   {
     "name": "Ceruledge",
-    "generation": 9,
     "dex": "0937",
     "type": "Fire, Ghost",
     "games": [
@@ -10308,7 +9317,6 @@
   },
   {
     "name": "Tadbulb",
-    "generation": 9,
     "dex": "0938",
     "type": "Electric",
     "games": [
@@ -10317,7 +9325,6 @@
   },
   {
     "name": "Bellibolt",
-    "generation": 9,
     "dex": "0939",
     "type": "Electric",
     "games": [
@@ -10326,7 +9333,6 @@
   },
   {
     "name": "Wattrel",
-    "generation": 9,
     "dex": "0940",
     "type": "Electric, Flying",
     "games": [
@@ -10335,7 +9341,6 @@
   },
   {
     "name": "Kilowattrel",
-    "generation": 9,
     "dex": "0941",
     "type": "Electric, Flying",
     "games": [
@@ -10344,7 +9349,6 @@
   },
   {
     "name": "Maschiff",
-    "generation": 9,
     "dex": "0942",
     "type": "Dark",
     "games": [
@@ -10354,7 +9358,6 @@
   },
   {
     "name": "Mabosstiff",
-    "generation": 9,
     "dex": "0943",
     "type": "Dark",
     "games": [
@@ -10364,7 +9367,6 @@
   },
   {
     "name": "Shroodle",
-    "generation": 9,
     "dex": "0944",
     "type": "Poison, Normal",
     "games": [
@@ -10374,7 +9376,6 @@
   },
   {
     "name": "Grafaiai",
-    "generation": 9,
     "dex": "0945",
     "type": "Poison, Normal",
     "games": [
@@ -10384,7 +9385,6 @@
   },
   {
     "name": "Paldean Tauros",
-    "generation": 9,
     "dex": "0128",
     "type": "Fighting",
     "games": [
@@ -10394,7 +9394,6 @@
   },
   {
     "name": "Bramblin",
-    "generation": 9,
     "dex": "0946",
     "type": "Grass, Ghost",
     "games": [
@@ -10403,7 +9402,6 @@
   },
   {
     "name": "Brambleghast",
-    "generation": 9,
     "dex": "0947",
     "type": "Grass, Ghost",
     "games": [
@@ -10412,7 +9410,6 @@
   },
   {
     "name": "Toedscool",
-    "generation": 9,
     "dex": "0948",
     "type": "Ground, Grass",
     "games": [
@@ -10421,7 +9418,6 @@
   },
   {
     "name": "Toedscruel",
-    "generation": 9,
     "dex": "0949",
     "type": "Ground, Grass",
     "games": [
@@ -10430,7 +9426,6 @@
   },
   {
     "name": "Klawf",
-    "generation": 9,
     "dex": "0950",
     "type": "Rock",
     "games": [
@@ -10439,7 +9434,6 @@
   },
   {
     "name": "Capsakid",
-    "generation": 9,
     "dex": "0951",
     "type": "Grass",
     "games": [
@@ -10449,7 +9443,6 @@
   },
   {
     "name": "Scovillain",
-    "generation": 9,
     "dex": "0952",
     "type": "Grass, Fire",
     "games": [
@@ -10459,7 +9452,6 @@
   },
   {
     "name": "Rellor",
-    "generation": 9,
     "dex": "0953",
     "type": "Bug",
     "games": [
@@ -10468,7 +9460,6 @@
   },
   {
     "name": "Rabsca",
-    "generation": 9,
     "dex": "0954",
     "type": "Bug, Psychic",
     "games": [
@@ -10477,7 +9468,6 @@
   },
   {
     "name": "Flittle",
-    "generation": 9,
     "dex": "0955",
     "type": "Psychic",
     "games": [
@@ -10486,7 +9476,6 @@
   },
   {
     "name": "Espathra",
-    "generation": 9,
     "dex": "0956",
     "type": "Psychic",
     "games": [
@@ -10495,7 +9484,6 @@
   },
   {
     "name": "Tinkatink",
-    "generation": 9,
     "dex": "0957",
     "type": "Fairy, Steel",
     "games": [
@@ -10505,7 +9493,6 @@
   },
   {
     "name": "Tinkatuff",
-    "generation": 9,
     "dex": "0958",
     "type": "Fairy, Steel",
     "games": [
@@ -10515,7 +9502,6 @@
   },
   {
     "name": "Tinkaton",
-    "generation": 9,
     "dex": "0959",
     "type": "Fairy, Steel",
     "games": [
@@ -10525,7 +9511,6 @@
   },
   {
     "name": "Wiglett",
-    "generation": 9,
     "dex": "0960",
     "type": "Water",
     "games": [
@@ -10534,7 +9519,6 @@
   },
   {
     "name": "Wugtrio",
-    "generation": 9,
     "dex": "0961",
     "type": "Water",
     "games": [
@@ -10543,7 +9527,6 @@
   },
   {
     "name": "Bombirdier",
-    "generation": 9,
     "dex": "0962",
     "type": "Flying, Dark",
     "games": [
@@ -10552,7 +9535,6 @@
   },
   {
     "name": "Finizen",
-    "generation": 9,
     "dex": "0963",
     "type": "Water",
     "games": [
@@ -10561,7 +9543,6 @@
   },
   {
     "name": "Palafin",
-    "generation": 9,
     "dex": "0964",
     "type": "Water",
     "games": [
@@ -10570,7 +9551,6 @@
   },
   {
     "name": "Varoom",
-    "generation": 9,
     "dex": "0965",
     "type": "Steel, Poison",
     "games": [
@@ -10579,7 +9559,6 @@
   },
   {
     "name": "Revavroom",
-    "generation": 9,
     "dex": "0966",
     "type": "Steel, Poison",
     "games": [
@@ -10588,7 +9567,6 @@
   },
   {
     "name": "Cyclizar",
-    "generation": 9,
     "dex": "0967",
     "type": "Dragon, Normal",
     "games": [
@@ -10598,7 +9576,6 @@
   },
   {
     "name": "Orthworm",
-    "generation": 9,
     "dex": "0968",
     "type": "Steel",
     "games": [
@@ -10607,7 +9584,6 @@
   },
   {
     "name": "Glimmet",
-    "generation": 9,
     "dex": "0969",
     "type": "Rock, Poison",
     "games": [
@@ -10617,7 +9593,6 @@
   },
   {
     "name": "Glimmora",
-    "generation": 9,
     "dex": "0970",
     "type": "Rock, Poison",
     "games": [
@@ -10627,7 +9602,6 @@
   },
   {
     "name": "Greavard",
-    "generation": 9,
     "dex": "0971",
     "type": "Ghost",
     "games": [
@@ -10637,7 +9611,6 @@
   },
   {
     "name": "Houndstone",
-    "generation": 9,
     "dex": "0972",
     "type": "Ghost",
     "games": [
@@ -10647,7 +9620,6 @@
   },
   {
     "name": "Flamigo",
-    "generation": 9,
     "dex": "0973",
     "type": "Flying, Fighting",
     "games": [
@@ -10657,7 +9629,6 @@
   },
   {
     "name": "Cetoddle",
-    "generation": 9,
     "dex": "0974",
     "type": "Ice",
     "games": [
@@ -10666,7 +9637,6 @@
   },
   {
     "name": "Cetitan",
-    "generation": 9,
     "dex": "0975",
     "type": "Ice",
     "games": [
@@ -10675,7 +9645,6 @@
   },
   {
     "name": "Veluza",
-    "generation": 9,
     "dex": "0976",
     "type": "Water, Psychic",
     "games": [
@@ -10684,7 +9653,6 @@
   },
   {
     "name": "Dondozo",
-    "generation": 9,
     "dex": "0977",
     "type": "Water",
     "games": [
@@ -10694,7 +9662,6 @@
   },
   {
     "name": "Tatsugiri",
-    "generation": 9,
     "dex": "0978",
     "type": "Dragon, Water",
     "games": [
@@ -10704,7 +9671,6 @@
   },
   {
     "name": "Annihilape",
-    "generation": 9,
     "dex": "0979",
     "type": "Fighting, Ghost",
     "games": [
@@ -10714,7 +9680,6 @@
   },
   {
     "name": "Paldean Wooper",
-    "generation": 9,
     "dex": "0194",
     "type": "Poison, Ground",
     "games": [
@@ -10724,7 +9689,6 @@
   },
   {
     "name": "Clodsire",
-    "generation": 9,
     "dex": "0980",
     "type": "Poison, Ground",
     "games": [
@@ -10733,7 +9697,6 @@
   },
   {
     "name": "Farigiraf",
-    "generation": 9,
     "dex": "0981",
     "type": "Normal, Psychic",
     "games": [
@@ -10742,7 +9705,6 @@
   },
   {
     "name": "Dudunsparce",
-    "generation": 9,
     "dex": "0982",
     "type": "Normal",
     "games": [
@@ -10751,7 +9713,6 @@
   },
   {
     "name": "Kingambit",
-    "generation": 9,
     "dex": "0983",
     "type": "Dark, Steel",
     "games": [
@@ -10760,7 +9721,6 @@
   },
   {
     "name": "Great-tusk",
-    "generation": 9,
     "dex": "0984",
     "type": "Ground, Fighting",
     "games": [
@@ -10769,7 +9729,6 @@
   },
   {
     "name": "Scream-tail",
-    "generation": 9,
     "dex": "0985",
     "type": "Fairy, Psychic",
     "games": [
@@ -10778,7 +9737,6 @@
   },
   {
     "name": "Brute-bonnet",
-    "generation": 9,
     "dex": "0986",
     "type": "Grass, Dark",
     "games": [
@@ -10787,7 +9745,6 @@
   },
   {
     "name": "Flutter-mane",
-    "generation": 9,
     "dex": "0987",
     "type": "Ghost, Fairy",
     "games": [
@@ -10796,7 +9753,6 @@
   },
   {
     "name": "Slither-wing",
-    "generation": 9,
     "dex": "0988",
     "type": "Bug, Fighting",
     "games": [
@@ -10805,7 +9761,6 @@
   },
   {
     "name": "Sandy-shocks",
-    "generation": 9,
     "dex": "0989",
     "type": "Electric, Ground",
     "games": [
@@ -10814,7 +9769,6 @@
   },
   {
     "name": "Iron-treads",
-    "generation": 9,
     "dex": "0990",
     "type": "Ground, Steel",
     "games": [
@@ -10823,7 +9777,6 @@
   },
   {
     "name": "Iron-bundle",
-    "generation": 9,
     "dex": "0991",
     "type": "Ice, Water",
     "games": [
@@ -10832,7 +9785,6 @@
   },
   {
     "name": "Iron-hands",
-    "generation": 9,
     "dex": "0992",
     "type": "Fighting, Electric",
     "games": [
@@ -10841,7 +9793,6 @@
   },
   {
     "name": "Iron-jugulis",
-    "generation": 9,
     "dex": "0993",
     "type": "Dark, Flying",
     "games": [
@@ -10850,7 +9801,6 @@
   },
   {
     "name": "Iron-moth",
-    "generation": 9,
     "dex": "0994",
     "type": "Fire, Poison",
     "games": [
@@ -10859,7 +9809,6 @@
   },
   {
     "name": "Iron-thorns",
-    "generation": 9,
     "dex": "0995",
     "type": "Rock, Electric",
     "games": [
@@ -10868,7 +9817,6 @@
   },
   {
     "name": "Frigibax",
-    "generation": 9,
     "dex": "0996",
     "type": "Dragon, Ice",
     "games": [
@@ -10878,7 +9826,6 @@
   },
   {
     "name": "Arctibax",
-    "generation": 9,
     "dex": "0997",
     "type": "Dragon, Ice",
     "games": [
@@ -10888,7 +9835,6 @@
   },
   {
     "name": "Baxcalibur",
-    "generation": 9,
     "dex": "0998",
     "type": "Dragon, Ice",
     "games": [
@@ -10898,7 +9844,6 @@
   },
   {
     "name": "Gimmighoul",
-    "generation": 9,
     "dex": "0999",
     "type": "Ghost",
     "games": [
@@ -10908,7 +9853,6 @@
   },
   {
     "name": "Gholdengo",
-    "generation": 9,
     "dex": "1000",
     "type": "Steel, Ghost",
     "games": [
@@ -10918,7 +9862,6 @@
   },
   {
     "name": "Wo-chien",
-    "generation": 9,
     "dex": "1001",
     "type": "Dark, Grass",
     "games": [
@@ -10927,7 +9870,6 @@
   },
   {
     "name": "Chien-pao",
-    "generation": 9,
     "dex": "1002",
     "type": "Dark, Ice",
     "games": [
@@ -10936,7 +9878,6 @@
   },
   {
     "name": "Ting-lu",
-    "generation": 9,
     "dex": "1003",
     "type": "Ground, Dark",
     "games": [
@@ -10945,7 +9886,6 @@
   },
   {
     "name": "Chi-yu",
-    "generation": 9,
     "dex": "1004",
     "type": "Dark, Fire",
     "games": [
@@ -10954,7 +9894,6 @@
   },
   {
     "name": "Roaring-moon",
-    "generation": 9,
     "dex": "1005",
     "type": "Dragon, Dark",
     "games": [
@@ -10963,7 +9902,6 @@
   },
   {
     "name": "Iron-valiant",
-    "generation": 9,
     "dex": "1006",
     "type": "Fairy, Fighting",
     "games": [
@@ -10972,7 +9910,6 @@
   },
   {
     "name": "Koraidon",
-    "generation": 9,
     "dex": "1007",
     "type": "Fighting, Dragon",
     "games": [
@@ -10981,7 +9918,6 @@
   },
   {
     "name": "Miraidon",
-    "generation": 9,
     "dex": "1008",
     "type": "Electric, Dragon",
     "games": [
@@ -10990,7 +9926,6 @@
   },
   {
     "name": "Walking-wake",
-    "generation": 9,
     "dex": "1009",
     "type": "Water, Dragon",
     "games": [
@@ -10999,7 +9934,6 @@
   },
   {
     "name": "Iron-leaves",
-    "generation": 9,
     "dex": "1010",
     "type": "Grass, Psychic",
     "games": [
@@ -11008,7 +9942,6 @@
   },
   {
     "name": "Dipplin",
-    "generation": 9,
     "dex": "1011",
     "type": "Grass, Dragon",
     "games": [
@@ -11017,7 +9950,6 @@
   },
   {
     "name": "Poltchageist",
-    "generation": 9,
     "dex": "1012",
     "type": "Grass, Ghost",
     "games": [
@@ -11026,7 +9958,6 @@
   },
   {
     "name": "Sinistcha",
-    "generation": 9,
     "dex": "1013",
     "type": "Grass, Ghost",
     "games": [
@@ -11035,7 +9966,6 @@
   },
   {
     "name": "Bloodmoon Ursaluna",
-    "generation": 8,
     "dex": "0901",
     "type": "Normal, Ground",
     "games": [
@@ -11044,7 +9974,6 @@
   },
   {
     "name": "Okidogi",
-    "generation": 9,
     "dex": "1014",
     "type": "Poison, Fighting",
     "games": [
@@ -11053,7 +9982,6 @@
   },
   {
     "name": "Munkidori",
-    "generation": 9,
     "dex": "1015",
     "type": "Poison, Psychic",
     "games": [
@@ -11062,7 +9990,6 @@
   },
   {
     "name": "Fezandipiti",
-    "generation": 9,
     "dex": "1016",
     "type": "Poison, Fairy",
     "games": [
@@ -11071,7 +9998,6 @@
   },
   {
     "name": "Ogerpon",
-    "generation": 9,
     "dex": "1017",
     "type": "Grass",
     "games": [
@@ -11080,7 +10006,6 @@
   },
   {
     "name": "Archaludon",
-    "generation": 9,
     "dex": "1018",
     "type": "Steel, Dragon",
     "games": [
@@ -11089,7 +10014,6 @@
   },
   {
     "name": "Hydrapple",
-    "generation": 9,
     "dex": "1019",
     "type": "Grass, Dragon",
     "games": [
@@ -11098,7 +10022,6 @@
   },
   {
     "name": "Gouging-fire",
-    "generation": 9,
     "dex": "1020",
     "type": "Fire, Dragon",
     "games": [
@@ -11107,7 +10030,6 @@
   },
   {
     "name": "Raging-bolt",
-    "generation": 9,
     "dex": "1021",
     "type": "Electric, Dragon",
     "games": [
@@ -11116,7 +10038,6 @@
   },
   {
     "name": "Iron-boulder",
-    "generation": 9,
     "dex": "1022",
     "type": "Rock, Psychic",
     "games": [
@@ -11125,7 +10046,6 @@
   },
   {
     "name": "Iron-crown",
-    "generation": 9,
     "dex": "1023",
     "type": "Steel, Psychic",
     "games": [
@@ -11134,7 +10054,6 @@
   },
   {
     "name": "Terapagos",
-    "generation": 9,
     "dex": "1024",
     "type": "Normal",
     "games": [
@@ -11143,7 +10062,6 @@
   },
   {
     "name": "Pecharunt",
-    "generation": 9,
     "dex": "1025",
     "type": "Poison, Ghost",
     "games": [
