@@ -9,7 +9,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ivysaur",
@@ -21,7 +22,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Venusaur",
@@ -33,7 +35,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Charmander",
@@ -45,7 +48,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Charmeleon",
@@ -57,7 +61,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Charizard",
@@ -69,7 +74,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Squirtle",
@@ -81,7 +87,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Wartortle",
@@ -93,7 +100,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Blastoise",
@@ -105,7 +113,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Caterpie",
@@ -115,7 +124,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Metapod",
@@ -125,7 +135,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Butterfree",
@@ -135,7 +146,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Weedle",
@@ -145,7 +157,8 @@
     "games": [
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Kakuna",
@@ -155,7 +168,8 @@
     "games": [
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Beedrill",
@@ -165,7 +179,8 @@
     "games": [
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pidgey",
@@ -175,7 +190,8 @@
     "games": [
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pidgeotto",
@@ -185,7 +201,8 @@
     "games": [
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pidgeot",
@@ -195,7 +212,8 @@
     "games": [
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Rattata",
@@ -204,7 +222,8 @@
     "type": "Normal",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Raticate",
@@ -213,7 +232,8 @@
     "type": "Normal",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Spearow",
@@ -222,7 +242,8 @@
     "type": "Normal, Flying",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Fearow",
@@ -231,7 +252,8 @@
     "type": "Normal, Flying",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ekans",
@@ -242,7 +264,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Arbok",
@@ -253,7 +276,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pikachu",
@@ -266,7 +290,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Raichu",
@@ -279,7 +304,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sandshrew",
@@ -290,7 +316,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sandslash",
@@ -301,7 +328,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Nidoran-f",
@@ -311,7 +339,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Nidorina",
@@ -321,7 +350,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Nidoqueen",
@@ -331,7 +361,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Nidoran-m",
@@ -341,7 +372,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Nidorino",
@@ -351,7 +383,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Nidoking",
@@ -361,7 +394,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Clefairy",
@@ -374,7 +408,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Clefable",
@@ -387,7 +422,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Vulpix",
@@ -399,7 +435,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ninetales",
@@ -411,7 +448,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Jigglypuff",
@@ -423,7 +461,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Wigglytuff",
@@ -435,7 +474,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Zubat",
@@ -447,7 +487,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Golbat",
@@ -459,7 +500,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Oddish",
@@ -470,7 +512,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gloom",
@@ -481,7 +524,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Vileplume",
@@ -492,7 +536,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Paras",
@@ -502,7 +547,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Parasect",
@@ -512,7 +558,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Venonat",
@@ -522,7 +569,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Venomoth",
@@ -532,7 +580,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Diglett",
@@ -543,7 +592,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dugtrio",
@@ -554,7 +604,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Meowth",
@@ -566,7 +617,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Persian",
@@ -578,7 +630,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Psyduck",
@@ -590,7 +643,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Golduck",
@@ -602,7 +656,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mankey",
@@ -613,7 +668,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Primeape",
@@ -624,7 +680,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Growlithe",
@@ -635,7 +692,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Arcanine",
@@ -646,7 +704,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Poliwag",
@@ -657,7 +716,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Poliwhirl",
@@ -668,7 +728,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Poliwrath",
@@ -679,7 +740,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Abra",
@@ -691,7 +753,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Kadabra",
@@ -703,7 +766,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Alakazam",
@@ -715,7 +779,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Machop",
@@ -727,7 +792,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Machoke",
@@ -739,7 +805,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Machamp",
@@ -751,7 +818,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bellsprout",
@@ -762,7 +830,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Weepinbell",
@@ -773,7 +842,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Victreebel",
@@ -784,7 +854,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tentacool",
@@ -796,7 +867,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tentacruel",
@@ -808,7 +880,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Geodude",
@@ -819,7 +892,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Graveler",
@@ -830,7 +904,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Golem",
@@ -841,7 +916,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ponyta",
@@ -852,7 +928,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Rapidash",
@@ -863,7 +940,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Slowpoke",
@@ -875,7 +953,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Slowbro",
@@ -887,7 +966,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Magnemite",
@@ -899,7 +979,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Magneton",
@@ -911,7 +992,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Farfetchd",
@@ -921,7 +1003,8 @@
     "games": [
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Doduo",
@@ -931,7 +1014,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dodrio",
@@ -941,7 +1025,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Seel",
@@ -951,7 +1036,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dewgong",
@@ -961,7 +1047,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Grimer",
@@ -971,7 +1058,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Muk",
@@ -981,7 +1069,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Shellder",
@@ -992,7 +1081,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cloyster",
@@ -1003,7 +1093,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gastly",
@@ -1016,7 +1107,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Haunter",
@@ -1029,7 +1121,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gengar",
@@ -1042,7 +1135,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Onix",
@@ -1054,7 +1148,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Drowzee",
@@ -1064,7 +1159,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hypno",
@@ -1074,7 +1170,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Krabby",
@@ -1084,7 +1181,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Kingler",
@@ -1094,7 +1192,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Voltorb",
@@ -1104,7 +1203,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Electrode",
@@ -1114,7 +1214,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Exeggcute",
@@ -1125,7 +1226,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Exeggutor",
@@ -1136,7 +1238,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cubone",
@@ -1147,7 +1250,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Marowak",
@@ -1158,7 +1262,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hitmonlee",
@@ -1169,7 +1274,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hitmonchan",
@@ -1180,7 +1286,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lickitung",
@@ -1191,7 +1298,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Koffing",
@@ -1202,7 +1310,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Weezing",
@@ -1212,7 +1321,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Rhyhorn",
@@ -1224,7 +1334,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Rhydon",
@@ -1236,7 +1347,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Chansey",
@@ -1248,7 +1360,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tangela",
@@ -1259,7 +1372,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Kangaskhan",
@@ -1270,7 +1384,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Horsea",
@@ -1281,7 +1396,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Seadra",
@@ -1292,7 +1408,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Goldeen",
@@ -1302,7 +1419,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Seaking",
@@ -1312,7 +1430,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Staryu",
@@ -1323,7 +1442,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Starmie",
@@ -1334,7 +1454,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mr-mime",
@@ -1346,7 +1467,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Scyther",
@@ -1359,7 +1481,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Jynx",
@@ -1369,7 +1492,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Electabuzz",
@@ -1381,7 +1505,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Magmar",
@@ -1393,7 +1518,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pinsir",
@@ -1404,7 +1530,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tauros",
@@ -1415,7 +1542,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Magikarp",
@@ -1428,7 +1556,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gyarados",
@@ -1441,7 +1570,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lapras",
@@ -1452,7 +1582,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ditto",
@@ -1463,7 +1594,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Eevee",
@@ -1476,7 +1608,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Vaporeon",
@@ -1489,7 +1622,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Jolteon",
@@ -1502,7 +1636,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Flareon",
@@ -1515,7 +1650,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Porygon",
@@ -1528,7 +1664,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Omanyte",
@@ -1538,7 +1675,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Omastar",
@@ -1548,7 +1686,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Kabuto",
@@ -1558,7 +1697,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Kabutops",
@@ -1568,7 +1708,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Aerodactyl",
@@ -1579,7 +1720,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Snorlax",
@@ -1591,7 +1733,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Articuno",
@@ -1601,7 +1744,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Zapdos",
@@ -1611,7 +1755,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Moltres",
@@ -1621,7 +1766,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Dratini",
@@ -1633,7 +1779,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dragonair",
@@ -1645,7 +1792,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dragonite",
@@ -1657,7 +1805,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mewtwo",
@@ -1668,7 +1817,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Mew",
@@ -1677,7 +1827,8 @@
     "type": "Psychic",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Chikorita",
@@ -1688,7 +1839,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bayleef",
@@ -1699,7 +1851,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Meganium",
@@ -1710,7 +1863,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cyndaquil",
@@ -1721,7 +1875,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Quilava",
@@ -1732,7 +1887,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Typhlosion",
@@ -1742,7 +1898,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Totodile",
@@ -1753,7 +1910,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Croconaw",
@@ -1764,7 +1922,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Feraligatr",
@@ -1775,7 +1934,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sentret",
@@ -1785,7 +1945,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Furret",
@@ -1795,7 +1956,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hoothoot",
@@ -1806,7 +1968,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Noctowl",
@@ -1817,7 +1980,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ledyba",
@@ -1826,7 +1990,8 @@
     "type": "Bug, Flying",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ledian",
@@ -1835,7 +2000,8 @@
     "type": "Bug, Flying",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Spinarak",
@@ -1846,7 +2012,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ariados",
@@ -1857,7 +2024,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Crobat",
@@ -1869,7 +2037,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Chinchou",
@@ -1880,7 +2049,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lanturn",
@@ -1891,7 +2061,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pichu",
@@ -1904,7 +2075,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cleffa",
@@ -1917,7 +2089,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Igglybuff",
@@ -1929,7 +2102,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Togepi",
@@ -1940,7 +2114,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Togetic",
@@ -1951,7 +2126,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Natu",
@@ -1961,7 +2137,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Xatu",
@@ -1971,7 +2148,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mareep",
@@ -1982,7 +2160,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Flaaffy",
@@ -1993,7 +2172,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ampharos",
@@ -2004,7 +2184,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bellossom",
@@ -2015,7 +2196,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Marill",
@@ -2026,7 +2208,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Azumarill",
@@ -2037,7 +2220,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sudowoodo",
@@ -2049,7 +2233,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Politoed",
@@ -2060,7 +2245,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hoppip",
@@ -2070,7 +2256,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Skiploom",
@@ -2080,7 +2267,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Jumpluff",
@@ -2090,7 +2278,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Aipom",
@@ -2101,7 +2290,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sunkern",
@@ -2111,7 +2301,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sunflora",
@@ -2121,7 +2312,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Yanma",
@@ -2132,7 +2324,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Wooper",
@@ -2143,7 +2336,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Quagsire",
@@ -2154,7 +2348,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Espeon",
@@ -2167,7 +2362,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Umbreon",
@@ -2180,7 +2376,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Murkrow",
@@ -2191,7 +2388,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Slowking",
@@ -2203,7 +2401,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Misdreavus",
@@ -2214,7 +2413,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Unown",
@@ -2224,7 +2424,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Wobbuffet",
@@ -2234,7 +2435,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Girafarig",
@@ -2244,7 +2446,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pineco",
@@ -2254,7 +2457,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Forretress",
@@ -2264,7 +2468,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dunsparce",
@@ -2275,7 +2480,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gligar",
@@ -2286,7 +2492,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Steelix",
@@ -2298,7 +2505,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Snubbull",
@@ -2308,7 +2516,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Granbull",
@@ -2318,7 +2527,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Qwilfish",
@@ -2330,7 +2540,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Scizor",
@@ -2343,7 +2554,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Shuckle",
@@ -2353,7 +2565,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Heracross",
@@ -2366,7 +2579,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sneasel",
@@ -2377,7 +2591,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Teddiursa",
@@ -2388,7 +2603,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ursaring",
@@ -2399,7 +2615,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Slugma",
@@ -2409,7 +2626,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Magcargo",
@@ -2419,7 +2637,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Swinub",
@@ -2431,7 +2650,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Piloswine",
@@ -2443,7 +2663,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Corsola",
@@ -2452,7 +2673,8 @@
     "type": "Water, Rock",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Remoraid",
@@ -2463,7 +2685,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Octillery",
@@ -2474,7 +2697,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Delibird",
@@ -2486,7 +2710,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mantine",
@@ -2497,7 +2722,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Skarmory",
@@ -2509,7 +2735,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Houndour",
@@ -2520,7 +2747,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Houndoom",
@@ -2531,7 +2759,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Kingdra",
@@ -2542,7 +2771,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Phanpy",
@@ -2552,7 +2782,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Donphan",
@@ -2562,7 +2793,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Porygon2",
@@ -2575,7 +2807,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Stantler",
@@ -2586,7 +2819,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Smeargle",
@@ -2596,7 +2830,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tyrogue",
@@ -2607,7 +2842,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hitmontop",
@@ -2618,7 +2854,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Smoochum",
@@ -2628,7 +2865,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Elekid",
@@ -2640,7 +2878,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Magby",
@@ -2652,7 +2891,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Miltank",
@@ -2662,7 +2902,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Blissey",
@@ -2674,7 +2915,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Raikou",
@@ -2684,7 +2926,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Entei",
@@ -2694,7 +2937,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Suicune",
@@ -2704,7 +2948,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Larvitar",
@@ -2716,7 +2961,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pupitar",
@@ -2728,7 +2974,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tyranitar",
@@ -2740,7 +2987,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lugia",
@@ -2750,7 +2998,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Ho-oh",
@@ -2760,7 +3009,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Celebi",
@@ -2769,7 +3019,8 @@
     "type": "Psychic, Grass",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Treecko",
@@ -2781,7 +3032,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Grovyle",
@@ -2793,7 +3045,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sceptile",
@@ -2805,7 +3058,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Torchic",
@@ -2817,7 +3071,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Combusken",
@@ -2829,7 +3084,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Blaziken",
@@ -2841,7 +3097,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mudkip",
@@ -2853,7 +3110,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Marshtomp",
@@ -2865,7 +3123,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Swampert",
@@ -2877,7 +3136,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Poochyena",
@@ -2887,7 +3147,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mightyena",
@@ -2897,7 +3158,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Zigzagoon",
@@ -2907,7 +3169,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Linoone",
@@ -2917,7 +3180,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Wurmple",
@@ -2927,7 +3191,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Silcoon",
@@ -2937,7 +3202,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Beautifly",
@@ -2947,7 +3213,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cascoon",
@@ -2957,7 +3224,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dustox",
@@ -2967,7 +3235,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lotad",
@@ -2978,7 +3247,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lombre",
@@ -2989,7 +3259,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ludicolo",
@@ -3000,7 +3271,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Seedot",
@@ -3011,7 +3283,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Nuzleaf",
@@ -3022,7 +3295,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Shiftry",
@@ -3033,7 +3307,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Taillow",
@@ -3042,7 +3317,8 @@
     "type": "Normal, Flying",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Swellow",
@@ -3051,7 +3327,8 @@
     "type": "Normal, Flying",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Wingull",
@@ -3062,7 +3339,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pelipper",
@@ -3073,7 +3351,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ralts",
@@ -3086,7 +3365,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Kirlia",
@@ -3099,7 +3379,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gardevoir",
@@ -3112,7 +3393,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Surskit",
@@ -3122,7 +3404,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Masquerain",
@@ -3132,7 +3415,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Shroomish",
@@ -3142,7 +3426,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Breloom",
@@ -3152,7 +3437,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Slakoth",
@@ -3162,7 +3448,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Vigoroth",
@@ -3172,7 +3459,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Slaking",
@@ -3182,7 +3470,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Nincada",
@@ -3192,7 +3481,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ninjask",
@@ -3202,7 +3492,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Shedinja",
@@ -3212,7 +3503,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Whismur",
@@ -3222,7 +3514,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Loudred",
@@ -3232,7 +3525,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Exploud",
@@ -3242,7 +3536,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Makuhita",
@@ -3252,7 +3547,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hariyama",
@@ -3262,7 +3558,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Azurill",
@@ -3273,7 +3570,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Nosepass",
@@ -3284,7 +3582,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Skitty",
@@ -3293,7 +3592,8 @@
     "type": "Normal",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Delcatty",
@@ -3302,7 +3602,8 @@
     "type": "Normal",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sableye",
@@ -3314,7 +3615,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mawile",
@@ -3325,7 +3627,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Aron",
@@ -3336,7 +3639,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lairon",
@@ -3347,7 +3651,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Aggron",
@@ -3358,7 +3663,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Meditite",
@@ -3369,7 +3675,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Medicham",
@@ -3380,7 +3687,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Electrike",
@@ -3391,7 +3699,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Manectric",
@@ -3402,7 +3711,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Plusle",
@@ -3412,7 +3722,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Minun",
@@ -3422,7 +3733,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Volbeat",
@@ -3432,7 +3744,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Illumise",
@@ -3442,7 +3755,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Roselia",
@@ -3454,7 +3768,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gulpin",
@@ -3465,7 +3780,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Swalot",
@@ -3476,7 +3792,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Carvanha",
@@ -3487,7 +3804,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sharpedo",
@@ -3498,7 +3816,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Wailmer",
@@ -3508,7 +3827,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Wailord",
@@ -3518,7 +3838,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Numel",
@@ -3529,7 +3850,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Camerupt",
@@ -3540,7 +3862,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Torkoal",
@@ -3551,7 +3874,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Spoink",
@@ -3562,7 +3886,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Grumpig",
@@ -3573,7 +3898,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Spinda",
@@ -3582,7 +3908,8 @@
     "type": "Normal",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Trapinch",
@@ -3593,7 +3920,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Vibrava",
@@ -3604,7 +3932,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Flygon",
@@ -3615,7 +3944,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cacnea",
@@ -3625,7 +3955,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cacturne",
@@ -3635,7 +3966,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Swablu",
@@ -3647,7 +3979,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Altaria",
@@ -3659,7 +3992,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Zangoose",
@@ -3670,7 +4004,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Seviper",
@@ -3681,7 +4016,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lunatone",
@@ -3691,7 +4027,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Solrock",
@@ -3701,7 +4038,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Barboach",
@@ -3713,7 +4051,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Whiscash",
@@ -3725,7 +4064,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Corphish",
@@ -3736,7 +4076,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Crawdaunt",
@@ -3747,7 +4088,8 @@
       "swsh",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Baltoy",
@@ -3757,7 +4099,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Claydol",
@@ -3767,7 +4110,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lileep",
@@ -3777,7 +4121,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cradily",
@@ -3787,7 +4132,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Anorith",
@@ -3797,7 +4143,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Armaldo",
@@ -3807,7 +4154,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Feebas",
@@ -3819,7 +4167,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Milotic",
@@ -3831,7 +4180,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Castform",
@@ -3840,7 +4190,8 @@
     "type": "Normal",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Kecleon",
@@ -3850,7 +4201,8 @@
     "games": [
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Shuppet",
@@ -3861,7 +4213,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Banette",
@@ -3872,7 +4225,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Duskull",
@@ -3884,7 +4238,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dusclops",
@@ -3896,7 +4251,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tropius",
@@ -3906,7 +4262,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Chimecho",
@@ -3918,7 +4275,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Absol",
@@ -3929,7 +4287,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Wynaut",
@@ -3939,7 +4298,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Snorunt",
@@ -3952,7 +4312,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Glalie",
@@ -3965,7 +4326,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Spheal",
@@ -3976,7 +4338,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sealeo",
@@ -3987,7 +4350,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Walrein",
@@ -3998,7 +4362,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Clamperl",
@@ -4007,7 +4372,8 @@
     "type": "Water",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Huntail",
@@ -4016,7 +4382,8 @@
     "type": "Water",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gorebyss",
@@ -4025,7 +4392,8 @@
     "type": "Water",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Relicanth",
@@ -4035,7 +4403,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Luvdisc",
@@ -4045,7 +4414,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bagon",
@@ -4057,7 +4427,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Shelgon",
@@ -4069,7 +4440,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Salamence",
@@ -4081,7 +4453,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Beldum",
@@ -4093,7 +4466,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Metang",
@@ -4105,7 +4479,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Metagross",
@@ -4117,7 +4492,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Regirock",
@@ -4127,7 +4503,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Regice",
@@ -4137,7 +4514,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Registeel",
@@ -4147,7 +4525,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Latias",
@@ -4158,7 +4537,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Latios",
@@ -4169,7 +4549,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Kyogre",
@@ -4180,7 +4561,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Groudon",
@@ -4191,7 +4573,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Rayquaza",
@@ -4202,7 +4585,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Jirachi",
@@ -4211,7 +4595,8 @@
     "type": "Steel, Psychic",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Deoxys",
@@ -4220,7 +4605,8 @@
     "type": "Psychic",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Turtwig",
@@ -4231,7 +4617,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Grotle",
@@ -4242,7 +4629,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Torterra",
@@ -4253,7 +4641,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Chimchar",
@@ -4264,7 +4653,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Monferno",
@@ -4275,7 +4665,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Infernape",
@@ -4286,7 +4677,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Piplup",
@@ -4297,7 +4689,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Prinplup",
@@ -4308,7 +4701,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Empoleon",
@@ -4319,7 +4713,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Starly",
@@ -4331,7 +4726,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Staravia",
@@ -4343,7 +4739,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Staraptor",
@@ -4355,7 +4752,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bidoof",
@@ -4365,7 +4763,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bibarel",
@@ -4375,7 +4774,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Kricketot",
@@ -4386,7 +4786,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Kricketune",
@@ -4397,7 +4798,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Shinx",
@@ -4409,7 +4811,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Luxio",
@@ -4421,7 +4824,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Luxray",
@@ -4433,7 +4837,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Budew",
@@ -4445,7 +4850,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Roserade",
@@ -4457,7 +4863,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cranidos",
@@ -4468,7 +4875,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Rampardos",
@@ -4479,7 +4887,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Shieldon",
@@ -4490,7 +4899,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bastiodon",
@@ -4501,7 +4911,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Burmy",
@@ -4511,7 +4922,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Wormadam",
@@ -4521,7 +4933,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mothim",
@@ -4531,7 +4944,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Combee",
@@ -4543,7 +4957,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Vespiquen",
@@ -4555,7 +4970,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pachirisu",
@@ -4566,7 +4982,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Buizel",
@@ -4577,7 +4994,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Floatzel",
@@ -4588,7 +5006,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cherubi",
@@ -4599,7 +5018,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cherrim",
@@ -4610,7 +5030,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Shellos",
@@ -4622,7 +5043,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gastrodon",
@@ -4634,7 +5056,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ambipom",
@@ -4645,7 +5068,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Drifloon",
@@ -4657,7 +5081,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Drifblim",
@@ -4669,7 +5094,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Buneary",
@@ -4681,7 +5107,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lopunny",
@@ -4693,7 +5120,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mismagius",
@@ -4704,7 +5132,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Honchkrow",
@@ -4715,7 +5144,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Glameow",
@@ -4725,7 +5155,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Purugly",
@@ -4735,7 +5166,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Chingling",
@@ -4747,7 +5179,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Stunky",
@@ -4759,7 +5192,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Skuntank",
@@ -4771,7 +5205,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bronzor",
@@ -4783,7 +5218,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bronzong",
@@ -4795,7 +5231,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bonsly",
@@ -4807,7 +5244,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mime-jr",
@@ -4819,7 +5257,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Happiny",
@@ -4831,7 +5270,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Chatot",
@@ -4841,7 +5281,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Spiritomb",
@@ -4853,7 +5294,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gible",
@@ -4866,7 +5308,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gabite",
@@ -4879,7 +5322,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Garchomp",
@@ -4892,7 +5336,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Munchlax",
@@ -4904,7 +5349,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Riolu",
@@ -4917,7 +5363,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lucario",
@@ -4930,7 +5377,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hippopotas",
@@ -4943,7 +5391,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hippowdon",
@@ -4956,7 +5405,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Skorupi",
@@ -4967,7 +5417,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Drapion",
@@ -4978,7 +5429,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Croagunk",
@@ -4990,7 +5442,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Toxicroak",
@@ -5002,7 +5455,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Carnivine",
@@ -5012,7 +5466,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Finneon",
@@ -5023,7 +5478,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lumineon",
@@ -5034,7 +5490,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mantyke",
@@ -5045,7 +5502,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Snover",
@@ -5058,7 +5516,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Abomasnow",
@@ -5071,7 +5530,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Weavile",
@@ -5083,7 +5543,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Magnezone",
@@ -5095,7 +5556,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lickilicky",
@@ -5106,7 +5568,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Rhyperior",
@@ -5118,7 +5581,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tangrowth",
@@ -5129,7 +5593,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Electivire",
@@ -5141,7 +5606,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Magmortar",
@@ -5153,7 +5619,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Togekiss",
@@ -5164,7 +5631,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Yanmega",
@@ -5175,7 +5643,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Leafeon",
@@ -5188,7 +5657,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Glaceon",
@@ -5201,7 +5671,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gliscor",
@@ -5212,7 +5683,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mamoswine",
@@ -5224,7 +5696,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Porygon-z",
@@ -5237,7 +5710,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gallade",
@@ -5250,7 +5724,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Probopass",
@@ -5261,7 +5736,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dusknoir",
@@ -5273,7 +5749,8 @@
       "pla",
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Froslass",
@@ -5286,7 +5763,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Rotom",
@@ -5299,7 +5777,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Uxie",
@@ -5310,7 +5789,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Mesprit",
@@ -5321,7 +5801,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Azelf",
@@ -5332,7 +5813,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Dialga",
@@ -5343,7 +5825,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Palkia",
@@ -5354,7 +5837,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Heatran",
@@ -5366,7 +5850,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Regigigas",
@@ -5377,7 +5862,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Giratina",
@@ -5388,7 +5874,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Cresselia",
@@ -5399,7 +5886,8 @@
       "swsh",
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Phione",
@@ -5409,7 +5897,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Manaphy",
@@ -5419,7 +5908,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Darkrai",
@@ -5430,7 +5920,8 @@
       "pla",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Shaymin",
@@ -5440,7 +5931,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Arceus",
@@ -5450,14 +5942,16 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Victini",
     "generation": 5,
     "dex": "0494",
     "type": "Psychic, Fire",
-    "games": []
+    "games": [],
+    "tags": ["Mythical"]
   },
   {
     "name": "Snivy",
@@ -5466,7 +5960,8 @@
     "type": "Grass",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Servine",
@@ -5475,7 +5970,8 @@
     "type": "Grass",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Serperior",
@@ -5484,7 +5980,8 @@
     "type": "Grass",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tepig",
@@ -5494,7 +5991,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pignite",
@@ -5504,7 +6002,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Emboar",
@@ -5514,7 +6013,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Oshawott",
@@ -5524,7 +6024,8 @@
     "games": [
       "pla",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dewott",
@@ -5534,7 +6035,8 @@
     "games": [
       "pla",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Samurott",
@@ -5543,7 +6045,8 @@
     "type": "Water",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Patrat",
@@ -5552,7 +6055,8 @@
     "type": "Normal",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Watchog",
@@ -5561,7 +6065,8 @@
     "type": "Normal",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lillipup",
@@ -5570,7 +6075,8 @@
     "type": "Normal",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Herdier",
@@ -5579,7 +6085,8 @@
     "type": "Normal",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Stoutland",
@@ -5588,7 +6095,8 @@
     "type": "Normal",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Purrloin",
@@ -5598,7 +6106,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Liepard",
@@ -5608,7 +6117,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pansage",
@@ -5617,7 +6127,8 @@
     "type": "Grass",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Simisage",
@@ -5626,7 +6137,8 @@
     "type": "Grass",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pansear",
@@ -5635,7 +6147,8 @@
     "type": "Fire",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Simisear",
@@ -5644,7 +6157,8 @@
     "type": "Fire",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Panpour",
@@ -5653,7 +6167,8 @@
     "type": "Water",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Simipour",
@@ -5662,7 +6177,8 @@
     "type": "Water",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Munna",
@@ -5672,7 +6188,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Musharna",
@@ -5682,7 +6199,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pidove",
@@ -5691,7 +6209,8 @@
     "type": "Normal, Flying",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tranquill",
@@ -5700,7 +6219,8 @@
     "type": "Normal, Flying",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Unfezant",
@@ -5709,7 +6229,8 @@
     "type": "Normal, Flying",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Blitzle",
@@ -5718,7 +6239,8 @@
     "type": "Electric",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Zebstrika",
@@ -5727,7 +6249,8 @@
     "type": "Electric",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Roggenrola",
@@ -5736,7 +6259,8 @@
     "type": "Rock",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Boldore",
@@ -5745,7 +6269,8 @@
     "type": "Rock",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gigalith",
@@ -5754,7 +6279,8 @@
     "type": "Rock",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Woobat",
@@ -5763,7 +6289,8 @@
     "type": "Psychic, Flying",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Swoobat",
@@ -5772,7 +6299,8 @@
     "type": "Psychic, Flying",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Drilbur",
@@ -5783,7 +6311,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Excadrill",
@@ -5794,7 +6323,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Audino",
@@ -5804,7 +6334,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Timburr",
@@ -5814,7 +6345,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gurdurr",
@@ -5824,7 +6356,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Conkeldurr",
@@ -5834,7 +6367,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tympole",
@@ -5843,7 +6377,8 @@
     "type": "Water",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Palpitoad",
@@ -5852,7 +6387,8 @@
     "type": "Water, Ground",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Seismitoad",
@@ -5861,7 +6397,8 @@
     "type": "Water, Ground",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Throh",
@@ -5871,7 +6408,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sawk",
@@ -5881,7 +6419,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sewaddle",
@@ -5890,7 +6429,8 @@
     "type": "Bug, Grass",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Swadloon",
@@ -5899,7 +6439,8 @@
     "type": "Bug, Grass",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Leavanny",
@@ -5908,7 +6449,8 @@
     "type": "Bug, Grass",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Venipede",
@@ -5918,7 +6460,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Whirlipede",
@@ -5928,7 +6471,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Scolipede",
@@ -5938,7 +6482,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cottonee",
@@ -5948,7 +6493,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Whimsicott",
@@ -5958,7 +6504,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Petilil",
@@ -5969,7 +6516,8 @@
       "swsh",
       "pla",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lilligant",
@@ -5979,7 +6527,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Basculin",
@@ -5989,7 +6538,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sandile",
@@ -6000,7 +6550,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Krokorok",
@@ -6011,7 +6562,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Krookodile",
@@ -6022,7 +6574,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Darumaka",
@@ -6031,7 +6584,8 @@
     "type": "Fire",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Darmanitan",
@@ -6040,7 +6594,8 @@
     "type": "Fire",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Maractus",
@@ -6049,7 +6604,8 @@
     "type": "Grass",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dwebble",
@@ -6058,7 +6614,8 @@
     "type": "Bug, Rock",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Crustle",
@@ -6067,7 +6624,8 @@
     "type": "Bug, Rock",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Scraggy",
@@ -6078,7 +6636,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Scrafty",
@@ -6089,7 +6648,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sigilyph",
@@ -6098,7 +6658,8 @@
     "type": "Psychic, Flying",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Yamask",
@@ -6107,7 +6668,8 @@
     "type": "Ghost",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cofagrigus",
@@ -6117,7 +6679,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tirtouga",
@@ -6126,7 +6689,8 @@
     "type": "Water, Rock",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Carracosta",
@@ -6135,7 +6699,8 @@
     "type": "Water, Rock",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Archen",
@@ -6144,7 +6709,8 @@
     "type": "Rock, Flying",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Archeops",
@@ -6153,7 +6719,8 @@
     "type": "Rock, Flying",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Trubbish",
@@ -6163,7 +6730,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Garbodor",
@@ -6173,7 +6741,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Zorua",
@@ -6183,7 +6752,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Zoroark",
@@ -6193,7 +6763,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Minccino",
@@ -6203,7 +6774,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cinccino",
@@ -6213,7 +6785,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gothita",
@@ -6223,7 +6796,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gothorita",
@@ -6233,7 +6807,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gothitelle",
@@ -6243,7 +6818,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Solosis",
@@ -6253,7 +6829,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Duosion",
@@ -6263,7 +6840,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Reuniclus",
@@ -6273,7 +6851,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ducklett",
@@ -6282,7 +6861,8 @@
     "type": "Water, Flying",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Swanna",
@@ -6291,7 +6871,8 @@
     "type": "Water, Flying",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Vanillite",
@@ -6301,7 +6882,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Vanillish",
@@ -6311,7 +6893,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Vanilluxe",
@@ -6321,7 +6904,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Deerling",
@@ -6330,7 +6914,8 @@
     "type": "Normal, Grass",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sawsbuck",
@@ -6339,7 +6924,8 @@
     "type": "Normal, Grass",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Emolga",
@@ -6349,7 +6935,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Karrablast",
@@ -6358,7 +6945,8 @@
     "type": "Bug",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Escavalier",
@@ -6367,7 +6955,8 @@
     "type": "Bug, Steel",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Foongus",
@@ -6378,7 +6967,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Amoonguss",
@@ -6389,7 +6979,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Frillish",
@@ -6398,7 +6989,8 @@
     "type": "Water, Ghost",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Jellicent",
@@ -6407,7 +6999,8 @@
     "type": "Water, Ghost",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Alomomola",
@@ -6416,7 +7009,8 @@
     "type": "Water",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Joltik",
@@ -6426,7 +7020,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Galvantula",
@@ -6436,7 +7031,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ferroseed",
@@ -6445,7 +7041,8 @@
     "type": "Grass, Steel",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ferrothorn",
@@ -6454,7 +7051,8 @@
     "type": "Grass, Steel",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Klink",
@@ -6463,7 +7061,8 @@
     "type": "Steel",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Klang",
@@ -6472,7 +7071,8 @@
     "type": "Steel",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Klinklang",
@@ -6481,7 +7081,8 @@
     "type": "Steel",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tynamo",
@@ -6491,7 +7092,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Eelektrik",
@@ -6501,7 +7103,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Eelektross",
@@ -6511,7 +7114,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Elgyem",
@@ -6520,7 +7124,8 @@
     "type": "Psychic",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Beheeyem",
@@ -6529,7 +7134,8 @@
     "type": "Psychic",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Litwick",
@@ -6540,7 +7146,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lampent",
@@ -6551,7 +7158,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Chandelure",
@@ -6562,7 +7170,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Axew",
@@ -6572,7 +7181,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Fraxure",
@@ -6582,7 +7192,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Haxorus",
@@ -6592,7 +7203,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cubchoo",
@@ -6602,7 +7214,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Beartic",
@@ -6612,7 +7225,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cryogonal",
@@ -6623,7 +7237,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Shelmet",
@@ -6632,7 +7247,8 @@
     "type": "Bug",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Accelgor",
@@ -6641,7 +7257,8 @@
     "type": "Bug",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Stunfisk",
@@ -6650,7 +7267,8 @@
     "type": "Ground, Electric",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mienfoo",
@@ -6660,7 +7278,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mienshao",
@@ -6670,7 +7289,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Druddigon",
@@ -6679,7 +7299,8 @@
     "type": "Dragon",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Golett",
@@ -6690,7 +7311,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Golurk",
@@ -6701,7 +7323,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pawniard",
@@ -6711,7 +7334,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bisharp",
@@ -6721,7 +7345,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bouffalant",
@@ -6730,7 +7355,8 @@
     "type": "Normal",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Rufflet",
@@ -6741,7 +7367,8 @@
       "swsh",
       "pla",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Braviary",
@@ -6751,7 +7378,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Vullaby",
@@ -6761,7 +7389,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mandibuzz",
@@ -6771,7 +7400,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Heatmor",
@@ -6780,7 +7410,8 @@
     "type": "Fire",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Durant",
@@ -6789,7 +7420,8 @@
     "type": "Bug, Steel",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Deino",
@@ -6799,7 +7431,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Zweilous",
@@ -6809,7 +7442,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hydreigon",
@@ -6819,7 +7453,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Larvesta",
@@ -6829,7 +7464,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Volcarona",
@@ -6839,7 +7475,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cobalion",
@@ -6849,7 +7486,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Terrakion",
@@ -6859,7 +7497,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Virizion",
@@ -6869,7 +7508,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Tornadus",
@@ -6879,7 +7519,8 @@
     "games": [
       "swsh",
       "pla"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Thundurus",
@@ -6889,7 +7530,8 @@
     "games": [
       "swsh",
       "pla"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Reshiram",
@@ -6898,7 +7540,8 @@
     "type": "Dragon, Fire",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Zekrom",
@@ -6907,7 +7550,8 @@
     "type": "Dragon, Electric",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Landorus",
@@ -6917,7 +7561,8 @@
     "games": [
       "swsh",
       "pla"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Kyurem",
@@ -6926,7 +7571,8 @@
     "type": "Dragon, Ice",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Keldeo",
@@ -6936,7 +7582,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Meloetta",
@@ -6945,7 +7592,8 @@
     "type": "Normal, Psychic",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Genesect",
@@ -6954,7 +7602,8 @@
     "type": "Bug, Steel",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Chespin",
@@ -6964,7 +7613,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Quilladin",
@@ -6974,7 +7624,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Chesnaught",
@@ -6984,7 +7635,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Fennekin",
@@ -6994,7 +7646,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Braixen",
@@ -7004,7 +7657,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Delphox",
@@ -7014,7 +7668,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Froakie",
@@ -7024,7 +7679,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Frogadier",
@@ -7034,7 +7690,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Greninja",
@@ -7044,7 +7701,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bunnelby",
@@ -7054,7 +7712,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Diggersby",
@@ -7064,7 +7723,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Fletchling",
@@ -7075,7 +7735,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Fletchinder",
@@ -7086,7 +7747,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Talonflame",
@@ -7097,7 +7759,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Scatterbug",
@@ -7107,7 +7770,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Spewpa",
@@ -7117,7 +7781,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Vivillon",
@@ -7127,7 +7792,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Litleo",
@@ -7137,7 +7803,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pyroar",
@@ -7147,7 +7814,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Flabebe",
@@ -7157,7 +7825,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Floette",
@@ -7167,7 +7836,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Florges",
@@ -7177,7 +7847,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Skiddo",
@@ -7187,7 +7858,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gogoat",
@@ -7197,7 +7869,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pancham",
@@ -7207,7 +7880,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pangoro",
@@ -7217,7 +7891,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Furfrou",
@@ -7226,7 +7901,8 @@
     "type": "Normal",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Espurr",
@@ -7237,7 +7913,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Meowstic",
@@ -7248,7 +7925,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Honedge",
@@ -7258,7 +7936,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Doublade",
@@ -7268,7 +7947,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Aegislash",
@@ -7278,7 +7958,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Spritzee",
@@ -7288,7 +7969,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Aromatisse",
@@ -7298,7 +7980,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Swirlix",
@@ -7308,7 +7991,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Slurpuff",
@@ -7318,7 +8002,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Inkay",
@@ -7329,7 +8014,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Malamar",
@@ -7340,7 +8026,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Binacle",
@@ -7350,7 +8037,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Barbaracle",
@@ -7360,7 +8048,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Skrelp",
@@ -7371,7 +8060,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dragalge",
@@ -7382,7 +8072,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Clauncher",
@@ -7393,7 +8084,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Clawitzer",
@@ -7404,7 +8096,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Helioptile",
@@ -7414,7 +8107,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Heliolisk",
@@ -7424,7 +8118,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tyrunt",
@@ -7434,7 +8129,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tyrantrum",
@@ -7444,7 +8140,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Amaura",
@@ -7454,7 +8151,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Aurorus",
@@ -7464,7 +8162,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sylveon",
@@ -7476,7 +8175,8 @@
       "pla",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hawlucha",
@@ -7487,7 +8187,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dedenne",
@@ -7498,7 +8199,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Carbink",
@@ -7509,7 +8211,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Goomy",
@@ -7521,7 +8224,8 @@
       "pla",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sliggoo",
@@ -7532,7 +8236,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Goodra",
@@ -7543,7 +8248,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Klefki",
@@ -7554,7 +8260,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Phantump",
@@ -7565,7 +8272,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Trevenant",
@@ -7576,7 +8284,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pumpkaboo",
@@ -7586,7 +8295,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gourgeist",
@@ -7596,7 +8306,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bergmite",
@@ -7608,7 +8319,8 @@
       "pla",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Avalugg",
@@ -7619,7 +8331,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Noibat",
@@ -7630,7 +8343,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Noivern",
@@ -7641,7 +8355,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Xerneas",
@@ -7651,7 +8366,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Yveltal",
@@ -7661,7 +8377,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Zygarde",
@@ -7671,7 +8388,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Diancie",
@@ -7680,7 +8398,8 @@
     "type": "Rock, Fairy",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Hoopa",
@@ -7689,7 +8408,8 @@
     "type": "Psychic, Ghost",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Volcanion",
@@ -7698,7 +8418,8 @@
     "type": "Fire, Water",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Rowlet",
@@ -7709,7 +8430,8 @@
       "swsh",
       "pla",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dartrix",
@@ -7720,7 +8442,8 @@
       "swsh",
       "pla",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Decidueye",
@@ -7730,7 +8453,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Litten",
@@ -7740,7 +8464,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Torracat",
@@ -7750,7 +8475,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Incineroar",
@@ -7760,7 +8486,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Popplio",
@@ -7770,7 +8497,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Brionne",
@@ -7780,7 +8508,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Primarina",
@@ -7790,7 +8519,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pikipek",
@@ -7799,7 +8529,8 @@
     "type": "Normal, Flying",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Trumbeak",
@@ -7808,7 +8539,8 @@
     "type": "Normal, Flying",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Toucannon",
@@ -7817,7 +8549,8 @@
     "type": "Normal, Flying",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Yungoos",
@@ -7826,7 +8559,8 @@
     "type": "Normal",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gumshoos",
@@ -7835,7 +8569,8 @@
     "type": "Normal",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Alolan Rattata",
@@ -7844,7 +8579,8 @@
     "type": "Normal, Dark",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Alolan Raticate",
@@ -7853,7 +8589,8 @@
     "type": "Normal, Dark",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Alolan Raichu",
@@ -7863,7 +8600,8 @@
     "games": [
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Grubbin",
@@ -7873,7 +8611,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Charjabug",
@@ -7883,7 +8622,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Vikavolt",
@@ -7893,7 +8633,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Alolan Meowth",
@@ -7903,7 +8644,8 @@
     "games": [
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Alolan Persian",
@@ -7913,7 +8655,8 @@
     "games": [
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Alolan Grimer",
@@ -7923,7 +8666,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Alolan Muk",
@@ -7933,7 +8677,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Crabrawler",
@@ -7943,7 +8688,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Crabominable",
@@ -7953,7 +8699,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Alolan Diglett",
@@ -7963,7 +8710,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Alolan Dugtrio",
@@ -7973,7 +8721,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Oricorio",
@@ -7982,7 +8731,8 @@
     "type": "Fire, Electric, Psychic, Ghost, Flying",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cutiefly",
@@ -7992,7 +8742,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ribombee",
@@ -8002,7 +8753,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Rockruff",
@@ -8012,7 +8764,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lycanroc",
@@ -8022,7 +8775,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Wishiwashi",
@@ -8031,7 +8785,8 @@
     "type": "Water",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mareanie",
@@ -8041,7 +8796,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Toxapex",
@@ -8051,7 +8807,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mudbray",
@@ -8061,7 +8818,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mudsdale",
@@ -8071,7 +8829,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dewpider",
@@ -8081,7 +8840,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Araquanid",
@@ -8091,7 +8851,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Fomantis",
@@ -8101,7 +8862,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lurantis",
@@ -8111,7 +8873,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Morelull",
@@ -8120,7 +8883,8 @@
     "type": "Grass, Fairy",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Shiinotic",
@@ -8129,7 +8893,8 @@
     "type": "Grass, Fairy",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Salandit",
@@ -8139,7 +8904,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Salazzle",
@@ -8149,7 +8915,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Alolan Marowak",
@@ -8159,7 +8926,8 @@
     "games": [
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Stufful",
@@ -8168,7 +8936,8 @@
     "type": "Normal, Fighting",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bewear",
@@ -8177,7 +8946,8 @@
     "type": "Normal, Fighting",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bounsweet",
@@ -8187,7 +8957,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Steenee",
@@ -8197,7 +8968,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tsareena",
@@ -8207,7 +8979,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Comfey",
@@ -8217,7 +8990,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Oranguru",
@@ -8227,7 +9001,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Passimian",
@@ -8237,7 +9012,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Wimpod",
@@ -8247,7 +9023,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Golisopod",
@@ -8257,7 +9034,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sandygast",
@@ -8268,7 +9046,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Palossand",
@@ -8279,7 +9058,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pyukumuku",
@@ -8288,7 +9068,8 @@
     "type": "Water",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Type-null",
@@ -8297,7 +9078,8 @@
     "type": "Normal",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Silvally",
@@ -8306,7 +9088,8 @@
     "type": "Normal",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Minior",
@@ -8315,7 +9098,8 @@
     "type": "Rock, Flying",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Komala",
@@ -8324,7 +9108,8 @@
     "type": "Normal",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Turtonator",
@@ -8333,7 +9118,8 @@
     "type": "Fire, Dragon",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Togedemaru",
@@ -8342,7 +9128,8 @@
     "type": "Electric, Steel",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Alolan Geodude",
@@ -8352,7 +9139,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Alolan Graveler",
@@ -8362,7 +9150,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Alolan Golem",
@@ -8372,7 +9161,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Mimikyu",
@@ -8383,7 +9173,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bruxish",
@@ -8392,7 +9183,8 @@
     "type": "Water, Psychic",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Drampa",
@@ -8402,7 +9194,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Alolan Sandshrew",
@@ -8411,7 +9204,8 @@
     "type": "Ice, Steel",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Alolan Sandslash",
@@ -8420,7 +9214,8 @@
     "type": "Ice, Steel",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Alolan Vulpix",
@@ -8430,7 +9225,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Alolan Ninetales",
@@ -8440,7 +9236,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Dhelmise",
@@ -8449,7 +9246,8 @@
     "type": "Ghost, Grass",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Alolan Exeggutor",
@@ -8459,7 +9257,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Jangmo-o",
@@ -8469,7 +9268,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hakamo-o",
@@ -8479,7 +9279,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Kommo-o",
@@ -8489,7 +9290,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tapu-koko",
@@ -8498,7 +9300,8 @@
     "type": "Electric, Fairy",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Tapu-lele",
@@ -8507,7 +9310,8 @@
     "type": "Psychic, Fairy",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Tapu-bulu",
@@ -8516,7 +9320,8 @@
     "type": "Grass, Fairy",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Tapu-fini",
@@ -8525,7 +9330,8 @@
     "type": "Water, Fairy",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Cosmog",
@@ -8534,7 +9340,8 @@
     "type": "Psychic",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Cosmoem",
@@ -8543,7 +9350,8 @@
     "type": "Psychic",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Solgaleo",
@@ -8552,7 +9360,8 @@
     "type": "Psychic, Steel",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Lunala",
@@ -8561,7 +9370,8 @@
     "type": "Psychic, Ghost",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Nihilego",
@@ -8570,7 +9380,8 @@
     "type": "Rock, Poison",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Buzzwole",
@@ -8579,7 +9390,8 @@
     "type": "Bug, Fighting",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pheromosa",
@@ -8588,7 +9400,8 @@
     "type": "Bug, Fighting",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Xurkitree",
@@ -8597,7 +9410,8 @@
     "type": "Electric",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Celesteela",
@@ -8606,7 +9420,8 @@
     "type": "Steel, Flying",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Kartana",
@@ -8615,7 +9430,8 @@
     "type": "Grass, Steel",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Guzzlord",
@@ -8624,7 +9440,8 @@
     "type": "Dark, Dragon",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Necrozma",
@@ -8633,7 +9450,8 @@
     "type": "Psychic",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Magearna",
@@ -8642,7 +9460,8 @@
     "type": "Steel, Fairy",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Marshadow",
@@ -8651,7 +9470,8 @@
     "type": "Fighting, Ghost",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Poipole",
@@ -8660,7 +9480,8 @@
     "type": "Poison",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Naganadel",
@@ -8669,7 +9490,8 @@
     "type": "Poison, Dragon",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Stakataka",
@@ -8678,7 +9500,8 @@
     "type": "Rock, Steel",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Blacephalon",
@@ -8687,7 +9510,8 @@
     "type": "Fire, Ghost",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Zeraora",
@@ -8696,7 +9520,8 @@
     "type": "Electric",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Meltan",
@@ -8705,7 +9530,8 @@
     "type": "Steel",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Melmetal",
@@ -8714,7 +9540,8 @@
     "type": "Steel",
     "games": [
       "plza"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Grookey",
@@ -8724,7 +9551,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Thwackey",
@@ -8734,7 +9562,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Rillaboom",
@@ -8744,7 +9573,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Scorbunny",
@@ -8754,7 +9584,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Raboot",
@@ -8764,7 +9595,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cinderace",
@@ -8774,7 +9606,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sobble",
@@ -8784,7 +9617,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Drizzile",
@@ -8794,7 +9628,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Inteleon",
@@ -8804,7 +9639,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Skwovet",
@@ -8814,7 +9650,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Greedent",
@@ -8824,7 +9661,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Rookidee",
@@ -8835,7 +9673,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Corvisquire",
@@ -8846,7 +9685,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Corviknight",
@@ -8857,7 +9697,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Blipbug",
@@ -8866,7 +9707,8 @@
     "type": "Bug",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dottler",
@@ -8875,7 +9717,8 @@
     "type": "Bug, Psychic",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Orbeetle",
@@ -8884,7 +9727,8 @@
     "type": "Bug, Psychic",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Nickit",
@@ -8894,7 +9738,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Thievul",
@@ -8904,7 +9749,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gossifleur",
@@ -8913,7 +9759,8 @@
     "type": "Grass",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Eldegoss",
@@ -8922,7 +9769,8 @@
     "type": "Grass",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Wooloo",
@@ -8931,7 +9779,8 @@
     "type": "Normal",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dubwool",
@@ -8940,7 +9789,8 @@
     "type": "Normal",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Chewtle",
@@ -8950,7 +9800,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Drednaw",
@@ -8960,7 +9811,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Yamper",
@@ -8969,7 +9821,8 @@
     "type": "Electric",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Boltund",
@@ -8978,7 +9831,8 @@
     "type": "Electric",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Rolycoly",
@@ -8988,7 +9842,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Carkol",
@@ -8998,7 +9853,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Coalossal",
@@ -9008,7 +9864,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Applin",
@@ -9018,7 +9875,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Flapple",
@@ -9028,7 +9886,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Appletun",
@@ -9038,7 +9897,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Galarian Stunfisk",
@@ -9048,7 +9908,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Silicobra",
@@ -9058,7 +9919,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sandaconda",
@@ -9068,7 +9930,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cramorant",
@@ -9078,7 +9941,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Arrokuda",
@@ -9088,7 +9952,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Barraskewda",
@@ -9098,7 +9963,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Toxel",
@@ -9109,7 +9975,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Toxtricity",
@@ -9120,7 +9987,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sizzlipede",
@@ -9129,7 +9997,8 @@
     "type": "Fire, Bug",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Centiskorch",
@@ -9138,7 +10007,8 @@
     "type": "Fire, Bug",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Clobbopus",
@@ -9148,7 +10018,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Grapploct",
@@ -9158,7 +10029,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Galarian Ponyta",
@@ -9168,7 +10040,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Galarian Rapidash",
@@ -9178,7 +10051,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Sinistea",
@@ -9188,7 +10062,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Polteageist",
@@ -9198,7 +10073,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hatenna",
@@ -9208,7 +10084,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hattrem",
@@ -9218,7 +10095,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hatterene",
@@ -9228,7 +10106,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Impidimp",
@@ -9238,7 +10117,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Morgrem",
@@ -9248,7 +10128,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Grimmsnarl",
@@ -9258,7 +10139,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Galarian Weezing",
@@ -9268,7 +10150,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Galarian Zigzagoon",
@@ -9278,7 +10161,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Galarian Linoone",
@@ -9288,7 +10172,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Obstagoon",
@@ -9297,7 +10182,8 @@
     "type": "Dark, Normal",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Galarian Meowth",
@@ -9307,7 +10193,8 @@
     "games": [
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Perrserker",
@@ -9317,7 +10204,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Galarian Corsola",
@@ -9327,7 +10215,8 @@
     "games": [
       "swsh",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Cursola",
@@ -9336,7 +10225,8 @@
     "type": "Ghost",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Galarian Farfetch'd",
@@ -9347,7 +10237,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Sirfetchd",
@@ -9357,7 +10248,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Galarian Mr. Mime",
@@ -9368,7 +10260,8 @@
       "swsh",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Mr-rime",
@@ -9378,7 +10271,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Galarian Yamask",
@@ -9388,7 +10282,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Runerigus",
@@ -9398,7 +10293,8 @@
     "games": [
       "swsh",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Milcery",
@@ -9408,7 +10304,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Alcremie",
@@ -9418,7 +10315,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Falinks",
@@ -9429,7 +10327,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pincurchin",
@@ -9439,7 +10338,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Snom",
@@ -9449,7 +10349,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Frosmoth",
@@ -9459,7 +10360,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Galarian Darumaka",
@@ -9468,7 +10370,8 @@
     "type": "Ice",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Galarian Darmanitan",
@@ -9477,7 +10380,8 @@
     "type": "Ice",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Stonjourner",
@@ -9487,7 +10391,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Eiscue",
@@ -9497,7 +10402,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Indeedee",
@@ -9508,7 +10414,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Morpeko",
@@ -9519,7 +10426,8 @@
       "swsh",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cufant",
@@ -9529,7 +10437,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Copperajah",
@@ -9539,7 +10448,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dracozolt",
@@ -9548,7 +10458,8 @@
     "type": "Electric, Dragon",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Arctozolt",
@@ -9557,7 +10468,8 @@
     "type": "Electric, Ice",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dracovish",
@@ -9566,7 +10478,8 @@
     "type": "Water, Dragon",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Arctovish",
@@ -9575,7 +10488,8 @@
     "type": "Water, Ice",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Duraludon",
@@ -9585,7 +10499,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dreepy",
@@ -9595,7 +10510,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Drakloak",
@@ -9605,7 +10521,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dragapult",
@@ -9615,7 +10532,8 @@
     "games": [
       "swsh",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Zacian",
@@ -9624,7 +10542,8 @@
     "type": "Fairy",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Zamazenta",
@@ -9633,7 +10552,8 @@
     "type": "Fighting",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Eternatus",
@@ -9642,7 +10562,8 @@
     "type": "Poison, Dragon",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Galarian Slowpoke",
@@ -9653,7 +10574,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Galarian Slowbro",
@@ -9664,7 +10586,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Galarian Slowking",
@@ -9675,7 +10598,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Kubfu",
@@ -9684,7 +10608,8 @@
     "type": "Fighting",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Urshifu",
@@ -9693,7 +10618,8 @@
     "type": "Fighting",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Zarude",
@@ -9702,7 +10628,8 @@
     "type": "Dark, Grass",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Mythical"]
   },
   {
     "name": "Regieleki",
@@ -9711,7 +10638,8 @@
     "type": "Electric",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Regidrago",
@@ -9720,7 +10648,8 @@
     "type": "Dragon",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Galarian Articuno",
@@ -9729,7 +10658,8 @@
     "type": "Psychic, Flying",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary", "Regional"]
   },
   {
     "name": "Galarian Zapdos",
@@ -9738,7 +10668,8 @@
     "type": "Fighting, Flying",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary", "Regional"]
   },
   {
     "name": "Galarian Moltres",
@@ -9747,7 +10678,8 @@
     "type": "Dark, Flying",
     "games": [
       "bdsp"
-    ]
+    ],
+    "tags": ["Legendary", "Regional"]
   },
   {
     "name": "Glastrier",
@@ -9756,7 +10688,8 @@
     "type": "Ice",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Spectrier",
@@ -9765,7 +10698,8 @@
     "type": "Ghost",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Calyrex",
@@ -9774,7 +10708,8 @@
     "type": "Psychic, Grass",
     "games": [
       "swsh"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Hisuian Decidueye",
@@ -9783,7 +10718,8 @@
     "type": "Grass, Fighting",
     "games": [
       "pla"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Hisuian Typhlosion",
@@ -9793,7 +10729,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Hisuian Samurott",
@@ -9802,7 +10739,8 @@
     "type": "Water, Dark",
     "games": [
       "pla"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Wyrdeer",
@@ -9811,7 +10749,8 @@
     "type": "Normal, Psychic",
     "games": [
       "pla"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Kleavor",
@@ -9822,7 +10761,8 @@
       "pla",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hisuian Lilligant",
@@ -9831,7 +10771,8 @@
     "type": "Grass, Fighting",
     "games": [
       "pla"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Ursaluna",
@@ -9840,7 +10781,8 @@
     "type": "Ground, Normal",
     "games": [
       "pla"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hisuian Sliggoo",
@@ -9850,7 +10792,8 @@
     "games": [
       "pla",
       "plza"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Hisuian Goodra",
@@ -9860,7 +10803,8 @@
     "games": [
       "pla",
       "plza"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Hisuian Growlithe",
@@ -9870,7 +10814,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Hisuian Arcanine",
@@ -9880,7 +10825,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Hisuian Basculin",
@@ -9889,7 +10835,8 @@
     "type": "Water",
     "games": [
       "pla"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Basculegion",
@@ -9899,7 +10846,8 @@
     "games": [
       "pla",
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hisuian Voltorb",
@@ -9909,7 +10857,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Hisuian Electrode",
@@ -9919,7 +10868,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Hisuian Sneasel",
@@ -9929,7 +10879,8 @@
     "games": [
       "pla",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Sneasler",
@@ -9938,7 +10889,8 @@
     "type": "Fighting, Poison",
     "games": [
       "pla"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hisuian Qwilfish",
@@ -9950,7 +10902,8 @@
       "scvi",
       "plza",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Overqwil",
@@ -9961,7 +10914,8 @@
       "pla",
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hisuian Avalugg",
@@ -9971,7 +10925,8 @@
     "games": [
       "pla",
       "plza"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Hisuian Zorua",
@@ -9980,7 +10935,8 @@
     "type": "Normal, Ghost",
     "games": [
       "pla"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Hisuian Zoroark",
@@ -9989,7 +10945,8 @@
     "type": "Normal, Ghost",
     "games": [
       "pla"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Hisuian Braviary",
@@ -9998,7 +10955,8 @@
     "type": "Psychic, Flying",
     "games": [
       "pla"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Enamorus",
@@ -10007,7 +10965,8 @@
     "type": "Fairy, Flying",
     "games": [
       "pla"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Sprigatito",
@@ -10016,7 +10975,8 @@
     "type": "Grass",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Floragato",
@@ -10025,7 +10985,8 @@
     "type": "Grass",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Meowscarada",
@@ -10034,7 +10995,8 @@
     "type": "Grass, Dark",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Fuecoco",
@@ -10043,7 +11005,8 @@
     "type": "Fire",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Crocalor",
@@ -10052,7 +11015,8 @@
     "type": "Fire",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Skeledirge",
@@ -10061,7 +11025,8 @@
     "type": "Fire, Ghost",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Quaxly",
@@ -10070,7 +11035,8 @@
     "type": "Water",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Quaxwell",
@@ -10079,7 +11045,8 @@
     "type": "Water",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Quaquaval",
@@ -10088,7 +11055,8 @@
     "type": "Water, Fighting",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lechonk",
@@ -10097,7 +11065,8 @@
     "type": "Normal",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Oinkologne",
@@ -10106,7 +11075,8 @@
     "type": "Normal",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tarountula",
@@ -10115,7 +11085,8 @@
     "type": "Bug",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Spidops",
@@ -10124,7 +11095,8 @@
     "type": "Bug",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Nymble",
@@ -10133,7 +11105,8 @@
     "type": "Bug",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Lokix",
@@ -10142,7 +11115,8 @@
     "type": "Bug, Dark",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pawmi",
@@ -10151,7 +11125,8 @@
     "type": "Electric",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pawmo",
@@ -10160,7 +11135,8 @@
     "type": "Electric, Fighting",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Pawmot",
@@ -10169,7 +11145,8 @@
     "type": "Electric, Fighting",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tandemaus",
@@ -10178,7 +11155,8 @@
     "type": "Normal",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Maushold",
@@ -10187,7 +11165,8 @@
     "type": "Normal",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Fidough",
@@ -10197,7 +11176,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dachsbun",
@@ -10207,7 +11187,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Smoliv",
@@ -10216,7 +11197,8 @@
     "type": "Grass, Normal",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dolliv",
@@ -10225,7 +11207,8 @@
     "type": "Grass, Normal",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Arboliva",
@@ -10234,7 +11217,8 @@
     "type": "Grass, Normal",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Squawkabilly",
@@ -10244,7 +11228,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Nacli",
@@ -10254,7 +11239,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Naclstack",
@@ -10264,7 +11250,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Garganacl",
@@ -10274,7 +11261,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Charcadet",
@@ -10284,7 +11272,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Armarouge",
@@ -10294,7 +11283,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Ceruledge",
@@ -10304,7 +11294,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tadbulb",
@@ -10313,7 +11304,8 @@
     "type": "Electric",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bellibolt",
@@ -10322,7 +11314,8 @@
     "type": "Electric",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Wattrel",
@@ -10331,7 +11324,8 @@
     "type": "Electric, Flying",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Kilowattrel",
@@ -10340,7 +11334,8 @@
     "type": "Electric, Flying",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Maschiff",
@@ -10350,7 +11345,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Mabosstiff",
@@ -10360,7 +11356,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Shroodle",
@@ -10370,7 +11367,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Grafaiai",
@@ -10380,7 +11378,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Paldean Tauros",
@@ -10390,7 +11389,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Bramblin",
@@ -10399,7 +11399,8 @@
     "type": "Grass, Ghost",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Brambleghast",
@@ -10408,7 +11409,8 @@
     "type": "Grass, Ghost",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Toedscool",
@@ -10417,7 +11419,8 @@
     "type": "Ground, Grass",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Toedscruel",
@@ -10426,7 +11429,8 @@
     "type": "Ground, Grass",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Klawf",
@@ -10435,7 +11439,8 @@
     "type": "Rock",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Capsakid",
@@ -10445,7 +11450,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Scovillain",
@@ -10455,7 +11461,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Rellor",
@@ -10464,7 +11471,8 @@
     "type": "Bug",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Rabsca",
@@ -10473,7 +11481,8 @@
     "type": "Bug, Psychic",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Flittle",
@@ -10482,7 +11491,8 @@
     "type": "Psychic",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Espathra",
@@ -10491,7 +11501,8 @@
     "type": "Psychic",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tinkatink",
@@ -10501,7 +11512,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tinkatuff",
@@ -10511,7 +11523,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tinkaton",
@@ -10521,7 +11534,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Wiglett",
@@ -10530,7 +11544,8 @@
     "type": "Water",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Wugtrio",
@@ -10539,7 +11554,8 @@
     "type": "Water",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bombirdier",
@@ -10548,7 +11564,8 @@
     "type": "Flying, Dark",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Finizen",
@@ -10557,7 +11574,8 @@
     "type": "Water",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Palafin",
@@ -10566,7 +11584,8 @@
     "type": "Water",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Varoom",
@@ -10575,7 +11594,8 @@
     "type": "Steel, Poison",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Revavroom",
@@ -10584,7 +11604,8 @@
     "type": "Steel, Poison",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cyclizar",
@@ -10594,7 +11615,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Orthworm",
@@ -10603,7 +11625,8 @@
     "type": "Steel",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Glimmet",
@@ -10613,7 +11636,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Glimmora",
@@ -10623,7 +11647,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Greavard",
@@ -10633,7 +11658,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Houndstone",
@@ -10643,7 +11669,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Flamigo",
@@ -10653,7 +11680,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cetoddle",
@@ -10662,7 +11690,8 @@
     "type": "Ice",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Cetitan",
@@ -10671,7 +11700,8 @@
     "type": "Ice",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Veluza",
@@ -10680,7 +11710,8 @@
     "type": "Water, Psychic",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dondozo",
@@ -10690,7 +11721,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Tatsugiri",
@@ -10700,7 +11732,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Annihilape",
@@ -10710,7 +11743,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Paldean Wooper",
@@ -10720,7 +11754,8 @@
     "games": [
       "scvi",
       "bdsp"
-    ]
+    ],
+    "tags": ["Regional"]
   },
   {
     "name": "Clodsire",
@@ -10729,7 +11764,8 @@
     "type": "Poison, Ground",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Farigiraf",
@@ -10738,7 +11774,8 @@
     "type": "Normal, Psychic",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dudunsparce",
@@ -10747,7 +11784,8 @@
     "type": "Normal",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Kingambit",
@@ -10756,7 +11794,8 @@
     "type": "Dark, Steel",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Great-tusk",
@@ -10765,7 +11804,8 @@
     "type": "Ground, Fighting",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Scream-tail",
@@ -10774,7 +11814,8 @@
     "type": "Fairy, Psychic",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Brute-bonnet",
@@ -10783,7 +11824,8 @@
     "type": "Grass, Dark",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Flutter-mane",
@@ -10792,7 +11834,8 @@
     "type": "Ghost, Fairy",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Slither-wing",
@@ -10801,7 +11844,8 @@
     "type": "Bug, Fighting",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sandy-shocks",
@@ -10810,7 +11854,8 @@
     "type": "Electric, Ground",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Iron-treads",
@@ -10819,7 +11864,8 @@
     "type": "Ground, Steel",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Iron-bundle",
@@ -10828,7 +11874,8 @@
     "type": "Ice, Water",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Iron-hands",
@@ -10837,7 +11884,8 @@
     "type": "Fighting, Electric",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Iron-jugulis",
@@ -10846,7 +11894,8 @@
     "type": "Dark, Flying",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Iron-moth",
@@ -10855,7 +11904,8 @@
     "type": "Fire, Poison",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Iron-thorns",
@@ -10864,7 +11914,8 @@
     "type": "Rock, Electric",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Frigibax",
@@ -10874,7 +11925,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Arctibax",
@@ -10884,7 +11936,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Baxcalibur",
@@ -10894,7 +11947,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gimmighoul",
@@ -10904,7 +11958,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gholdengo",
@@ -10914,7 +11969,8 @@
     "games": [
       "scvi",
       "plza"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Wo-chien",
@@ -10923,7 +11979,8 @@
     "type": "Dark, Grass",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Chien-pao",
@@ -10932,7 +11989,8 @@
     "type": "Dark, Ice",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Ting-lu",
@@ -10941,7 +11999,8 @@
     "type": "Ground, Dark",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Chi-yu",
@@ -10950,7 +12009,8 @@
     "type": "Dark, Fire",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Roaring-moon",
@@ -10959,7 +12019,8 @@
     "type": "Dragon, Dark",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Iron-valiant",
@@ -10968,7 +12029,8 @@
     "type": "Fairy, Fighting",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Koraidon",
@@ -10977,7 +12039,8 @@
     "type": "Fighting, Dragon",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Miraidon",
@@ -10986,7 +12049,8 @@
     "type": "Electric, Dragon",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Walking-wake",
@@ -10995,7 +12059,8 @@
     "type": "Water, Dragon",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Iron-leaves",
@@ -11004,7 +12069,8 @@
     "type": "Grass, Psychic",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Dipplin",
@@ -11013,7 +12079,8 @@
     "type": "Grass, Dragon",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Poltchageist",
@@ -11022,7 +12089,8 @@
     "type": "Grass, Ghost",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Sinistcha",
@@ -11031,7 +12099,8 @@
     "type": "Grass, Ghost",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Bloodmoon Ursaluna",
@@ -11040,7 +12109,8 @@
     "type": "Normal, Ground",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Okidogi",
@@ -11049,7 +12119,8 @@
     "type": "Poison, Fighting",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Munkidori",
@@ -11058,7 +12129,8 @@
     "type": "Poison, Psychic",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Fezandipiti",
@@ -11067,7 +12139,8 @@
     "type": "Poison, Fairy",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Ogerpon",
@@ -11076,7 +12149,8 @@
     "type": "Grass",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Archaludon",
@@ -11085,7 +12159,8 @@
     "type": "Steel, Dragon",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Hydrapple",
@@ -11094,7 +12169,8 @@
     "type": "Grass, Dragon",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Gouging-fire",
@@ -11103,7 +12179,8 @@
     "type": "Fire, Dragon",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Raging-bolt",
@@ -11112,7 +12189,8 @@
     "type": "Electric, Dragon",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Iron-boulder",
@@ -11121,7 +12199,8 @@
     "type": "Rock, Psychic",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Iron-crown",
@@ -11130,7 +12209,8 @@
     "type": "Steel, Psychic",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": []
   },
   {
     "name": "Terapagos",
@@ -11139,7 +12219,8 @@
     "type": "Normal",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": ["Legendary"]
   },
   {
     "name": "Pecharunt",
@@ -11148,6 +12229,7 @@
     "type": "Poison, Ghost",
     "games": [
       "scvi"
-    ]
+    ],
+    "tags": ["Legendary"]
   }
 ]

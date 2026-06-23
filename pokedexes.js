@@ -10,6 +10,8 @@ let pageSize = 30;
 let currentPage = 1;
 let pageMode = false; 
 let selectedGeneration = null;
+let tagFilters = {};
+let pokemonCountLabel = null;
 
 const dexTypes = [
     { key: "masterDex", label: "MasterDex" },
@@ -336,6 +338,25 @@ function applyFilters() {
 
         })();
 
+        const matchesTags = (() => {
+
+            const tagFilterKeys = Object.keys(tagFilters);
+            if (tagFilterKeys.length === 0) return true;
+
+            const pokemonTags = pokemonData?.tags || [];
+
+            return tagFilterKeys.every(filterTag => {
+                if (filterTag === "legendary") return pokemonTags.includes("Legendary");
+                if (filterTag === "notLegendary") return !pokemonTags.includes("Legendary");
+                if (filterTag === "mythical") return pokemonTags.includes("Mythical");
+                if (filterTag === "notMythical") return !pokemonTags.includes("Mythical");
+                if (filterTag === "regional") return pokemonTags.includes("Regional");
+                if (filterTag === "notRegional") return !pokemonTags.includes("Regional");
+                return true;
+            });
+
+        })();
+
         const matchesMissing = (() => {
 
             if (!missingDexFilter) return true;
@@ -347,12 +368,14 @@ function applyFilters() {
             return !dexValue;
         })();
 
-        if (matchesSearch && matchesGame && matchesGeneration && matchesMissing) {
+        if (matchesSearch && matchesGame && matchesGeneration && matchesTags && matchesMissing) {
             card.style.display = "block";
         } else {
             card.style.display = "none";
         }
     });
+
+    updatePokemonCount();
 }
 
 
@@ -809,8 +832,66 @@ function createFilterButtons() {
     // GENERATION FILTERS
     // -----------------------------
 
-    const generationRow = document.createElement("div");
-    generationRow.classList.add("generation-filter-row");
+    // -----------------------------
+    // TAG FILTERS (Legendary, Mythical, Regional)
+
+    const oppositeTag = {
+        legendary: "notLegendary",
+        notLegendary: "legendary",
+        mythical: "notMythical",
+        notMythical: "mythical",
+        regional: "notRegional",
+        notRegional: "regional"
+    };
+
+    const tagPairs = [
+        { yesKey: "legendary", yesLabel: "Legendary", noKey: "notLegendary", noLabel: "Not Legendary" },
+        { yesKey: "mythical", yesLabel: "Mythical", noKey: "notMythical", noLabel: "Not Mythical" },
+        { yesKey: "regional", yesLabel: "Regional", noKey: "notRegional", noLabel: "Not Regional" }
+    ];
+
+    tagPairs.forEach(pair => {
+        const row = document.createElement("div");
+        row.classList.add("filter-row");
+
+        [
+            { key: pair.yesKey, label: pair.yesLabel, mode: "include" },
+            { key: pair.noKey, label: pair.noLabel, mode: "exclude" }
+        ].forEach(tag => {
+            const btn = document.createElement("button");
+            const icon = tag.mode === "include" ? "✔" : "✖";
+            btn.textContent = `${tag.label} ${icon}`;
+            btn.classList.add("game-filter-btn", tag.mode === "include" ? "include-btn" : "exclude-btn", "tag-filter-btn");
+            btn.dataset.tag = tag.key;
+
+            btn.addEventListener("click", () => {
+                const opposite = oppositeTag[tag.key];
+
+                if (tagFilters[tag.key]) {
+                    delete tagFilters[tag.key];
+                } else {
+                    delete tagFilters[opposite];
+                    tagFilters[tag.key] = true;
+                }
+
+                applyFilters();
+                updateTagButtonHighlight();
+            });
+
+            row.appendChild(btn);
+        });
+
+        container.appendChild(row);
+    });
+
+    const generationRow1 = document.createElement("div");
+    generationRow1.classList.add("generation-filter-row");
+
+    const generationRow2 = document.createElement("div");
+    generationRow2.classList.add("generation-filter-row");
+
+    const generationRow3 = document.createElement("div");
+    generationRow3.classList.add("generation-filter-row", "generation-filter-row--half");
 
     for (let gen = 1; gen <= 10; gen++) {
 
@@ -832,10 +913,18 @@ function createFilterButtons() {
             updateGenerationButtonHighlight();
         });
 
-        generationRow.appendChild(btn);
+        if (gen <= 4) {
+            generationRow1.appendChild(btn);
+        } else if (gen <= 8) {
+            generationRow2.appendChild(btn);
+        } else {
+            generationRow3.appendChild(btn);
+        }
     }
 
-    container.appendChild(generationRow);
+    container.appendChild(generationRow1);
+    container.appendChild(generationRow2);
+    container.appendChild(generationRow3);
 
     // -----------------------------
     // RESET BUTTON
@@ -848,6 +937,7 @@ function createFilterButtons() {
 
         gameFilterState = {};
         selectedGeneration = null;
+        tagFilters = {};
         searchInput.value = "";
         missingDexFilter = false;
 
@@ -862,6 +952,7 @@ function createFilterButtons() {
         applyFilters();
         updateGameButtonHighlight();
         updateGenerationButtonHighlight();
+        updateTagButtonHighlight();
         updateMissingButtonHighlight();
         updateCardHighlights();
         updateProgress();
@@ -869,11 +960,52 @@ function createFilterButtons() {
     });
 
     container.appendChild(resetBtn);
+
+    // Create Pokemon count label
+    pokemonCountLabel = document.createElement("div");
+    pokemonCountLabel.id = "pokemon-count-label";
+    pokemonCountLabel.style.display = "none";
+    pokemonCountLabel.style.padding = "10px 0";
+    pokemonCountLabel.style.textAlign = "center";
+    pokemonCountLabel.style.color = "#aaa";
+    pokemonCountLabel.style.fontSize = "14px";
+    pokemonCountLabel.style.fontWeight = "500";
+    container.appendChild(pokemonCountLabel);
+}
+
+function updatePokemonCount() {
+
+    if (!pokemonCountLabel) return;
+
+    const hasActiveFilters = (
+        Object.keys(gameFilterState).length > 0 ||
+        selectedGeneration !== null ||
+        Object.keys(tagFilters).length > 0 ||
+        missingDexFilter ||
+        searchInput.value.trim() !== ""
+    );
+
+    if (!hasActiveFilters) {
+        pokemonCountLabel.style.display = "none";
+        return;
+    }
+
+    let count = 0;
+    cardMap.forEach(card => {
+        if (card.style.display !== "none") {
+            count++;
+        }
+    });
+
+    pokemonCountLabel.textContent = `Pokémon displayed: ${count}`;
+    pokemonCountLabel.style.display = "block";
 }
 
 function updateGameButtonHighlight() {
 
     document.querySelectorAll(".game-filter-btn").forEach(btn => {
+
+        if (!btn.dataset.game) return;
 
         const game = btn.dataset.game;
         const state = gameFilterState[game];
@@ -892,6 +1024,16 @@ function updateGameButtonHighlight() {
     });
 }
 
+function updateTagButtonHighlight() {
+
+    document.querySelectorAll(".tag-filter-btn").forEach(btn => {
+        const tag = btn.dataset.tag;
+        const isActive = !!tagFilters[tag];
+
+        btn.classList.toggle("game-filter-active", isActive);
+    });
+}
+
 function updateGenerationButtonHighlight() {
 
     document
@@ -899,7 +1041,7 @@ function updateGenerationButtonHighlight() {
         .forEach(btn => {
 
             btn.classList.toggle(
-                "game-filter-active",
+                "active",
                 Number(btn.dataset.gen) === selectedGeneration
             );
         });
