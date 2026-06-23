@@ -26,6 +26,10 @@ const deleteDlcList = document.getElementById("delete-dlc-list");
 let selectedDlcIndex = null;
 let currentDeleteItem = null;
 
+// collection-specific filter state
+let selectedNationality = null; // for sleeves: 'english','japanese','chinese' (mutually exclusive)
+let filterHasDlc = null; // for completions: true = only show items with DLC tag
+
 const imageZoomOverlay = document.getElementById("image-zoom-overlay");
 const zoomImage = document.getElementById("zoom-image");
 
@@ -53,6 +57,9 @@ Promise.all([
     currentPage = 1;
 
     updateModeUI();
+
+    // create page-specific visual filters (sleeves / completions)
+    createCollectionFilters();
 
     document.querySelectorAll(".pokemon-card").forEach(card => {
         card.style.display = "block";
@@ -92,6 +99,100 @@ function setItemImage(imgElement, name) {
     };
 
     imgElement.src = `${COLLECTION.imageFolder}/${base}${tryFormats[i]}`;
+}
+
+function createCollectionFilters() {
+
+    // avoid creating twice
+    if (document.getElementById("game-filter-container")) return;
+
+    const container = document.createElement("div");
+    container.id = "game-filter-container";
+
+    // Only show filters per-collection/page
+    if (COLLECTION.name === "sleeves") {
+
+        const generationRow = document.createElement("div");
+        generationRow.classList.add("generation-filter-row");
+
+        ["ENG", "JPN", "CHN"].forEach(lang => {
+            const btn = document.createElement("button");
+            btn.textContent = lang;
+            btn.classList.add("generation-filter-btn");
+            btn.dataset.lang = lang.toLowerCase();
+
+            // toggle state + visual with mutual exclusivity
+            btn.addEventListener("click", () => {
+                const key = btn.dataset.lang;
+
+                // Clear all buttons' active class
+                generationRow.querySelectorAll(".generation-filter-btn").forEach(b => {
+                    b.classList.remove("game-filter-active");
+                });
+
+                if (selectedNationality === key) {
+                    // Deselect if clicking the same button
+                    selectedNationality = null;
+                } else {
+                    // Select this button
+                    btn.classList.add("game-filter-active");
+                    selectedNationality = key;
+                }
+
+                filterItems(searchInput.value);
+            });
+
+            generationRow.appendChild(btn);
+        });
+
+        container.appendChild(generationRow);
+    }
+
+    if (COLLECTION.name === "completions") {
+
+        const generationRow = document.createElement("div");
+        generationRow.classList.add("generation-filter-row");
+
+        const hasDlcBtn = document.createElement("button");
+        hasDlcBtn.textContent = "Has DLC";
+        hasDlcBtn.classList.add("generation-filter-btn");
+        hasDlcBtn.dataset.hasDlc = "1";
+
+        hasDlcBtn.addEventListener("click", () => {
+            const active = hasDlcBtn.classList.toggle("game-filter-active");
+            filterHasDlc = active ? true : null;
+            filterItems(searchInput.value);
+        });
+
+        generationRow.appendChild(hasDlcBtn);
+
+        container.appendChild(generationRow);
+    }
+
+    // RESET BUTTON
+    const resetBtn = document.createElement("button");
+    resetBtn.textContent = "Reset Filters";
+    resetBtn.classList.add("game-filter-btn");
+    resetBtn.addEventListener("click", () => {
+        // clear state
+        selectedNationality = null;
+        filterHasDlc = null;
+
+        // clear visuals
+        container.querySelectorAll(".game-filter-active").forEach(el => el.classList.remove("game-filter-active"));
+
+        filterItems(searchInput.value);
+    });
+
+    // attach reset button to container
+    container.appendChild(resetBtn);
+
+    const box = document.getElementById("box-container");
+    if (box && box.parentNode) {
+        box.parentNode.insertBefore(container, box.nextSibling);
+    } else {
+        document.body.appendChild(container);
+    }
 }
 
 function getCurrentPageSize() {
@@ -143,6 +244,7 @@ function renderItems() {
         // ---------------------------------
         const card = document.createElement("div");
         card.classList.add("pokemon-card");
+        card.dataset.itemIndex = items.indexOf(item);
 
         const img = document.createElement("img");
         setItemImage(img, item[COLLECTION.fields.title]);
@@ -595,29 +697,7 @@ document.getElementById("export-items").addEventListener("click", () => {
     URL.revokeObjectURL(url);
 });
 
-function filterItems(query) {
-
-    const q = query.toLowerCase().trim();
-
-    document.querySelectorAll(".pokemon-card").forEach((card, index) => {
-
-        const item = items[index];
-
-        if (!item) return;
-
-        const titleMatch =
-            item[COLLECTION.fields.title].toLowerCase().includes(q);
-
-        const tagMatch =
-            (item[COLLECTION.fields.tags] || []).some(tag =>
-                tag.toLowerCase().includes(q)
-            );
-
-        const match = titleMatch || tagMatch;
-
-        card.style.display = match ? "block" : "none";
-    });
-}
+/* earlier filterItems placeholder — implementation below */
 
 function formatDateForInput(dateStr) {
     if (!dateStr) return "";
@@ -737,25 +817,48 @@ function filterItems(query) {
 
     document.querySelectorAll(".pokemon-card").forEach((card, index) => {
 
-        const item = items[index];
-        if (!item) return;
+        // -------------------------
+        // COLLECTION-SPECIFIC FILTERS
+        // -------------------------
+        // map card -> item using data-item-index when available
+        // map card -> item using data-item-index when available
+        const dataIndex = (card.dataset && card.dataset.itemIndex) ? Number(card.dataset.itemIndex) : index;
+        const realItem = items[dataIndex];
+        if (!realItem) {
+            card.style.display = "none";
+            return;
+        }
 
-        const titleMatch = item[COLLECTION.fields.title].toLowerCase().includes(q);
+        // replace item with the realItem for checks
+        const titleMatch2 = realItem[COLLECTION.fields.title].toLowerCase().includes(q);
 
-        const tagMatch = (item[COLLECTION.fields.tags] || []).some(tag =>
+        const tagMatch2 = (realItem[COLLECTION.fields.tags] || []).some(tag =>
             tag.toLowerCase().includes(q)
         );
 
-        // -------------------------
-        // SPECIAL FILTER: untagged
-        // -------------------------
-        const untaggedMatch =
+        const untaggedMatch2 =
             (q === "untagged" || q === "no tags") &&
-            (!item[COLLECTION.fields.tags] || item[COLLECTION.fields.tags].length === 0);
+            (!realItem[COLLECTION.fields.tags] || realItem[COLLECTION.fields.tags].length === 0);
 
-        const match = titleMatch || tagMatch || untaggedMatch;
+        let match2 = titleMatch2 || tagMatch2 || untaggedMatch2;
 
-        card.style.display = match ? "block" : "none";
+        // Sleeves: nationality filter (mutually exclusive)
+        if (COLLECTION.name === "sleeves" && selectedNationality !== null) {
+            const nat = (realItem[COLLECTION.fields.custom] || "").toLowerCase();
+            if (!nat.includes(selectedNationality)) match2 = false;
+        }
+
+        // Completions: DLC tag filter
+        if (COLLECTION.name === "completions" && filterHasDlc === true) {
+            const tags = realItem[COLLECTION.fields.tags] || [];
+            const hasDlc = (Array.isArray(tags)
+                ? tags.some(t => t.toLowerCase().includes("dlc"))
+                : String(tags).toLowerCase().includes("dlc")
+            );
+            if (!hasDlc) match2 = false;
+        }
+
+        card.style.display = match2 ? "block" : "none";
     });
 }
 
