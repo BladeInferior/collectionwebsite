@@ -6,174 +6,7 @@
 
 <title>Harry's Pokémon Hub</title>
 
-<style>
-:root{
-    --bg:#121212;
-    --card:#1e1e1e;
-    --card-hover:#262626;
-    --gold:#d4af37;
-    --text:#ffffff;
-    --secondary:#bdbdbd;
-}
-
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    font-family:Arial, sans-serif;
-}
-
-body{
-    background:var(--bg);
-    color:var(--text);
-    min-height:100vh;
-}
-
-nav{
-    background:#181818;
-    border-bottom:1px solid #333;
-    padding:15px 30px;
-
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
-}
-
-.logo{
-    font-size:1.4rem;
-    font-weight:bold;
-    color:var(--gold);
-}
-
-.nav-links{
-    display:flex;
-    gap:15px;
-}
-
-.nav-links a{
-    text-decoration:none;
-    color:white;
-    padding:8px 14px;
-    border-radius:8px;
-    transition:.2s;
-}
-
-.nav-links a:hover{
-    background:var(--gold);
-    color:black;
-}
-
-.hero{
-    text-align:center;
-    padding:80px 20px 60px;
-}
-
-.hero h1{
-    font-size:3rem;
-    margin-bottom:15px;
-}
-
-.hero p{
-    color:var(--secondary);
-    font-size:1.1rem;
-    max-width:700px;
-    margin:auto;
-}
-
-.hero-buttons{
-    margin-top:30px;
-    display:flex;
-    justify-content:center;
-    gap:15px;
-    flex-wrap:wrap;
-}
-
-.hero-buttons a{
-    text-decoration:none;
-    color:white;
-    background:var(--card);
-    padding:14px 26px;
-    border-radius:12px;
-    transition:.2s;
-    border:1px solid #333;
-}
-
-.hero-buttons a:hover{
-    background:var(--gold);
-    color:black;
-    transform:translateY(-2px);
-}
-
-.section{
-    max-width:1200px;
-    margin:auto;
-    padding:40px 20px;
-}
-
-.section h2{
-    text-align:center;
-    margin-bottom:25px;
-}
-
-.card-grid{
-    display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
-    gap:20px;
-}
-
-.card{
-    background:var(--card);
-    border-radius:16px;
-    padding:25px;
-    text-decoration:none;
-    color:white;
-    border:1px solid #333;
-    transition:.25s;
-}
-
-.card:hover{
-    background:var(--card-hover);
-    border-color:var(--gold);
-    transform:translateY(-4px);
-}
-
-.card h3{
-    margin-bottom:10px;
-}
-
-.card p{
-    color:var(--secondary);
-    line-height:1.5;
-}
-
-.updates{
-    margin-top:40px;
-    background:var(--card);
-    border-radius:16px;
-    padding:25px;
-    border:1px solid #333;
-}
-
-.updates h2{
-    text-align:left;
-    margin-bottom:15px;
-}
-
-.updates ul{
-    padding-left:20px;
-}
-
-.updates li{
-    margin-bottom:8px;
-    color:var(--secondary);
-}
-
-footer{
-    text-align:center;
-    padding:30px;
-    color:#888;
-}
-</style>
+<link rel="stylesheet" href="homepage.css">
 </head>
 
 <body>
@@ -183,7 +16,7 @@ footer{
 
     <div class="nav-links">
         <a href="index.html">Home</a>
-        <a href="collection.html">Collection Hub</a>
+        <a href="collection-hub/collectionhub.html">Collection Hub</a>
         <a href="quizzes.html">Quiz Hub</a>
     </div>
 </nav>
@@ -197,7 +30,7 @@ footer{
     </p>
 
     <div class="hero-buttons">
-        <a href="/collection hub/collectionhub.html">Collection Hub</a>
+        <a href="/collection-hub/collectionhub.html">Collection Hub</a>
         <a href="quizzes.html">Quiz Hub</a>
     </div>
 </section>
@@ -208,7 +41,7 @@ footer{
 
     <div class="card-grid">
 
-        <a href="/collection hub/collectionhub.html" class="card">
+        <a href="/collection-hub/collectionhub.html" class="card">
             <h3>🗂 Collection Hub</h3>
             <p>
                 View and manage Pokédex progress,
