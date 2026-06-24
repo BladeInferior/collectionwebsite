@@ -77,6 +77,17 @@ function imageName(name) {
         .replace(/[^a-z0-9]/g, "");
 }
 
+function getPokemonSpritePath(name, useShiny = false) {
+    const fileName = `${imageName(name)}.png`;
+    return useShiny
+        ? `sprites/pokemon_shiny_sprites/${fileName}`
+        : `sprites/pokemon_sprites/${fileName}`;
+}
+
+function shouldShowShinyCardSprites() {
+    return activeDexEdit === "shinyDex";
+}
+
 function toggleShinyDex(pokemonKey) {
 
     const data = savedDexData[pokemonKey] || {};
@@ -122,7 +133,7 @@ const shinyImage = document.getElementById("shiny-modal-image");
 
 
 // ---------------------------
-// CREATE POKÉMON CARDS (ONLY ONCE)
+// CREATE POKÉMON CARDS
 // ---------------------------
 function createPokemonCards(pokemonList) {
 
@@ -137,7 +148,7 @@ function createPokemonCards(pokemonList) {
         card.classList.add("pokemon-card");
 
         card.innerHTML = `
-            <img loading="lazy" src="sprites/pokemon_sprites/${imageName(name)}.png">
+            <img loading="lazy" src="${getPokemonSpritePath(name, shouldShowShinyCardSprites())}">
             <div class="pokemon-name">${name}</div>
             <div class="shiny-plus">➕</div>
         `;
@@ -213,7 +224,7 @@ function createPokemonCards(pokemonList) {
                     currentPokemon = key;
 
                     document.getElementById("modal-name").textContent = name;
-                    modalImage.src = `sprites/pokemon_sprites/${imageName(name)}.png`;
+                    modalImage.src = getPokemonSpritePath(name, true);
 
                     modalOverlay.classList.remove("hidden");
                     renderModalState(key);
@@ -229,7 +240,7 @@ function createPokemonCards(pokemonList) {
 
             document.getElementById("modal-name").textContent = name;
 
-            modalImage.src = `sprites/pokemon_sprites/${imageName(name)}.png`;
+            modalImage.src = getPokemonSpritePath(name, shouldShowShinyCardSprites());
             modalOverlay.classList.remove("hidden");
 
             renderModalState(currentPokemon);
@@ -300,8 +311,6 @@ function applyFilters() {
             .split(",");            // turn into array
 
         const matchesSearch = (() => {
-
-            console.log(name, pokemonData?.type);
 
             if (!query) return true;
 
@@ -570,6 +579,7 @@ document.addEventListener("click", (e) => {
         activeDexEdit === "shinyDex"
     );
 
+    updateModeUI();
     updateProgress();
     updateCardHighlights();
     if (dexChanged) {
@@ -1107,6 +1117,16 @@ function applyPagination() {
     document.getElementById("page-display").textContent = currentPage;
 }
 
+function updateCardImages() {
+    const useShinySprites = shouldShowShinyCardSprites();
+
+    cardMap.forEach((card, name) => {
+        const img = card.querySelector("img");
+        if (!img) return;
+        img.src = getPokemonSpritePath(name, useShinySprites);
+    });
+}
+
 function updateModeUI() {
 
     const pageBtn = document.getElementById("page-mode");
@@ -1117,6 +1137,8 @@ function updateModeUI() {
     listBtn.classList.toggle("active-mode", pageMode === false);
 
     pagination.classList.toggle("hidden", pageMode === false);
+
+    updateCardImages();
 }
 
 document.getElementById("export-pokedex").addEventListener("click", () => {
