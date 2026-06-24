@@ -4,23 +4,23 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Popfigures</title>
+    <title>Sleeve Tracker</title>
 
     <link rel="stylesheet" href="style.css" />
 </head>
-<body class="item-page popfigures-page">
+<body class="collection-page items-page">
 
-    <h1>Popfigures</h1>
+    <h1>Pokémon Sleeve Tracker</h1>
 
     <!-- =========================
         SEARCH
     ========================== -->
     <div id="search-wrapper">
-        <input id="search" type="text" placeholder="Search Popfigures..." />
+        <input id="search" type="text" placeholder="Search Sleeves..." />
         <span id="clear-search">✕</span>
     </div>
 
-    <a id="home-icon" href="index.html" title="Home">🏠</a>
+    <a id="home-icon" href="collectionhub.html" title="Home">🏠</a>
 
     <button id="untagged-filter">Untagged</button>
 
@@ -41,8 +41,8 @@
             <button id="next-page">▶</button>
 
         </div>
-
-        <button id="add-item">Add Pop Figure</button>
+        
+        <button id="add-item">Add Sleeve</button>
         <input type="file" id="import-items" accept=".json" hidden>
         <button id="import-button">Import</button>
         <button id="export-items">Export</button>
@@ -58,22 +58,22 @@
 
         <div class="add-item-box">
 
-            <h2 id="item-modal-title">Add Popfigure</h2>
+            <h2 id="item-modal-title">Add Sleeve</h2>
 
             <div id="item-error" class="hidden"></div>
 
             <label>
-                Title
+                Name
                 <input type="text" id="item-title">
             </label>
 
             <label>
-                Release Date
+                Date
                 <input type="date" id="item-date">
             </label>
 
             <label>
-                Franchise
+                Nationality
                 <input type="text" id="item-custom">
             </label>
 
@@ -113,12 +113,12 @@
             <div class="modal-right">
 
                 <div class="item-field">
-                    <strong>Release Date:</strong>
+                    <strong>Date Released:</strong>
                     <div id="modal-date"></div>
                 </div>
 
                 <div class="item-field">
-                    <strong>Franchise:</strong>
+                    <strong>Nationality:</strong>
                     <div id="modal-custom"></div>
                 </div>
 
@@ -129,8 +129,8 @@
 
                 <div class="item-actions">
 
-                    <button id="edit-item" class="item-action-btn">Edit Popfigure</button>
-                    <button id="delete-item" class="item-action-btn danger">Delete Popfigure</button>
+                    <button id="edit-item" class="item-action-btn">Edit Sleeve</button>
+                    <button id="delete-item" class="item-action-btn danger">Delete Sleeve</button>
 
                 </div>
 
@@ -148,15 +148,15 @@
 
     <script>
     const COLLECTION = {
-        name: "popfigures",
-        storageKey: "popfigures",
-        jsonFile: "popfigures-backup.json",
-        imageFolder: "popfigures",
+        name: "sleeves",
+        storageKey: "sleeves",
+        jsonFile: "sleeves-backup.json",
+        imageFolder: "sleeves",
 
         fields: {
-            title: "title",
-            date: "releaseDate",
-            secondary: "franchise",
+            title: "name",
+            date: "date",
+            custom: "nationality",
             tags: "tags"
         }
     };

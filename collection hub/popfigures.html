@@ -4,23 +4,23 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Steelbooks</title>
+    <title>Popfigures</title>
 
     <link rel="stylesheet" href="style.css" />
 </head>
-<body class="item-page steelbooks-page">
+<body class="item-page popfigures-page">
 
-    <h1>Steelbooks</h1>
+    <h1>Popfigures</h1>
 
     <!-- =========================
         SEARCH
     ========================== -->
     <div id="search-wrapper">
-        <input id="search" type="text" placeholder="Search Steelbooks..." />
+        <input id="search" type="text" placeholder="Search Popfigures..." />
         <span id="clear-search">✕</span>
     </div>
 
-    <a id="home-icon" href="index.html" title="Home">🏠</a>
+    <a id="home-icon" href="collectionhub.html" title="Home">🏠</a>
 
     <button id="untagged-filter">Untagged</button>
 
@@ -42,7 +42,7 @@
 
         </div>
 
-        <button id="add-item">Add Steelbook</button>
+        <button id="add-item">Add Pop Figure</button>
         <input type="file" id="import-items" accept=".json" hidden>
         <button id="import-button">Import</button>
         <button id="export-items">Export</button>
@@ -58,7 +58,7 @@
 
         <div class="add-item-box">
 
-            <h2 id="item-modal-title">Add Steelbook</h2>
+            <h2 id="item-modal-title">Add Popfigure</h2>
 
             <div id="item-error" class="hidden"></div>
 
@@ -129,8 +129,8 @@
 
                 <div class="item-actions">
 
-                    <button id="edit-item" class="item-action-btn">Edit Steelbook</button>
-                    <button id="delete-item" class="item-action-btn danger">Delete Steelbook</button>
+                    <button id="edit-item" class="item-action-btn">Edit Popfigure</button>
+                    <button id="delete-item" class="item-action-btn danger">Delete Popfigure</button>
 
                 </div>
 
@@ -148,10 +148,10 @@
 
     <script>
     const COLLECTION = {
-    name: "steelbooks",
-    storageKey: "steelbooks",
-    jsonFile: "steelbooks-backup.json",
-    imageFolder: "steelbooks",
+        name: "popfigures",
+        storageKey: "popfigures",
+        jsonFile: "popfigures-backup.json",
+        imageFolder: "popfigures",
 
         fields: {
             title: "title",
