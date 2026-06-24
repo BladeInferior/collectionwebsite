@@ -10,7 +10,7 @@
     --text-dim: rgba(255,255,255,0.7);
 
     /* accents (pick ONE primary direction) */
-    --accent: #4fd1c5;   /* teal (clean + “Pokémon tech” feel) */
+    --accent: #d14f4f;   /* teal (clean + “Pokémon tech” feel) */
     --accent-2: #60a5fa; /* soft blue fallback */
 
     /* semantic colours */
@@ -33,11 +33,13 @@ body {
     color: var(--text);
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 20px;
+    padding: 0;
+    padding-top: 80px;
 }
 
 h1 {
     text-align: center;
+    padding: 20px 20px 0;
 }
 
 #box-container {
@@ -48,6 +50,7 @@ h1 {
     gap: 12px;
 
     max-width: 900px;
+    padding: 20px;
     margin: 0 auto;
 }
 
@@ -98,7 +101,7 @@ h1 {
 
     justify-content: center;
     align-items: center;
-
+2
     z-index: 1000;
 }
 
@@ -274,7 +277,7 @@ h1 {
 
 #search-wrapper {
     position: fixed;
-    top: 20px;
+    top: 80px;
     right: 20px;
 
     display: flex;
@@ -297,7 +300,7 @@ h1 {
 
 #missing-filter-wrapper {
     position: fixed;
-    top: 86px;
+    top: 260px;
     right: 20px;
     z-index: 2000;
     width: max-content;
@@ -321,6 +324,21 @@ h1 {
     opacity: 1;
     border: 1px solid gold;
     background: rgba(255, 215, 0, 0.15);
+}
+
+#pokemon-count-label {
+    position: fixed;
+    top: 220px;
+    right: 20px;
+    width: 280px;
+    padding: 10px 12px;
+    
+    color: #aaa;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+    z-index: 2001;
+    box-sizing: border-box;
 }
 
 .game-filter-btn {
@@ -371,7 +389,7 @@ h1 {
 
 #progress-container {
     position: fixed;
-    top: 160px;
+    top: 260px;
     left: 20px;
 
     width: 260px;
@@ -526,7 +544,7 @@ h1 {
 #game-filter-container {
     position: fixed;
     right: 20px;
-    top: 160px;
+    top: 300px;
 
     display: flex;
     flex-direction: column;
@@ -548,7 +566,7 @@ h1 {
     flex: 0 0 calc((100% - 18px) / 4);
     box-sizing: border-box;
 
-    padding: 14px 12px;
+    padding: 10px 12px;
     min-height: 28px;
 
     display: flex;
@@ -596,7 +614,7 @@ h1 {
 #generation-filter-container {
     position: fixed;
     right: 20px;
-    top: 160px;
+    top: 300px;
 
     display: flex;
     flex-direction: column;
@@ -677,20 +695,22 @@ h1 {
 }
 
 #missing-dex-filter {
-    position: absolute;
-    right: -420px;
-    top: 50%;
-    transform: translateY(-50%);
-    padding: 8px 12px;
-    border-radius: 8px;
+    position: fixed;
+    top: 260px;
+    right: 20px;
+    width: 280px;
+    padding: 10px 12px;
+    border-radius: 8px 8px 0 0;
     border: 1px solid #555;
+    border-bottom: none;
     background: #2d2d2d;
     color: white;
     cursor: pointer;
     opacity: 0.6;
     transition: 0.15s ease;
     text-align: center;
-    width: auto;
+    box-sizing: border-box;
+    z-index: 2000;
 }
 
 #page-display {
@@ -943,36 +963,7 @@ h1 {
 }
 
 #home-icon {
-    position: fixed;
-    top: 20px;
-    left: 20px;
-
-    width: 42px;
-    height: 42px;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    background: #2d2d2d;
-    border: 1px solid #555;
-    border-radius: 10px;
-
-    font-size: 20px;
-    text-decoration: none;
-    color: white;
-
-    cursor: pointer;
-
-    opacity: 0.8;
-    transition: 0.15s ease;
-
-    z-index: 2000;
-}
-
-#home-icon:hover {
-    opacity: 1;
-    transform: scale(1.05);
+    display: none;
 }
 
 .empty-card {

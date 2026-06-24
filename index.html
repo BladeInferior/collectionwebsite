@@ -1,32 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Harry's Pokémon Hub</title>
+    <title>Harry's Website</title>
 
-<link rel="stylesheet" href="homepage.css">
+    <link rel="stylesheet" href="navbar.css">
+    <link rel="stylesheet" href="homepage.css">
+
 </head>
 
 <body>
 
-<nav>
-    <div class="logo">Harry's Hub</div>
+<div id="navbar"></div>
 
-    <div class="nav-links">
-        <a href="index.html">Home</a>
-        <a href="collection-hub/collectionhub.html">Collection Hub</a>
-        <a href="quizzes.html">Quiz Hub</a>
-    </div>
-</nav>
+    <script>
+    fetch('navbar.html')
+        .then(res => res.text())
+        .then(data => {
+            document.getElementById('navbar').innerHTML = data;
+        });
+    </script>
 
 <section class="hero">
-    <h1>Harry's Pokémon Hub</h1>
+    <h1>Harry's Website</h1>
 
     <p>
-        Track collections, complete Pokédexes,
-        manage sleeves, and create Pokémon quizzes.
+        Location for all things to do with my life.
     </p>
 
     <div class="hero-buttons">

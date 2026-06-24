@@ -6,9 +6,20 @@
 
     <title>Completions</title>
 
+    <link rel="stylesheet" href="../navbar.css">
     <link rel="stylesheet" href="style.css" />
 </head>
 <body class="item-page completions-page">
+
+    <div id="navbar"></div>
+
+    <script>
+    fetch('../navbar.html')
+        .then(res => res.text())
+        .then(data => {
+            document.getElementById('navbar').innerHTML = data;
+        });
+    </script>
 
     <h1>Completions</h1>
 
@@ -19,8 +30,6 @@
         <input id="search" type="text" placeholder="Search Completions..." />
         <span id="clear-search">✕</span>
     </div>
-
-    <a id="home-icon" href="collectionhub.html" title="Home">🏠</a>
 
     <button id="untagged-filter">Untagged</button>
 

@@ -18,40 +18,13 @@ body{
     background:var(--bg);
     color:var(--text);
     min-height:100vh;
-}
-
-nav{
-    background:#181818;
-    border-bottom:1px solid #333;
-    padding:15px 30px;
-
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
+    padding-top:80px;
 }
 
 .logo{
     font-size:1.4rem;
     font-weight:bold;
     color:var(--gold);
-}
-
-.nav-links{
-    display:flex;
-    gap:15px;
-}
-
-.nav-links a{
-    text-decoration:none;
-    color:white;
-    padding:8px 14px;
-    border-radius:8px;
-    transition:.2s;
-}
-
-.nav-links a:hover{
-    background:var(--gold);
-    color:black;
 }
 
 .hero{

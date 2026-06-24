@@ -6,9 +6,20 @@
 
     <title>Pokemon Tracker</title>
 
+    <link rel="stylesheet" href="../navbar.css">
     <link rel="stylesheet" href="style.css" />
 </head>
 <body class="pokemon-page">
+
+    <div id="navbar"></div>
+
+    <script>
+    fetch('../navbar.html')
+        .then(res => res.text())
+        .then(data => {
+            document.getElementById('navbar').innerHTML = data;
+        });
+    </script>
 
     <h1>Pokemon HOME Tracker</h1>
 
@@ -18,8 +29,6 @@
             <span id="clear-search">✕</span>
         </div>
     </div>
-
-    <a id="home-icon" href="collectionhub.html" title="Home">🏠</a>
 
     <div id="progress-container"></div>
 

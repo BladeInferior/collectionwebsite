@@ -1,0 +1,54 @@
+.site-nav {
+    background: linear-gradient(
+        to bottom,
+        #242424,
+        #1a1a1a
+    );
+
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1001;
+
+    padding: 15px 30px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+
+    box-sizing: border-box;
+}
+
+.site-logo {
+    font-size: 1.4rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: #d4af37;
+}
+
+.site-logo:hover {
+    opacity: 0.8;
+}
+
+.site-nav-links {
+    display: flex;
+    gap: 15px;
+}
+
+.site-nav-links a {
+    color: white;
+    text-decoration: none;
+    padding: 8px 14px;
+    border-radius: 8px;
+    transition: 0.2s;
+}
+
+.site-nav-links a:hover {
+    background: #d4af37;
+    color: black;
+}

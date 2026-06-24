@@ -9,12 +9,21 @@
     <link rel="apple-touch-icon" href="icons/app-icon.png">
     <link rel="icon" type="image/png" href="icons/app-icon.png">
 
+    <link rel="stylesheet" href="../navbar.css">
     <link rel="stylesheet" href="style.css" />
 </head>
 
 <body class="home-page">
 
-    <a id="home-icon" href="../index.html" title="Home">🏠</a>
+    <div id="navbar"></div>
+
+    <script>
+    fetch('../navbar.html')
+        .then(res => res.text())
+        .then(data => {
+            document.getElementById('navbar').innerHTML = data;
+        });
+    </script>
 
     <h1>Collection Hub</h1>
 
