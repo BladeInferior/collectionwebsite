@@ -2,7 +2,7 @@
   {
     "title": "1. The Walking Dead: Season Two",
     "dateCompleted": "2016-06-20",
-    "undefined": "The Walking Dead",
+    "franchise": "The Walking Dead",
     "tags": [
       "Telltale",
       "One"
@@ -11,7 +11,7 @@
   {
     "title": "2. The Walking Dead: A New Frontier",
     "dateCompleted": "2017-06-20",
-    "undefined": "The Walking Dead",
+    "franchise": "The Walking Dead",
     "tags": [
       "Telltale",
       "One"
@@ -20,7 +20,7 @@
   {
     "title": "3. Sleeping Dogs: Definitive Edition",
     "dateCompleted": "2023-11-09",
-    "undefined": "Sleeping Dogs",
+    "franchise": "Sleeping Dogs",
     "tags": [
       "One"
     ]
@@ -28,7 +28,7 @@
   {
     "title": "4. DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition",
     "dateCompleted": "2023-11-16",
-    "undefined": "Dragon Quest",
+    "franchise": "Dragon Quest",
     "tags": [
       "JRPG",
       "One"
@@ -37,7 +37,7 @@
   {
     "title": "5. Cocoon",
     "dateCompleted": "2024-01-08",
-    "undefined": "Cocoon",
+    "franchise": "Cocoon",
     "tags": [
       "Puzzle",
       "Gamepass",
@@ -47,7 +47,7 @@
   {
     "title": "6. Watch_Dogs 2",
     "dateCompleted": "2024-01-08",
-    "undefined": "Watch Dogs",
+    "franchise": "Watch Dogs",
     "tags": [
       "DLC available",
       "One"
@@ -56,7 +56,7 @@
   {
     "title": "7. HITMAN World of Assassination",
     "dateCompleted": "2024-01-11",
-    "undefined": "Hitman",
+    "franchise": "Hitman",
     "tags": [
       "Broken",
       "Series X"
@@ -65,7 +65,7 @@
   {
     "title": "8. Turnip Boy Robs a Bank",
     "dateCompleted": "2024-01-21",
-    "undefined": "Turnip Boy",
+    "franchise": "Turnip Boy",
     "tags": [
       "Gamepass",
       "One"
@@ -74,7 +74,7 @@
   {
     "title": "9. Goat Simulator 3",
     "dateCompleted": "2024-01-29",
-    "undefined": "Goat Simulator",
+    "franchise": "Goat Simulator",
     "tags": [
       "Gamepass",
       "DLC available",
@@ -84,7 +84,7 @@
   {
     "title": "10. Star Wars Battlefront II",
     "dateCompleted": "2024-01-31",
-    "undefined": "Star Wars",
+    "franchise": "Star Wars",
     "tags": [
       "EA",
       "One"
@@ -93,7 +93,7 @@
   {
     "title": "11. Lego Marvel Super Heroes",
     "dateCompleted": "2024-02-16",
-    "undefined": "Marvel",
+    "franchise": "Marvel",
     "tags": [
       "Lego",
       "Broken",
@@ -103,7 +103,7 @@
   {
     "title": "12. Minecraft",
     "dateCompleted": "2024-02-23",
-    "undefined": "Minecraft",
+    "franchise": "Minecraft",
     "tags": [
       "DLC",
       "One"
@@ -118,7 +118,7 @@
   {
     "title": "13. Assassin's Creed Syndicate",
     "dateCompleted": "2024-02-25",
-    "undefined": "Assasin's Creed",
+    "franchise": "Assasin's Creed",
     "tags": [
       "One"
     ]
@@ -126,7 +126,7 @@
   {
     "title": "14. Peggle 2",
     "dateCompleted": "2024-02-25",
-    "undefined": "Peggle",
+    "franchise": "Peggle",
     "tags": [
       "Gamepass",
       "One"
@@ -135,7 +135,7 @@
   {
     "title": "15. Portal 2",
     "dateCompleted": "2024-03-01",
-    "undefined": "Portal",
+    "franchise": "Portal",
     "tags": [
       "360"
     ]
@@ -143,7 +143,7 @@
   {
     "title": "16. SUPERHOT",
     "dateCompleted": "2024-03-01",
-    "undefined": "SUPERHOT",
+    "franchise": "SUPERHOT",
     "tags": [
       "One"
     ]
@@ -151,7 +151,7 @@
   {
     "title": "17. LEGO Star Wars: The Skywalker Saga",
     "dateCompleted": "2024-03-12",
-    "undefined": "Star Wars",
+    "franchise": "Star Wars",
     "tags": [
       "Lego",
       "Series X"
@@ -160,7 +160,7 @@
   {
     "title": "18. Unpacking",
     "dateCompleted": "2024-03-18",
-    "undefined": "Unpacking",
+    "franchise": "Unpacking",
     "tags": [
       "Gamepass",
       "One"
@@ -169,7 +169,7 @@
   {
     "title": "19. SUPERHOT: MIND CONTROL DELETE",
     "dateCompleted": "2024-04-18",
-    "undefined": "SUPERHOT",
+    "franchise": "SUPERHOT",
     "tags": [
       "Gamepass",
       "One"
@@ -178,7 +178,7 @@
   {
     "title": "20. DEATHLOOP",
     "dateCompleted": "2024-05-24",
-    "undefined": "DEATHLOOP",
+    "franchise": "DEATHLOOP",
     "tags": [
       "Gamepass",
       "Series X"
@@ -187,7 +187,7 @@
   {
     "title": "21. High on Life",
     "dateCompleted": "2024-06-10",
-    "undefined": "High on Life",
+    "franchise": "High on Life",
     "tags": [
       "Gamepass",
       "DLC available",
@@ -197,7 +197,7 @@
   {
     "title": "22. Rocket League",
     "dateCompleted": "2024-06-14",
-    "undefined": "Rocket League",
+    "franchise": "Rocket League",
     "tags": [
       "One"
     ]
@@ -205,7 +205,7 @@
   {
     "title": "23. Botany Manor",
     "dateCompleted": "2024-06-17",
-    "undefined": "Botany Manor",
+    "franchise": "Botany Manor",
     "tags": [
       "Gamepass",
       "Series X"
@@ -214,7 +214,7 @@
   {
     "title": "24. Humanity",
     "dateCompleted": "2024-06-22",
-    "undefined": "Humanity",
+    "franchise": "Humanity",
     "tags": [
       "Gamepass",
       "Series X"
@@ -223,7 +223,7 @@
   {
     "title": "25. Brotato",
     "dateCompleted": "2024-08-10",
-    "undefined": "Brotato",
+    "franchise": "Brotato",
     "tags": [
       "DLC",
       "Gamepass",
@@ -238,7 +238,7 @@
   {
     "title": "26. LEGO The Incredibles",
     "dateCompleted": "2024-08-12",
-    "undefined": "The Incredibles",
+    "franchise": "The Incredibles",
     "tags": [
       "LEGO",
       "One"
@@ -247,7 +247,7 @@
   {
     "title": "27. Gang Beasts",
     "dateCompleted": "2024-08-16",
-    "undefined": "Gang Beasts",
+    "franchise": "Gang Beasts",
     "tags": [
       "Gamepass",
       "One"
@@ -256,7 +256,7 @@
   {
     "title": "28. Mafia: Definitive Edition",
     "dateCompleted": "2024-08-20",
-    "undefined": "Mafia",
+    "franchise": "Mafia",
     "tags": [
       "Gamepass",
       "One"
@@ -265,7 +265,7 @@
   {
     "title": "29. Star Wars Outlaws",
     "dateCompleted": "2024-09-11",
-    "undefined": "Star Wars",
+    "franchise": "Star Wars",
     "tags": [
       "DLC",
       "Series X"
@@ -278,7 +278,7 @@
   {
     "title": "30. Mafia II: Definitive Edition",
     "dateCompleted": "2024-09-17",
-    "undefined": "Mafia",
+    "franchise": "Mafia",
     "tags": [
       "One"
     ]
@@ -286,7 +286,7 @@
   {
     "title": "31. PowerWash Simulator",
     "dateCompleted": "2024-10-01",
-    "undefined": "PowerWash Simulator",
+    "franchise": "PowerWash Simulator",
     "tags": [
       "Simulator",
       "Gamepass",
@@ -297,7 +297,7 @@
   {
     "title": "32. Star Wars: The Force Unleashed",
     "dateCompleted": "2024-10-04",
-    "undefined": "Star Wars",
+    "franchise": "Star Wars",
     "tags": [
       "DLC available",
       "360"
@@ -306,7 +306,7 @@
   {
     "title": "33. Superliminal",
     "dateCompleted": "2024-10-11",
-    "undefined": "Superliminal",
+    "franchise": "Superliminal",
     "tags": [
       "Puzzle",
       "Gamepass",
@@ -316,7 +316,7 @@
   {
     "title": "34. A Little to the Left",
     "dateCompleted": "2024-10-18",
-    "undefined": "A Little to the Left",
+    "franchise": "A Little to the Left",
     "tags": [
       "Puzzle",
       "Gamepass",
@@ -326,7 +326,7 @@
   {
     "title": "35. Somerville",
     "dateCompleted": "2024-11-11",
-    "undefined": "Somerville",
+    "franchise": "Somerville",
     "tags": [
       "Gamepass",
       "Series X"
@@ -335,7 +335,7 @@
   {
     "title": "36. LEGO Indiana Jones: Original Adventures",
     "dateCompleted": "2024-11-25",
-    "undefined": "Indiana Jones",
+    "franchise": "Indiana Jones",
     "tags": [
       "LEGO",
       "360"
@@ -344,7 +344,7 @@
   {
     "title": "37. Party Animals",
     "dateCompleted": "2024-12-03",
-    "undefined": "Party Animals",
+    "franchise": "Party Animals",
     "tags": [
       "Gamepass",
       "DLC available",
@@ -354,7 +354,7 @@
   {
     "title": "38. Assassin's Creed Mirage",
     "dateCompleted": "2024-12-14",
-    "undefined": "Assassin's Creed",
+    "franchise": "Assassin's Creed",
     "tags": [
       "DLC",
       "Series X"
@@ -366,7 +366,7 @@
   {
     "title": "39. Grand Theft Auto V",
     "dateCompleted": "2024-12-16",
-    "undefined": "Grand Theft Auto",
+    "franchise": "Grand Theft Auto",
     "tags": [
       "One"
     ]
@@ -374,7 +374,7 @@
   {
     "title": "40. Donut County",
     "dateCompleted": "2024-12-21",
-    "undefined": "Donut County",
+    "franchise": "Donut County",
     "tags": [
       "Gamepass",
       "One"
@@ -383,7 +383,7 @@
   {
     "title": "41. Watch Dogs: Legion",
     "dateCompleted": "2024-12-30",
-    "undefined": "Watch Dogs",
+    "franchise": "Watch Dogs",
     "tags": [
       "One"
     ]
@@ -391,7 +391,7 @@
   {
     "title": "42. Marvel Rivals",
     "dateCompleted": "2025-01-08",
-    "undefined": "Marvel",
+    "franchise": "Marvel",
     "tags": [
       "DLC",
       "Series X"
@@ -405,7 +405,7 @@
   {
     "title": "43. Star Wars Jedi: Fallen Order",
     "dateCompleted": "2025-01-17",
-    "undefined": "Star Wars",
+    "franchise": "Star Wars",
     "tags": [
       "Series X"
     ]
@@ -413,7 +413,7 @@
   {
     "title": "44. Star Wars Jedi: Survivor",
     "dateCompleted": "2025-01-23",
-    "undefined": "Star Wars",
+    "franchise": "Star Wars",
     "tags": [
       "Series X"
     ]
@@ -421,7 +421,7 @@
   {
     "title": "45. LEGO Star Wars: The Complete Saga",
     "dateCompleted": "2025-01-29",
-    "undefined": "Star Wars",
+    "franchise": "Star Wars",
     "tags": [
       "LEGO",
       "360"
@@ -430,7 +430,7 @@
   {
     "title": "46. Indiana Jones and the Great Circle",
     "dateCompleted": "2025-02-07",
-    "undefined": "Indiana Jones",
+    "franchise": "Indiana Jones",
     "tags": [
       "Gamepass",
       "DLC available",
@@ -440,7 +440,7 @@
   {
     "title": "47. MultiVersus",
     "dateCompleted": "2025-02-09",
-    "undefined": "MultiVersus",
+    "franchise": "MultiVersus",
     "tags": [
       "Series X"
     ]
@@ -448,7 +448,7 @@
   {
     "title": "48. Golf With Your Friends",
     "dateCompleted": "2025-02-20",
-    "undefined": "Golf With Your Friends",
+    "franchise": "Golf With Your Friends",
     "tags": [
       "Sport",
       "DLC available",
@@ -458,7 +458,7 @@
   {
     "title": "49. Lonely Mountains: Snow Riders",
     "dateCompleted": "2025-02-21",
-    "undefined": "Lonely Mountains",
+    "franchise": "Lonely Mountains",
     "tags": [
       "Sport",
       "Gamepass",
@@ -473,7 +473,7 @@
   {
     "title": "50. DRAGON QUEST III HD-2D Remake",
     "dateCompleted": "2025-03-13",
-    "undefined": "Dragon Quest",
+    "franchise": "Dragon Quest",
     "tags": [
       "Series X"
     ]
@@ -481,7 +481,7 @@
   {
     "title": "51. Sid Meier's Civilization Revolution",
     "dateCompleted": "2025-03-14",
-    "undefined": "Civilization",
+    "franchise": "Civilization",
     "tags": [
       "360"
     ]
@@ -489,7 +489,7 @@
   {
     "title": "52. Lil Gator Game",
     "dateCompleted": "2025-03-21",
-    "undefined": "Lil Gator Game",
+    "franchise": "Lil Gator Game",
     "tags": [
       "Gamepass",
       "DLC available",
@@ -499,7 +499,7 @@
   {
     "title": "53. Sunset Overdrive",
     "dateCompleted": "2025-03-25",
-    "undefined": "Sunset Overdrive",
+    "franchise": "Sunset Overdrive",
     "tags": [
       "DLC available",
       "One"
@@ -508,7 +508,7 @@
   {
     "title": "54. Assassin's Creed Shadows",
     "dateCompleted": "2025-04-03",
-    "undefined": "Assassin's Creed",
+    "franchise": "Assassin's Creed",
     "tags": [
       "DLC available",
       "Series X"
@@ -521,7 +521,7 @@
   {
     "title": "55. Assassin's Creed Odyssey",
     "dateCompleted": "2025-04-16",
-    "undefined": "Assassin's Creed",
+    "franchise": "Assassin's Creed",
     "tags": [
       "One"
     ]
@@ -529,7 +529,7 @@
   {
     "title": "56. Hidden Cats in London",
     "dateCompleted": "2025-04-29",
-    "undefined": "Hidden Cats",
+    "franchise": "Hidden Cats",
     "tags": [
       "Puzzle",
       "One"
@@ -538,7 +538,7 @@
   {
     "title": "57. Chants of Sennaar",
     "dateCompleted": "2025-05-02",
-    "undefined": "Chants of Sennaar",
+    "franchise": "Chants of Sennaar",
     "tags": [
       "Puzzle",
       "Gamepass",
@@ -548,7 +548,7 @@
   {
     "title": "58. Little Kitty, Big City",
     "dateCompleted": "2025-05-06",
-    "undefined": "Little Kitty, Big City",
+    "franchise": "Little Kitty, Big City",
     "tags": [
       "Gamepass",
       "Series X"
@@ -557,7 +557,7 @@
   {
     "title": "59. DOOM: The Dark Ages",
     "dateCompleted": "2025-05-25",
-    "undefined": "DOOM",
+    "franchise": "DOOM",
     "tags": [
       "Gamepass",
       "DLC available",
@@ -567,7 +567,7 @@
   {
     "title": "60. TopSpin 2K25",
     "dateCompleted": "2025-05-31",
-    "undefined": "TopSpin",
+    "franchise": "TopSpin",
     "tags": [
       "Sport",
       "Series X"
@@ -577,7 +577,7 @@
   {
     "title": "61. Tempopo",
     "dateCompleted": "2025-06-13",
-    "undefined": "Tempopo",
+    "franchise": "Tempopo",
     "tags": [
       "Puzzle",
       "Gamepass",
@@ -587,7 +587,7 @@
   {
     "title": "62. Human Fall Flat",
     "dateCompleted": "2025-06-13",
-    "undefined": "Human Fall Flat",
+    "franchise": "Human Fall Flat",
     "tags": [
       "Puzzle",
       "Gamepass",
@@ -600,7 +600,7 @@
   {
     "title": "63. Gone Home: Console Edition",
     "dateCompleted": "2025-06-19",
-    "undefined": "Gone Home",
+    "franchise": "Gone Home",
     "tags": [
       "Puzzle",
       "One"
@@ -609,7 +609,7 @@
   {
     "title": "64. Star Wars Battlefront",
     "dateCompleted": "2025-06-26",
-    "undefined": "Star Wars",
+    "franchise": "Star Wars",
     "tags": [
       "EA",
       "One"
@@ -618,7 +618,7 @@
   {
     "title": "65. Hogwarts Legacy",
     "dateCompleted": "2025-07-09",
-    "undefined": "Harry Potter",
+    "franchise": "Harry Potter",
     "tags": [
       "Series X"
     ]
@@ -626,7 +626,7 @@
   {
     "title": "66. Crypt Custodian",
     "dateCompleted": "2025-07-10",
-    "undefined": "Crypt Custodian",
+    "franchise": "Crypt Custodian",
     "tags": [
       "Gamepass",
       "Series X"
@@ -635,7 +635,7 @@
   {
     "title": "67. Mafia: The Old Country",
     "dateCompleted": "2025-08-18",
-    "undefined": "Mafia",
+    "franchise": "Mafia",
     "tags": [
       "DLC available",
       "Series X"
@@ -647,7 +647,7 @@
   {
     "title": "68. Sifu",
     "dateCompleted": "2025-08-25",
-    "undefined": "Sifu",
+    "franchise": "Sifu",
     "tags": [
       "Gamepass",
       "Series X"
@@ -656,7 +656,7 @@
   {
     "title": "69. HITMAN",
     "dateCompleted": "2025-08-28",
-    "undefined": "Hitman",
+    "franchise": "Hitman",
     "tags": [
       "One"
     ]
@@ -664,7 +664,7 @@
   {
     "title": "70. The Walking Dead",
     "dateCompleted": "2025-09-03",
-    "undefined": "The Walking Dead",
+    "franchise": "The Walking Dead",
     "tags": [
       "Telltale",
       "One"
@@ -673,7 +673,7 @@
   {
     "title": "71. The Golf Club 2019",
     "dateCompleted": "2025-09-26",
-    "undefined": "The Golf Club",
+    "franchise": "The Golf Club",
     "tags": [
       "Sport",
       "Broken",
@@ -683,7 +683,7 @@
   {
     "title": "72. OddBallers",
     "dateCompleted": "2025-10-13",
-    "undefined": "OddBallers",
+    "franchise": "OddBallers",
     "tags": [
       "Gamepass",
       "Series X"
@@ -692,7 +692,7 @@
   {
     "title": "73. Spray Paint Simulator",
     "dateCompleted": "2025-10-15",
-    "undefined": "Spray Paint Simulator",
+    "franchise": "Spray Paint Simulator",
     "tags": [
       "Simulator",
       "Gamepass",
@@ -702,7 +702,7 @@
   {
     "title": "74. MONOPOLY 2024",
     "dateCompleted": "2025-11-29",
-    "undefined": "Monopoly",
+    "franchise": "Monopoly",
     "tags": [
       "Gamepass",
       "Series X"
@@ -711,7 +711,7 @@
   {
     "title": "75. MARVEL Cosmic Invasion",
     "dateCompleted": "2025-12-05",
-    "undefined": "Marvel",
+    "franchise": "Marvel",
     "tags": [
       "Gamepass",
       "Series X"
@@ -720,7 +720,7 @@
   {
     "title": "76. REMATCH",
     "dateCompleted": "2025-12-29",
-    "undefined": "REMATCH",
+    "franchise": "REMATCH",
     "tags": [
       "Sport",
       "Gamepass",
@@ -730,7 +730,7 @@
   {
     "title": "77. Hidden Cats in Santa's Realm",
     "dateCompleted": "2025-12-29",
-    "undefined": "Hidden Cats",
+    "franchise": "Hidden Cats",
     "tags": [
       "Puzzle",
       "Series X"
@@ -739,7 +739,7 @@
   {
     "title": "78. PowerWash Simulator 2",
     "dateCompleted": "2025-12-29",
-    "undefined": "PowerWash Simulator",
+    "franchise": "PowerWash Simulator",
     "tags": [
       "Simulator",
       "Gamepass",
@@ -750,7 +750,7 @@
   {
     "title": "79. Flintlock: The Siege of Dawn",
     "dateCompleted": "2026-01-06",
-    "undefined": "Flintlock",
+    "franchise": "Flintlock",
     "tags": [
       "Gamepass",
       "Series X"
@@ -759,7 +759,7 @@
   {
     "title": "80. Dungeon Defenders",
     "dateCompleted": "2026-01-11",
-    "undefined": "Dungeon Defenders",
+    "franchise": "Dungeon Defenders",
     "tags": [
       "360"
     ]
@@ -767,7 +767,7 @@
   {
     "title": "81. Balatro",
     "dateCompleted": "2026-01-18",
-    "undefined": "Balatro",
+    "franchise": "Balatro",
     "tags": [
       "Gamepass",
       "Series X"
@@ -776,7 +776,7 @@
   {
     "title": "82. Microsoft Solitaire Collection",
     "dateCompleted": "2026-01-18",
-    "undefined": "Microsoft Collection",
+    "franchise": "Microsoft Collection",
     "tags": [
       "Puzzle",
       "Gamepass",
@@ -786,7 +786,7 @@
   {
     "title": "83. DRAGON QUEST I & II HD-2D Remake",
     "dateCompleted": "2026-01-23",
-    "undefined": "Dragon Quest",
+    "franchise": "Dragon Quest",
     "tags": [
       "Series X"
     ]
@@ -794,7 +794,7 @@
   {
     "title": "84. DRAGON QUEST VII Reimagined",
     "dateCompleted": "2026-02-15",
-    "undefined": "Dragon Quest",
+    "franchise": "Dragon Quest",
     "tags": [
       "Series X"
     ]
@@ -802,7 +802,7 @@
   {
     "title": "85. High On Life 2",
     "dateCompleted": "2026-02-17",
-    "undefined": "High On Life",
+    "franchise": "High On Life",
     "tags": [
       "Gamepass",
       "Series X"
@@ -811,7 +811,7 @@
   {
     "title": "86. Avatar: Frontiers of Pandora",
     "dateCompleted": "2026-02-25",
-    "undefined": "Avatar",
+    "franchise": "Avatar",
     "tags": [
       "Gamepass",
       "DLC available",
@@ -821,7 +821,7 @@
   {
     "title": "87. CloverPit",
     "dateCompleted": "2026-04-13",
-    "undefined": "CloverPit",
+    "franchise": "CloverPit",
     "tags": [
       "Gamepass",
       "Series X"
@@ -830,7 +830,7 @@
   {
     "title": "88. TCG Card Shop Simulator",
     "dateCompleted": "2026-04-13",
-    "undefined": "TCG Card Shop Simulator",
+    "franchise": "TCG Card Shop Simulator",
     "tags": [
       "Simulator",
       "Gamepass",
@@ -840,7 +840,7 @@
   {
     "title": "89. Goat Simulator: Remastered",
     "dateCompleted": "2026-04-22",
-    "undefined": "Goat Simulator",
+    "franchise": "Goat Simulator",
     "tags": [
       "Simulator",
       "Gamepass",
@@ -850,7 +850,7 @@
   {
     "title": "90. Kiln",
     "dateCompleted": "2026-04-26",
-    "undefined": "Kiln",
+    "franchise": "Kiln",
     "tags": [
       "Gamepass",
       "Series X"
@@ -859,7 +859,7 @@
   {
     "title": "91. Hades",
     "dateCompleted": "2026-05-01",
-    "undefined": "Hades",
+    "franchise": "Hades",
     "tags": [
       "Gamepass",
       "Series X"
@@ -868,7 +868,7 @@
   {
     "title": "92. The Outer Worlds",
     "dateCompleted": "2026-05-09",
-    "undefined": "The Outer Worlds",
+    "franchise": "The Outer Worlds",
     "tags": [
       "Gamepass",
       "DLC available",
@@ -878,7 +878,7 @@
   {
     "title": "93. Assassin's Creed The Ezio Collection",
     "dateCompleted": "2026-05-12",
-    "undefined": "Assassin's Creed",
+    "franchise": "Assassin's Creed",
     "tags": [
       "Series X"
     ]
@@ -886,7 +886,7 @@
   {
     "title": "94. 007 First Light",
     "dateCompleted": "2026-05-28",
-    "undefined": "James Bond",
+    "franchise": "James Bond",
     "tags": [
       "Series X"
     ]
@@ -894,7 +894,7 @@
   {
     "title": "95. Ultimate Chicken Horse",
     "dateCompleted": "2026-06-19",
-    "undefined": "Ultimate Chicken Horse",
+    "franchise": "Ultimate Chicken Horse",
     "tags": [
       "Gamepass",
       "Series X"

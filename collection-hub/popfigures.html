@@ -42,7 +42,10 @@
         <span id="clear-search">✕</span>
     </div>
 
-    <button id="untagged-filter">Untagged</button>
+    <div id="popfigure-controls">
+        <button id="untagged-filter">Untagged</button>
+        <button id="toggle-front-image">Boxed</button>
+    </div>
 
     <!-- =========================
         MODE + PAGINATION 
@@ -88,8 +91,13 @@
             </label>
 
             <label>
-                Release Date
-                <input type="date" id="item-date">
+                Image names (comma separated)
+                <input type="text" id="item-images">
+            </label>
+
+            <label>
+                Variant
+                <input type="text" id="item-date" placeholder="e.g. Common, Chase, Glow">
             </label>
 
             <label>
@@ -125,15 +133,23 @@
             <div class="modal-left">
 
                 <div id="modal-title"></div>
+                
+                <div class="modal-image-wrapper">
 
-                <img id="modal-image" src="">
+                    <button id="image-prev" class="image-nav">◀</button>
+
+                        <img id="modal-image" src="">
+
+                    <button id="image-next" class="image-nav">▶</button>
+
+                </div>
 
             </div>
 
             <div class="modal-right">
 
                 <div class="item-field">
-                    <strong>Release Date:</strong>
+                    <strong>Variant:</strong>
                     <div id="modal-date"></div>
                 </div>
 
@@ -175,8 +191,8 @@
 
         fields: {
             title: "title",
-            date: "releaseDate",
-            secondary: "franchise",
+            date: "variant",
+            custom: "franchise",
             tags: "tags"
         }
     };

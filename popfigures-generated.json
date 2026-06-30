@@ -1,0 +1,926 @@
+[
+  {
+    "title": "01. Batman",
+    "images": [
+      "01batmanbox",
+      "01batmanout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "02. Cookiemonster",
+    "images": [
+      "02cookiemonsterbox",
+      "02cookiemonsterout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "07. Rubeushagrid",
+    "images": [
+      "07rubeushagridout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "08. Bobafett",
+    "images": [
+      "08bobafettbox",
+      "08bobafettout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "1014. Lom",
+    "images": [
+      "1014lombox",
+      "1014lomout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "103. Ig",
+    "images": [
+      "103ig88box",
+      "103ig88out"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "1047. Moonknightgitd",
+    "images": [
+      "1047moonknightgitdbox",
+      "1047moonknightgitdglow",
+      "1047moonknightgitdout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "1049. Khonshugitd",
+    "images": [
+      "1049khonshugitdbox",
+      "1049khonshugitdglow",
+      "1049khonshugitdout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "111. Postmlaone",
+    "images": [
+      "111postmlaonebox",
+      "111postmaloneout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "120. Daredevil",
+    "images": [
+      "120daredevilbox",
+      "120daredevilout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "1221. Mattmurdock",
+    "images": [
+      "1221mattmurdockbox",
+      "1221mattmurdockout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "124. Smaug",
+    "images": [
+      "124smaugbox",
+      "124smaugout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "126. Lukeskywalkerhood",
+    "images": [
+      "126lukeskywalkerhoodbox",
+      "126lukeskywalkerhoodout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "128. Quigonjinngitd",
+    "images": [
+      "128quigonjinngitdbox",
+      "128quigonjinngitdout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "129. Generalgrievous",
+    "images": [
+      "129generalgrievousbox",
+      "129generalgrievousout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "130. Ahsoka",
+    "images": [
+      "130ahsokabox",
+      "130ahsokaout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "132. Kanan",
+    "images": [
+      "132kananbox",
+      "132kananout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "134. Ezra",
+    "images": [
+      "134ezrabox",
+      "134ezraout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "1351. Tedlasso",
+    "images": [
+      "1351tedlassobox",
+      "1351tedlassoout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "1357. Tedlasso",
+    "images": [
+      "1357tedlassobox",
+      "1357tedlassoout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "136. Hera",
+    "images": [
+      "136herabox",
+      "136heraout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "1408. Soldierboy",
+    "images": [
+      "1408soldierboybox"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "141. Evilmorty",
+    "images": [
+      "141evilmortybox",
+      "141evilmortyout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "144. Batman",
+    "images": [
+      "144batmanbox",
+      "144batmanout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "1509. Mrincrediblechase",
+    "images": [
+      "1509mrincrediblechasebox",
+      "1509mrincrediblebox",
+      "1509mrincrediblechaseout",
+      "1509mrincredibleout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "161. Negativebatman",
+    "images": [
+      "161negativebatmanbox",
+      "161negativebatmanout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "164. Northpolecamobatman",
+    "images": [
+      "164northpolecamobatmanbox",
+      "164northpolecamobatmanout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "169. Doctorstrange",
+    "images": [
+      "169doctorstrangebox",
+      "169doctorstrangeout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "1712. Blackdinothunderranger",
+    "images": [
+      "1712blackdinothunderrangerbox",
+      "1712blackdinothunderrangerout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "19. Silversurfer",
+    "images": [
+      "19silversurferbox",
+      "19silversurferout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "2. Packpongkrellvscaptainrex",
+    "images": [
+      "2packpongkrellvscaptainrexbox",
+      "2packbullseyedaredevilbox",
+      "2packbullseyedaredevilout",
+      "2packpongkrellvscaptainrexout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "216. Punisher",
+    "images": [
+      "216punisherbox",
+      "216punisherout.jpg"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "220. Yellowlanternbatmangitd",
+    "images": [
+      "220yellowlanternbatmangitdbox",
+      "220yellowlanternbatmangitdglow",
+      "220yellowlanternbatmangitdout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "230. Dengar",
+    "images": [
+      "230dengarbox",
+      "230dengarout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "240. Dipperpineschase",
+    "images": [
+      "240dipperpineschase"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "241. Hulk",
+    "images": [
+      "241hulkbox",
+      "241hulkout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "264. Groot",
+    "images": [
+      "264grootbox",
+      "264grootout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "272. Alfredolinguni",
+    "images": [
+      "272alfredolingunibox",
+      "272alfredolinguniout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "273. Jacksparrow",
+    "images": [
+      "273jacksparrowbox",
+      "273jacksparrowout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "284. Sonicwithemerald",
+    "images": [
+      "284sonicwithemeraldbox",
+      "284sonicwithemeraldout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "294. Hulkbuster",
+    "images": [
+      "294hulkbusterbox",
+      "294hulkbusterout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "30. Wreckitralph",
+    "images": [
+      "30wreckitralphout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "307. Vision",
+    "images": [
+      "307visionbox",
+      "307visionout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "310. Yondu",
+    "images": [
+      "310yondubox",
+      "310yonduout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "312. Batmanredson",
+    "images": [
+      "312batmanredsonbox",
+      "312batmanredsonout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "33. Ghostridergitd",
+    "images": [
+      "33ghostridergitdbox",
+      "33ghostridergitdglow",
+      "33ghostridergitdout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "332. Picklerickwithlaser",
+    "images": [
+      "332picklerickwithlaserbox",
+      "332picklerickwithlaserout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "335. Toxicrickgitd",
+    "images": [
+      "335toxicrickgitdbox",
+      "335toxicrickgitdout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "35. Bossk",
+    "images": [
+      "35bosskbox",
+      "35bosskout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "350. Antman",
+    "images": [
+      "350antmanbox",
+      "350antmanout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "368. Frozone",
+    "images": [
+      "368frozonebox",
+      "368frozoneout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "390. Negan",
+    "images": [
+      "390neganbox",
+      "390neganout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "391. Daryldixon",
+    "images": [
+      "391daryldixonbox",
+      "391daryldixonout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "40. Holographicemperorgitd",
+    "images": [
+      "40holographicemperorgitdbox",
+      "40holographicemperorgitdout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "400. Walle",
+    "images": [
+      "400wallebox",
+      "400walleout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "402. Themandalorianwiththechild",
+    "images": [
+      "402themandalorianwiththechildbox",
+      "402themandalorianwiththechildout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "411. Garsaxon",
+    "images": [
+      "411garsaxonbox",
+      "411garsaxonout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "418. Buckybarnes",
+    "images": [
+      "418buckybarnesbox",
+      "418buckybarnesout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "43. Unmaskedvader",
+    "images": [
+      "43unmaskedvaderbox",
+      "43unmaskedvaderout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "443. Wrecker",
+    "images": [
+      "443wreckerbox",
+      "443wreckerout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "45. Remuslupin",
+    "images": [
+      "45remuslupinbox",
+      "45remuslupinout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "450. Darthmaul",
+    "images": [
+      "450darthmaulbox",
+      "450darthmaulout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "464. Valentine",
+    "images": [
+      "464valentinebox",
+      "464valentineout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "477. Mysteriowhelmet",
+    "images": [
+      "477mysteriowouthelmetbox",
+      "477mysteriowouthelmetout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "488. Jaguar",
+    "images": [
+      "488jaguarbox",
+      "488jaguarout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "491. Kevinmcallister",
+    "images": [
+      "491kevinmcallisterbox",
+      "491kevinmcallisterout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "50. Voyd",
+    "images": [
+      "50voydbox"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "509. Voyd",
+    "images": [
+      "509voydout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "53. Agentcoulson",
+    "images": [
+      "53agentcoulsonbox",
+      "53agentcoulsonout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "553. Gambit",
+    "images": [
+      "553gambitbox",
+      "553gambitout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "570. Drxenonbloom",
+    "images": [
+      "570drxenonbloombox",
+      "570drxenonbloomout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "58. Whitelanternbatmangitd",
+    "images": [
+      "58whitelanternbatmangitdbox",
+      "58cyclopsbox",
+      "58cyclopsout",
+      "58whitelanternbatmangitdglow",
+      "58whitelanternbatmangitdout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "61. Moaningmyrtlegitd",
+    "images": [
+      "61moaningmyrtlegitdbox",
+      "61moaningmyrtlegitdglow",
+      "61moaningmyrtlegitdout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "612. Darthvadervslukeskywalker",
+    "images": [
+      "612darthvadervslukeskywalkerbox",
+      "612darthvadervslukeskywalkerout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "614. Emperorpalpatine",
+    "images": [
+      "614emperorpalpatinebox",
+      "614emperorpalpatineout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "64. Basilisk",
+    "images": [
+      "64basiliskbox",
+      "64basiliskout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "68. Professorquirrell",
+    "images": [
+      "68professorquirrellbox",
+      "68professorquirrellout",
+      "68professorquirrellout2"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "687. Ironheartgitd",
+    "images": [
+      "687ironheartgitdbox",
+      "687ironheartgitdout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "709. Vashtaneradagitd",
+    "images": [
+      "709vashtaneradagitdbox",
+      "709vashtaneradagitdglow",
+      "709vashtaneradagitdout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "740. Darthmaulgitd",
+    "images": [
+      "740darthmaulgitdbox",
+      "740darthmaulgitdglow",
+      "740darthmaulgitdout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "777. Dinopool",
+    "images": [
+      "777dinopoolbox",
+      "777dinopoolout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "779. Ezrabridgerwithsithholocron",
+    "images": [
+      "779ezrabridgerwithsithholocronbox",
+      "779ezrabridgerwithsithholocronout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "80. Jacobfryeuncloaked",
+    "images": [
+      "80jacobfryeuncloakedbox",
+      "80jacobfryeuncloakedout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "82. Ronweasleyridingchesspiece",
+    "images": [
+      "82ronweasleyridingchesspiecebox",
+      "82ronweasleyridingchesspieceout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "824. Thevision",
+    "images": [
+      "824thevisionbox",
+      "824thevisionout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "86. Yellowjacketgitd",
+    "images": [
+      "86yellowjacketgitdbox",
+      "86yellowjacketbox",
+      "86yellowjacketgitdout",
+      "86yellowjacketout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "924. Takeshikovacsbirthkovacs",
+    "images": [
+      "924takeshikovacsbirthkovacsbox",
+      "924takeshikovacsbirthkovacsout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "925. Takeshikovacseliasryker",
+    "images": [
+      "925takeshikovacseliasrykerbox",
+      "925takeshikovacseliasrykerout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "926. Takeshikovacswedgesleeve",
+    "images": [
+      "926takeshikovacswedgesleevebox",
+      "926takeshikovacswedgesleeveout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "971. Daniellarusso",
+    "images": [
+      "971daniellarussobox",
+      "971daniellarussoout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  },
+  {
+    "title": "980. Starlightgitd",
+    "images": [
+      "980starlightgitdbox",
+      "980omegaredbox",
+      "980omegaredout",
+      "980starlightgitdglow",
+      "980starlightgitdout"
+    ],
+    "variant": "",
+    "franchise": "",
+    "tags": []
+  }
+]

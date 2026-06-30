@@ -1049,6 +1049,30 @@ h1 {
     color: #2ecc71;
 }
 
+#toggle-front-image {
+    padding: 6px 12px;
+    background: #2d2d2d;
+    border: 1px solid #555;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.2s ease;
+
+    margin-left: 18px;
+}
+
+#toggle-front-image.active {
+    background: rgba(46, 204, 113, 0.2);
+    border: 1px solid #2ecc71;
+    color: #2ecc71;
+}
+
+#popfigure-controls {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
 #github-icon {
     position: fixed;
     top: 20px;
@@ -1403,6 +1427,65 @@ body::before {
     border-color: gold;
     background: rgba(255, 215, 0, 0.15);
 }
+
+.modal-image-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+
+#image-prev,
+#image-next {
+    position: static;
+    transform: none;
+    background: transparent;
+    border: none;
+    font-size: 28px;
+    cursor: pointer;
+    color: white;
+}
+
+#modal-image {
+    display: block;
+    max-width: 260px;
+    max-height: 260px;
+    object-fit: contain;
+}
+
+.popfigures-page .pokemon-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+    display: block;
+}
+
+.popfigures-page #box-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.popfigures-page #game-filter-container {
+    display: none !important;
+}
+
+.sleeves-page.page-mode #box-container {
+    display: grid;
+    gap: 12px;
+    justify-content: center;
+}
+.sleeves-page.page-mode.first-page #box-container {
+    grid-template-columns: repeat(4, 150px);
+    max-width: none;
+}
+
+.sleeves-page.page-mode:not(.first-page) #box-container {
+    grid-template-columns: repeat(8, 150px);
+    max-width: none;
+}
+
+
 
 /**
 

@@ -17,6 +17,8 @@ const modalOverlay = document.getElementById("modal-overlay");
 const modalImage = document.getElementById("modal-image");
 const navLeft = document.getElementById("modal-nav-left");
 const navRight = document.getElementById("modal-nav-right");
+const imagesInput = document.getElementById("item-images");
+let useUnboxedImage = false;
 
 const dlcInput = document.getElementById("dlc-name");
 const dlcError = document.getElementById("dlc-error");
@@ -25,6 +27,8 @@ const deleteDlcList = document.getElementById("delete-dlc-list");
 
 let selectedDlcIndex = null;
 let currentDeleteItem = null;
+
+let currentImages = [];
 
 // collection-specific filter state
 let selectedNationality = null; // for sleeves: 'english','japanese','chinese' (mutually exclusive)
@@ -77,10 +81,13 @@ function getItemImagePath(name) {
         .toLowerCase()
         .replace(/[^a-z0-9]/g, "");
 
-    return {
-        base,
-        tryFormats: [".jpg", ".png", ".webp"]
-    };
+    let tryFormats = [".jpg", ".png", ".webp"];
+
+    if (COLLECTION.name === "popfigures") {
+        tryFormats = [".png"];
+    }
+
+    return { base, tryFormats };
 }
 
 function setItemImage(imgElement, name) {
@@ -247,7 +254,19 @@ function renderItems() {
         card.dataset.itemIndex = items.indexOf(item);
 
         const img = document.createElement("img");
-        setItemImage(img, item[COLLECTION.fields.title]);
+        if (COLLECTION.name === "popfigures" || COLLECTION.name === "steelbooks") {
+
+            const imgName = item.images?.[useUnboxedImage ? 1 : 0];
+
+            if (imgName) {
+                setItemImage(img, imgName);
+            } else {
+                setItemImage(img, item[COLLECTION.fields.title]);
+            }
+
+        } else {
+            setItemImage(img, item[COLLECTION.fields.title]);
+        }
 
         card.appendChild(img);
 
@@ -365,11 +384,41 @@ function openModal(index) {
 
     const item = items[index];
 
-    modalTitle.textContent = item[COLLECTION.fields.title];
-    setItemImage(modalImage, item[COLLECTION.fields.title]);
+   currentImages = [];
 
-    document.getElementById("modal-date").textContent =
-        formatDateDisplay(item[COLLECTION.fields.date]);
+    if (COLLECTION.name === "popfigures" || COLLECTION.name === "steelbooks") {
+
+        currentImages = item.images || [];
+        currentImageIndex = 0;
+        currentImageIndex = 0;
+
+        if (currentImages.length > 0) {
+            setItemImage(modalImage, currentImages[0]);
+
+            modalTitle.textContent =
+                `${item[COLLECTION.fields.title]} (1/${currentImages.length})`;
+        }
+        else {
+            setItemImage(modalImage, item[COLLECTION.fields.title]);
+        }
+
+        document.getElementById("image-prev").style.display =
+            currentImages.length > 1 ? "block" : "none";
+
+        document.getElementById("image-next").style.display =
+            currentImages.length > 1 ? "block" : "none";
+    }
+    else {
+        setItemImage(modalImage, item[COLLECTION.fields.title]);
+    }
+
+    if (COLLECTION.name === "popfigures") {
+        document.getElementById("modal-date").textContent =
+            item[COLLECTION.fields.date] || "";
+    } else {
+        document.getElementById("modal-date").textContent =
+            formatDateDisplay(item[COLLECTION.fields.date]);
+    }
 
     document.getElementById("modal-custom").textContent =
         item[COLLECTION.fields.custom] || "";
@@ -534,6 +583,10 @@ document.getElementById("add-item").addEventListener("click", () => {
 
     delete addModal.dataset.editIndex;
 
+    if (COLLECTION.name === "popfigures") {
+        imagesInput.value = "";
+    }
+
     titleInput.value = "";
     dateInput.value = "";
     customInput.value = "";
@@ -549,6 +602,7 @@ document.getElementById("save-item").addEventListener("click", () => {
     const date = dateInput.value.trim();
     const custom = customInput.value.trim();
     const tagsRaw = tagsInput.value.trim();
+    let images = [];
 
     const tags = tagsRaw
         ? tagsRaw.split(",").map(t => t.trim()).filter(Boolean)
@@ -572,6 +626,15 @@ document.getElementById("save-item").addEventListener("click", () => {
     itemData[COLLECTION.fields.custom] = custom;
     itemData[COLLECTION.fields.tags] = tags;
 
+    if (COLLECTION.name === "popfigures" || COLLECTION.name === "steelbooks") {
+
+        const rawImages = imagesInput.value.trim();
+
+        itemData.images = rawImages
+            ? rawImages.split(",").map(x => x.trim()).filter(Boolean)
+            : [];
+    }
+
     if (editIndex !== undefined && editIndex !== "") {
         items[editIndex] = itemData;
     } else {
@@ -585,6 +648,15 @@ document.getElementById("save-item").addEventListener("click", () => {
     renderItems();
 
     addModal.classList.add("hidden");
+});
+
+document.addEventListener("keydown", (e) => {
+    if (addModal.classList.contains("hidden")) return;
+
+    if (e.key === "Enter") {
+        e.preventDefault();
+        document.getElementById("save-item").click();
+    }
 });
 
 // CANCEL
@@ -612,8 +684,17 @@ document.getElementById("edit-item").addEventListener("click", () => {
     const index = modalOverlay.dataset.index;
     const item = items[index];
 
+    if (COLLECTION.name === "popfigures" || COLLECTION.name === "steelbooks") {
+        imagesInput.value = (item.images || []).join(", ");
+    }
+
     titleInput.value = item[COLLECTION.fields.title];
-    dateInput.value = formatDateForInput(item[COLLECTION.fields.date]);
+    
+    if (COLLECTION.name === "popfigures") {
+        dateInput.value = item[COLLECTION.fields.date] || "";
+    } else {
+        dateInput.value = formatDateForInput(item[COLLECTION.fields.date]);
+    }
     tagsInput.value = (item[COLLECTION.fields.tags] || []).join(", ");
     customInput.value = item[COLLECTION.fields.custom];
     const tagsContainer = document.getElementById("modal-tags");
@@ -863,12 +944,21 @@ function filterItems(query) {
 }
 
 previewBtn.addEventListener("click", () => {
+
     const index = addModal.dataset.editIndex;
     if (index === undefined) return;
 
     const item = items[index];
 
-    setItemImage(zoomImage, item[COLLECTION.fields.title]);
+    if (
+        (COLLECTION.name === "popfigures" || COLLECTION.name === "steelbooks")
+        && item.images?.length
+    ) {
+        setItemImage(zoomImage, item.images[0]);
+    } else {
+        setItemImage(zoomImage, item[COLLECTION.fields.title]);
+    }
+
     imageZoomOverlay.classList.remove("hidden");
 });
 
@@ -886,13 +976,18 @@ untaggedBtn.addEventListener("click", () => {
 });
 
 function openAdjacent(offset) {
+
     const current = Number(modalOverlay.dataset.index);
+
     if (isNaN(current)) return;
 
     let next = current + offset;
 
-    if (next < 0) next = items.length - 1; // wrap
-    if (next >= items.length) next = 0;
+    if (next < 0)
+        next = items.length - 1;
+
+    if (next >= items.length)
+        next = 0;
 
     openModal(next);
 }
@@ -1059,3 +1154,48 @@ if (document.body.classList.contains("completions-page")) {
     });
 }
 
+document.getElementById("image-prev").addEventListener("click", e => {
+
+    e.stopPropagation();
+
+    if (currentImages.length <= 1) return;
+
+    currentImageIndex--;
+
+    if (currentImageIndex < 0)
+        currentImageIndex = currentImages.length - 1;
+
+    setItemImage(modalImage, currentImages[currentImageIndex]);
+
+    modalTitle.textContent =
+        `${items[modalOverlay.dataset.index][COLLECTION.fields.title]} (${currentImageIndex + 1}/${currentImages.length})`;
+});
+
+document.getElementById("image-next").addEventListener("click", e => {
+
+    e.stopPropagation();
+
+    if (currentImages.length <= 1) return;
+
+    currentImageIndex++;
+
+    if (currentImageIndex >= currentImages.length)
+        currentImageIndex = 0;
+
+    setItemImage(modalImage, currentImages[currentImageIndex]);
+
+    modalTitle.textContent =
+        `${items[modalOverlay.dataset.index][COLLECTION.fields.title]} (${currentImageIndex + 1}/${currentImages.length})`;
+});
+
+const toggleBtn = document.getElementById("toggle-front-image");
+
+if (toggleBtn) {
+    toggleBtn.addEventListener("click", () => {
+        useUnboxedImage = !useUnboxedImage;
+
+        toggleBtn.textContent = useUnboxedImage ? "Unboxed" : "Boxed";
+
+        renderItems();
+    });
+}

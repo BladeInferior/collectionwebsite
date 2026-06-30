@@ -84,7 +84,12 @@
 
             <label>
                 Title
-                <input type="text" id="item-title">
+                <input type="text" id="item-title" placeholder="e.g., 01. Batman">
+            </label>
+
+            <label>
+                Image names (comma separated)
+                <input type="text" id="item-images" placeholder="e.g., 01batmanbox, 01batmanout">
             </label>
 
             <label>
@@ -176,7 +181,7 @@
         fields: {
             title: "title",
             date: "releaseDate",
-            secondary: "franchise",
+            custom: "franchise",
             tags: "tags"
         }
     };
