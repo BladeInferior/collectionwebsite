@@ -1595,30 +1595,14 @@ body::before {
     .popfigures-page #box-container,
     .popfigures-page.list-mode #box-container,
     .sleeves-page.list-mode #box-container {
-        grid-template-columns: repeat(6, 1fr) !important;
+        grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)) !important;
         max-width: 100% !important;
-        gap: 6px !important;
-        padding: 10px !important;
-    }
-
-    .pokemon-card {
-        padding: 4px !important;
-    }
-
-    .pokemon-card img {
-        width: 100%;
-        height: auto;
-        aspect-ratio: 1 / 1;
-    }
-
-    .pokemon-name {
-        font-size: 9px;
-        margin-top: 4px;
-        line-height: 1.1;
+        gap: 8px !important;
+        padding: 12px !important;
     }
 
     .completions-page #box-container {
-        grid-template-columns: repeat(2, 1fr) !important;
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)) !important;
     }
 
     #pokemon-modal {
