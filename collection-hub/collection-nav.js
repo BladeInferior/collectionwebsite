@@ -46,6 +46,26 @@ fetch('../navbar.html')
         if (window.location.pathname.endsWith('collectionhub.html')) {
             hubLink.classList.add('active-link');
         }
+
+        // Mobile dropdown toggle
+        const toggleBtn = document.createElement('button');
+        toggleBtn.className = 'nav-toggle';
+        toggleBtn.textContent = '☰';
+        toggleBtn.setAttribute('aria-label', 'Toggle navigation menu');
+
+        nav.insertBefore(toggleBtn, linksContainer);
+
+        toggleBtn.addEventListener('click', () => {
+            linksContainer.classList.toggle('open');
+            toggleBtn.textContent = linksContainer.classList.contains('open') ? '✕' : '☰';
+        });
+
+        // Close the dropdown if a link is tapped (mobile UX nicety)
+        linksContainer.querySelectorAll('a').forEach(a => {
+            a.addEventListener('click', () => {
+                linksContainer.classList.remove('open');
+                toggleBtn.textContent = '☰';
+            });
+        });
     });
 
-    

@@ -57,8 +57,23 @@ async function loadLatestWatch() {
             "https://letterboxd.com/bladeinferior/";
 
         const posterEl = document.getElementById("latest-film-poster");
-        posterEl.src = data.poster || "";
-        posterEl.alt = data.cleanTitle || "Latest film poster";
+        const posterFallback = document.getElementById("latest-film-poster-fallback");
+
+        if (data.poster) {
+            posterEl.onload = () => {
+                posterEl.style.display = "block";
+                posterFallback.style.display = "none";
+            };
+            posterEl.onerror = () => {
+                posterEl.style.display = "none";
+                posterFallback.style.display = "flex";
+            };
+            posterEl.src = data.poster;
+            posterEl.alt = data.cleanTitle || "Latest film poster";
+        } else {
+            posterEl.style.display = "none";
+            posterFallback.style.display = "flex";
+        }
 
         renderHeart(data.liked);
         renderStars(data.rating);

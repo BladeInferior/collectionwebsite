@@ -69,10 +69,45 @@
     color: gold;
 }
 
-@media (max-width: 900px) {
-    .site-nav.collection-theme .site-nav-links {
+.nav-toggle {
+    display: none;
+    background: transparent;
+    border: 1px solid rgba(212, 175, 55, 0.3);
+    color: gold;
+    font-size: 1.3rem;
+    padding: 6px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+
+    .site-nav.collection-theme {
         flex-wrap: wrap;
-        justify-content: flex-end;
-        gap: 8px;
+        padding: 12px 20px;
+    }
+
+    .site-nav.collection-theme .nav-toggle {
+        display: block;
+    }
+
+    .site-nav.collection-theme .site-nav-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        gap: 4px;
+        margin-top: 12px;
+        padding-top: 12px;
+        border-top: 1px solid rgba(212, 175, 55, 0.15);
+    }
+
+    .site-nav.collection-theme .site-nav-links.open {
+        display: flex;
+    }
+
+    .site-nav.collection-theme .site-nav-links a {
+        width: 100%;
+        text-align: left;
+        padding: 10px 14px;
     }
 }

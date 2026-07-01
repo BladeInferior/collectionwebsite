@@ -1474,11 +1474,6 @@ body::before {
     display: none !important;
 }
 
-.popfigures-page.list-mode #box-container {
-    grid-template-columns: repeat(6, 1fr);
-    max-width: 1200px;
-}
-
 .sleeves-page.page-mode #box-container {
     display: grid;
     gap: 12px;

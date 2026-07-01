@@ -426,8 +426,31 @@ footer{
     margin-top: 6px;
 }
 
+.feed-item-media {
+    position: relative;
+}
+
+#latest-film-poster {
+    display: none; /* hidden until a valid src loads successfully */
+}
+
+.poster-fallback {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    aspect-ratio: 2 / 3;
+    background: linear-gradient(145deg, #202020, #171717);
+    border: 1px solid #333;
+    border-radius: 8px;
+    color: var(--secondary);
+    font-size: 13px;
+    padding: 12px;
+}
+
 /* Stack sidebar on top and switch to horizontal scroll on small screens */
-@media (max-width: 860px) {
+@media (max-width: 768px) {
     .page-layout {
         flex-direction: column;
     }
