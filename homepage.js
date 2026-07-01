@@ -1,34 +1,73 @@
-async function loadLatestWatch(){
+function renderHeart(liked) {
+    const el = document.getElementById("latest-film-heart");
+    el.textContent = liked ? "♥" : "♡";
+    el.classList.toggle("liked", !!liked);
+}
 
-    try{
+function renderStars(rating) {
+    const starsEl = document.getElementById("latest-film-stars");
+    starsEl.innerHTML = "";
 
-        const data = await fetch("latest-film.json")
-            .then(r=>r.json());
+    const value = parseFloat(rating) || 0;
+
+    for (let i = 1; i <= 5; i++) {
+        const star = document.createElement("span");
+        star.className = "star";
+        star.textContent = "★"; // empty/outline base
+
+        // how much of this star should be filled (0, 0.5, or 1)
+        let fillAmount = Math.min(Math.max(value - (i - 1), 0), 1);
+
+        if (fillAmount > 0) {
+            const fill = document.createElement("span");
+            fill.className = "fill";
+            fill.textContent = "★";
+            fill.style.width = (fillAmount * 100) + "%";
+            star.appendChild(fill);
+        }
+
+        starsEl.appendChild(star);
+    }
+}
+
+async function loadLatestWatch() {
+    try {
+        const res = await fetch("https://orange-bar-b027.harrycummins.workers.dev/", {
+            cache: "no-store"
+        });
+
+        if (!res.ok) {
+            const errBody = await res.json().catch(() => null);
+            console.error("Worker error body:", errBody);
+            throw new Error("Worker request failed: " + res.status);
+        }
+
+        const data = await res.json();
 
         document.getElementById("latest-film-title").textContent =
-            data.title;
-
-        document.getElementById("latest-film-rating").textContent =
-            data.rating;
+            data.cleanTitle || "Unknown Title";
 
         document.getElementById("latest-film-date").textContent =
-            data.date;
+            data.watchedDate || "";
+
+        document.getElementById("latest-film-review").textContent =
+            data.review || "";
 
         document.getElementById("latest-film-card").href =
-            data.link;
+            "https://letterboxd.com/bladeinferior/";
 
-        document.getElementById("latest-film-poster").src =
-            data.poster;
+        const posterEl = document.getElementById("latest-film-poster");
+        posterEl.src = data.poster || "";
+        posterEl.alt = data.cleanTitle || "Latest film poster";
 
+        renderHeart(data.liked);
+        renderStars(data.rating);
+
+        console.log("Latest film data:", data);
+
+    } catch (err) {
+        console.error("Latest film load failed:", err);
     }
-
-    catch(err){
-
-        console.error(err);
-
-    }
-
 }
 
 loadLatestWatch();
-

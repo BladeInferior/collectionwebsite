@@ -16,23 +16,8 @@
 <body class="home-page">
 
     <div id="navbar"></div>
-
-    <script>
-    fetch('../navbar.html')
-        .then(res => res.text())
-        .then(data => {
-            document.getElementById('navbar').innerHTML = data;
-
-            const basePath =
-                window.location.hostname === "bladeinferior.github.io"
-                    ? "/harryswebsite/"
-                    : "/";
-
-            document.querySelectorAll('#navbar [data-page]').forEach(link => {
-                link.href = basePath + link.dataset.page;
-            });
-        });
-    </script>
+    
+    <script src="collection-nav.js"></script>
 
     <main class="page-content">
 
