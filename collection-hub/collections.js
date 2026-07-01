@@ -1199,3 +1199,84 @@ if (toggleBtn) {
         renderItems();
     });
 }
+
+// =========================
+// MOBILE FILTER SUMMARY PANEL
+// =========================
+(function initMobileFilterPanel() {
+
+    const toggleBtn = document.createElement("div");
+    toggleBtn.id = "mobile-filter-toggle";
+    toggleBtn.textContent = "⚙";
+    document.body.appendChild(toggleBtn);
+
+    const panel = document.createElement("div");
+    panel.id = "mobile-filter-panel";
+    panel.innerHTML = `<h4>Active Filters</h4><div id="mobile-filter-list"></div>`;
+    document.body.appendChild(panel);
+
+    const listEl = panel.querySelector("#mobile-filter-list");
+
+    toggleBtn.addEventListener("click", () => {
+        panel.classList.toggle("open");
+        if (panel.classList.contains("open")) refreshMobileFilterPanel();
+    });
+
+    function getActiveFilterElements() {
+        const selectors = [
+            ".generation-filter-btn.active",
+            ".generation-filter-btn.game-filter-active",
+            ".game-filter-btn.game-filter-active",
+            ".game-filter-btn.include-btn.game-filter-active",
+            ".game-filter-btn.exclude-btn.game-filter-active",
+            "#missing-dex-filter.active",
+            "#untagged-filter.active",
+            "#toggle-front-image.active"
+        ];
+        return Array.from(document.querySelectorAll(selectors.join(",")));
+    }
+
+    function refreshMobileFilterPanel() {
+
+        listEl.innerHTML = "";
+        let count = 0;
+
+        if (typeof searchInput !== "undefined" && searchInput.value.trim()) {
+            count++;
+            const pill = document.createElement("div");
+            pill.classList.add("mobile-filter-pill");
+            pill.innerHTML = `<span>Search: "${searchInput.value.trim()}"</span><span>✕</span>`;
+            pill.addEventListener("click", () => {
+                clearBtn.click();
+                refreshMobileFilterPanel();
+            });
+            listEl.appendChild(pill);
+        }
+
+        getActiveFilterElements().forEach(el => {
+            count++;
+            const label = el.textContent.trim() || "Filter";
+            const pill = document.createElement("div");
+            pill.classList.add("mobile-filter-pill");
+            pill.innerHTML = `<span>${label}</span><span>✕</span>`;
+            pill.addEventListener("click", () => {
+                el.click();
+                refreshMobileFilterPanel();
+            });
+            listEl.appendChild(pill);
+        });
+
+        if (count === 0) {
+            listEl.innerHTML = `<div class="mobile-filter-empty">No filters active</div>`;
+        }
+
+        toggleBtn.classList.toggle("has-active", count > 0);
+    }
+
+    document.addEventListener("click", () => {
+        setTimeout(refreshMobileFilterPanel, 50);
+    });
+
+    refreshMobileFilterPanel();
+
+})();
